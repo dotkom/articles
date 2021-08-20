@@ -13,13 +13,17 @@ NTNU og dets fakulteter har i mange år stilt med en rekke tjenester som student
 ![Mann med tydelige psykiske problemer peker på noe grafikk over en ikke-deskript bakgrunn. Hvordan havnet han her? Det vil jeg vite, både bokstavelig talt og metaforisk sånn "hvordan kunne han synke så lavt?" osv.](https://online.ntnu.no/media/images/responsive/42bb453a-56d7-474d-98ee-1ecfc4f2d844.png)
 
 ### Furutjenesten
+
 En gang i blant får man som student behov for å skaffe juletrær til kollektivet. Av erfaring er det dessverre dårlig stemning å sage ned trærne i Høyskoleparken, og det er selvsagt usaklig å faktisk kjøpe et legitimt tre. Derfor har NTNU opprettet Furutjenesten, som fikser alt dette for deg. Å massakrere en skog er lukrativ forretning, det er jo derfor universitetet eier så mye land ved Dragvoll. Campuset der oppe er bare en liten side-gig. Jada, denne tjenesten er helt nødvendig. Det har ingenting å gjøre med at jeg bare prøver å komme på dårlige nødrim.
 
 ### Kantinetjenesten
+
 Disse gutta koker, men det er ikke pasta i gryta, for å si det sånn! Kantinetjenesten hjelper nemlig med helt andre problemer. Har du en øving du bare virkelig ikke gidder å tenke på engang, tilbyr kantinedama Wenche å hjelpe deg. De vil nemlig gjøre innleveringen for deg, dog må du forvente litt tvilsom kvalitet. Uansett har du mange typer øvinger å velge mellom! Du kan kjøre kokt øving, stekt øving, ovnsbakt øving, fåriøving, flamberte øvinger, vegetarøving, kyllingvinger og øvinger, øvingfajitas, svensk surstöving, og dampet øving. Bare fantasien setter grenser! Pass bare på å aldri bestille suppe til lunsj. Har hørt den er laget av en masteroppgave i Case Based Reasoning fra 2007. Bleh.
 
 ### Førstegangstjenesten
+
 Dette er kanskje den mest urovekkende tjenesten på listen, da tjenesten faktisk blir utført av deg, ikke NTNU. Vårt kjære universitet har visst vurdert UiO som Norges største trussel, så de utstyrer studentene med verdens farligste våpen. Kunnskap. Dessuten lærer de bort kampsport med utstyr du kun finner på lesesal. Hvis du ikke kan lemleste noen med en vinkelmåler, så har du dessverre ikke det som skal til for å bli en del av NTNUs spesialstyrker. Om det noen gang blir krig, er det bare én ting du trenger huske på: Det viktigste er ikke hvor mange du dreper, det er vennene du får underveis!
 
 ### Klatretjenesten
+
 Vi vet alle hvor forferdelig det er å komme seg opp til Gløshaugen via gressletten ved Elgeseter. Bakken er bratt som fanden, høyere enn en 15-åring som slikker gulvet på et rave, og mer sumpete enn bunnen av en boks med gammel hermetisk mais. Derfor stiller Klatretjenesten med alt av utstyr for å dekke dine vertikale behov. Det er bare å forberede seg på dagstur, for campus flytter seg ikke med det første. Har du ikke fått i deg morgenkaffen enda? Null problem! Klatretjenesten tilbyr også bærehjelp og gir deg en underbetalt sherpa for dagen, om behovet skulle oppstå. Hvis du spør pent, så er det godt mulig sherpaen kan bære deg opp også. Det er kanskje ikke en Segway, men man føler seg i alle fall multikulturell. Alternativt kan du gå rundt bakken og ta heisen fra Realfagsbygget.

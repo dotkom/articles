@@ -13,16 +13,16 @@ Under generalforsamlingen ble følgende gjeng valgt inn det nye Hovedstyret. Gra
 
 ![Det nye Hovedstyret!  ](https://online.ntnu.no/media/images/responsive/d9afd947-bbe3-49ac-9fc0-17718fe74bff.jpeg)
 
-Tirsdag 25.04.2017 var det duket for årets generalforsamling i Online. Da ble det valgt nye ledere, og etter mange flotte appeller og spennende spørsmålsrunder ble følgende gjeng valgt inn i det nye Hovedstyret: 
+Tirsdag 25.04.2017 var det duket for årets generalforsamling i Online. Da ble det valgt nye ledere, og etter mange flotte appeller og spennende spørsmålsrunder ble følgende gjeng valgt inn i det nye Hovedstyret:
 
 - Leder: Didrik Pemmer Aalen
 - Nestleder: Hege Louise Borge
-- Bankom: Christoffer Skar Lofsberg 
+- Bankom: Christoffer Skar Lofsberg
 - Arrkom: Edvard Gjessing Bakken
 - Bedkom: Emil Schrøder
 - Dotkom: Aslak Hollund
 - Fagkom: Henrik Munkeberg
-- Prokom: Peter Rydberg 
-- Trikom: Taran Ruge 
+- Prokom: Peter Rydberg
+- Trikom: Taran Ruge
 
 Gratulerer til alle som ble valgt, og takk til de som møtte opp på generalforsamlingen!

@@ -15,7 +15,7 @@ Klokken har akkurat passert 12:00 på ukens hviledag, men det stopper ikke en av
 
 ### Bryggeprosessen
 
-Tord leder an bryggeshowet og viser hva som gjøres for få ut øl i andre enden. Det viser seg å være litt av en prosess, alt fra å vaske og sterilisere kar, til det å faktisk brygge. Første del av bryggeprosessen er å få sukkeret ut av kornet, også kalt mesking. En times lang prosess hvor man står og rører godt i blandingen av vann og korn. Underveis tappes væsken (vørter) ut i kar, som helles oppi igjen for å få bedre sirkulasjon. 
+Tord leder an bryggeshowet og viser hva som gjøres for få ut øl i andre enden. Det viser seg å være litt av en prosess, alt fra å vaske og sterilisere kar, til det å faktisk brygge. Første del av bryggeprosessen er å få sukkeret ut av kornet, også kalt mesking. En times lang prosess hvor man står og rører godt i blandingen av vann og korn. Underveis tappes væsken (vørter) ut i kar, som helles oppi igjen for å få bedre sirkulasjon.
 Og man merker at det blandes godt sammen, ved all duggen som dannes på de små kjellervinduene.
 
 ![Ølbrygging](http://i67.tinypic.com/vybqea.jpg)
@@ -29,5 +29,5 @@ Etter en halvtimes venting skal humlen oppi for å sette smak på brygget. Og de
 
 ### Vellykket bryggekurs
 
-Og med dette er Ontaps første bryggekurs ferdig, og onlinerne som var tilstede, vender snuta fornøyd hjem. Tord Standnes har stått for et flott bryggekurs, og er selv fornøyd. 
+Og med dette er Ontaps første bryggekurs ferdig, og onlinerne som var tilstede, vender snuta fornøyd hjem. Tord Standnes har stått for et flott bryggekurs, og er selv fornøyd.
 Han sier: «Vi fikk brygget en ‘weissbier' i rolig tempo og diskuterte ølbrygging.» Tord sier takk for seg og ønsker velkommen tilbake om to uker, da gjæringsprosessen er over og den ferdig bryggede ølen skal på flasker.

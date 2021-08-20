@@ -17,7 +17,7 @@ Enhetene som blir samlet inn vil bli sendt til Alternativ Data hvor de blir sikk
 
 Har du, noen i din familie eller andre bekjente mobiltelefoner, tablets eller andre små enheter med lagringsmedier dere ikke lenger bruker eller som er ødelagte? Ønsker dere å kaste dem på en sikker måte? Da er denne innsamlingen en gyllen mulighet!
 
-[Alternativ Data](https://www.ad.no/) er et datterselskap av [Elretur](http://www.elretur.no/). De tar imot enheter med lagringsmedier, sletter disse trygt slik at informasjonen på de ikke kan gjenopprettes og enten gjenvinner eller selger disse videre. 
+[Alternativ Data](https://www.ad.no/) er et datterselskap av [Elretur](http://www.elretur.no/). De tar imot enheter med lagringsmedier, sletter disse trygt slik at informasjonen på de ikke kan gjenopprettes og enten gjenvinner eller selger disse videre.
 
 Vi oppfordrer derfor alle Onlinere til å hjelpe til! Du kan bidra til innsamlingen med å gi oss slike enheter i stedet for å kaste de på annet vis. Vi oppfordrer også til å spørre hjemme om det finnes noen slike enheter dere kan ta med dere tilbake etter ferien.
 

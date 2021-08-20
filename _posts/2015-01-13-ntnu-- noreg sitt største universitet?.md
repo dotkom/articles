@@ -12,5 +12,6 @@ Kunnskapsdepartementet har bestemt at utvalget av høgare utdanningar skal strø
 
 Bakgrunn for saka og eit meir utfyllande skriv kan du lese på i eit [innlegg](http://www.studenttinget.no/saks0/) av studentrepresentant i NTNU-styret Elise Landsem. Mesteparten av detaljane om korleis ei eventuell samanslåing vil foregå er ikkje på plass, og det er ikkje lett å forutsei kva ein fusjon vil ha å sei for oss studentar. NTNU kan ende opp med å bli Noreg sitt største universitet, og utdanningstilbodet kan bli forandra. Den endelige avgjersla gjerast den **28. januar.**
 
-### Du kan bli hørt!
+### Du kan bli hørt
+
 Elise Landsem og Christian Tangene som er studentrepresentantane i NTNU-styret er to av dei som skal være med på å avgjere kva NTNU bestemmer seg for. Dei er veldig opne for innspel frå alle studentar, og Online oppfordrar alle som har ei meining om saka til å sende ein mail til [styrerep@studenttinget.no](mailto:styrerep@studenttinget.no), eller å ta turen innom Studenttingskontoret.

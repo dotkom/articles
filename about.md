@@ -15,4 +15,3 @@ Ekskursjoner, kurs og presentasjoner fra bedrifter er ukentlige hendelser hos os
 I de siste årene har Online hatt en eventyrlig vekst på alle områder, og har etablert seg som en betydningsfull organisasjon i Trondheim. Fokus på samarbeid og kommunikasjon har drevet frem mange gode initiativer hvor vi har stått langt fremme som pådrivere.
 
 Hos oss vil du stifte nye vennskap som vil vare livet ut, og hjelpe deg når du skal ut i arbeidslivet. Du vil trives i Online!
-

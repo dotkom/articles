@@ -14,5 +14,5 @@ Stor klem fra prokom <3
 
 PS: Trenger dere X-tra god stemning på fest? Prøv disse reglene!
 
- * **Blånekt = 6 straffeslurker**
- * **Hvis du slår 2-5 på terningen må du drikke antall slurker som det er prikker. 1 og 6 gjør at du kan dele ut!**
+* **Blånekt = 6 straffeslurker**
+* **Hvis du slår 2-5 på terningen må du drikke antall slurker som det er prikker. 1 og 6 gjør at du kan dele ut!**

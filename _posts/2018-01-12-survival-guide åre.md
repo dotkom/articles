@@ -11,7 +11,7 @@ Er du enda ikke lei av å høre om ÅREts tur, ÅREts store happening, ÅREts sj
 
 ![åre](https://online.ntnu.no/media/images/responsive/899111d9-669e-4dbe-a9e4-6f485c8f9590.png)
 
-####ÅRETS FJELLVETTREGLER
+#### ÅRETS FJELLVETTREGLER
 
 **1.** Legg ikke ut på langtur uten fullt batteri på mobilen og nødlader i lomma.
 
@@ -29,7 +29,6 @@ Er du enda ikke lei av å høre om ÅREts tur, ÅREts store happening, ÅREts sj
 
 **8.** Vend i tide – det er ingen skam å snu flaska.
 
-**9.**	Spar på kreftene gutta, det er lett å finne drømmedama i et hav av Kari Traa-superundertøy.
-
+**9.** Spar på kreftene gutta, det er lett å finne drømmedama i et hav av Kari Traa-superundertøy.
 
 Selv om disse fjellvettreglene er viktige å etterstrebe, må en for all del ikke glemme å drikke vann mellom slagene, ha godt humør og ta vare på hverandre! God tur til Åre, kjære medstudenter! ;)

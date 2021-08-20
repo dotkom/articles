@@ -12,4 +12,4 @@ Vurderer du å søke informatikk på NTNU?
 
 ![Hovedbygget på Gløshaugen, sett fra andre siden av broen ved Idrettssenteret.](https://online.ntnu.no/media/images/responsive/02be652b-571b-4fa4-92b0-e73c4493e268.jpeg)
 
-Thor Håkon viser deg rundt på informatikkstudiet, og på linjeforeningskontoret. Ses vi til høsten? Søknadsfristen er 15. april. 
+Thor Håkon viser deg rundt på informatikkstudiet, og på linjeforeningskontoret. Ses vi til høsten? Søknadsfristen er 15. april.

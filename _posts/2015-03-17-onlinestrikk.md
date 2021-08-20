@@ -7,9 +7,7 @@ tags:
 date: "2015-03-17T00:00:00+01:00"
 last_edited: "2015-11-01T06:26:15.943012+01:00"
 ---
-Du såg dei kanskje i Åre, Signe og Agnete ikledd stilige og nystrikka ullgenserar? Tenkte du "Åh, ein slik har eg og lyst på!"? Vel, då har vi gode nyheiter til deg, mønsteret og oppskrift er tilgjengeleg på Online-wikien! 
-
-
+Du såg dei kanskje i Åre, Signe og Agnete ikledd stilige og nystrikka ullgenserar? Tenkte du "Åh, ein slik har eg og lyst på!"? Vel, då har vi gode nyheiter til deg, mønsteret og oppskrift er tilgjengeleg på Online-wikien!
 
 ![Agnete og Signe står bak de flotteste strikkegenserene på haugen.](https://online.ntnu.no/media/images/responsive/745fe7bc-9196-4063-9064-386c94d97623.png)
 

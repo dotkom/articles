@@ -8,7 +8,7 @@ tags:
 date: "2014-03-17T00:00:00+01:00"
 last_edited: "2015-11-01T06:28:55.189902+01:00"
 ---
-Hepatittsprøytene er satt, depositum er betalt inn og pakkelistene er nesten påbegynt. 30 informatikere skal snart på et 16 dager langt eventyr til det fjerne østen. 
+Hepatittsprøytene er satt, depositum er betalt inn og pakkelistene er nesten påbegynt. 30 informatikere skal snart på et 16 dager langt eventyr til det fjerne østen.
 
 ![Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 2014.](https://online.ntnu.no/media/images/responsive/8ac39139-2ab7-464a-a4e6-23aed7725522.jpeg)
 
@@ -19,14 +19,16 @@ Det hele begynte for et snaut år siden, da en gruppe på ni mennesker samlet se
 Vi hadde ingen erfaring å støtte oss på, og det var heller ikke sikkert at prosjektet ble en realitet da vi først begynte å planlegge. Nå kan vi meddele at det blir tur, og at turen går til Kina.
 
 #### Givende dugnadsarbeid
-Å reise til Kina koster penger, og eksKom planla fra første stund å forsøke å redusere utgiftene for den enkelte student. Den nystartede fagdagen «Tech Talks» ble derfor arrangert med formål å skaffe penger til turen. Denne ble gjennomført på en god måte til tross for syke foredragsholdere. 
+
+Å reise til Kina koster penger, og eksKom planla fra første stund å forsøke å redusere utgiftene for den enkelte student. Den nystartede fagdagen «Tech Talks» ble derfor arrangert med formål å skaffe penger til turen. Denne ble gjennomført på en god måte til tross for syke foredragsholdere.
 
 Den røde tråden på årets arrangement var webteknologi, og foreløpige tilbakemeldinger peker mot at både tilhørere og foredragsholdere syntes Tech Talks fikk en god start. Bedriftene virket også positive til å komme tilbake neste år. Mye ligger dermed til rette for at neste års komité kan nyte godt av erfaringene til eksKom14, lage et enda bedre og større arrangement og på den måten tjene mer penger til turen.
 
 #### Snart tur
+
 I skrivende stund er det litt under en måned til avreise. Planleggingen er ikke helt ferdig, men det vil både bli besøk hos bedrifter og tid til turisme på høyt nivå. For de som lurer på om vi kommer oss like hele gjennom denne strabasen, vil det være en artikkel i Offline nr. 2 2014 hvor du både kan se bilder og lese om turen.
 
-Planleggingen for neste års reise er allerede i gang, og 18. mars holdes det et informasjonsmøte der alle som er interessert i å stille til eksKom15 kan komme. 
+Planleggingen for neste års reise er allerede i gang, og 18. mars holdes det et informasjonsmøte der alle som er interessert i å stille til eksKom15 kan komme.
 
 Undertegnede kan i alle fall anbefale å søke, da det gir en god mulighet til å påvirke reisemål og felles opplegg samtidig som du lærer veldig mye.  EksKom14 har lært mye det siste året, så neste års komité får en langt enklere jobb.
 

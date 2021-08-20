@@ -16,24 +16,25 @@ Da er det endelig tid for påske og de fleste av oss tar litt velfortjent fri fr
 
 Her er et par tips til litt hva du kan gjøre når du blir litt rastløs av mangelen på øvingsfrister.
 
-####Påskekrim
-Sjekk ut P3Morgens Påskekrim for å få påfyll av ekte norsk kvalitetskrim. Møt Askepott, Gullmannen og Herr Papptallerken i en setting av uforglemmelig  og spenningsfylt påsketheme. 
+#### Påskekrim
+
+Sjekk ut P3Morgens Påskekrim for å få påfyll av ekte norsk kvalitetskrim. Møt Askepott, Gullmannen og Herr Papptallerken i en setting av uforglemmelig  og spenningsfylt påsketheme.
 [P3Morgens Påskekrim](https://tv.nrk.no/serie/p3morgens-paaskekrim/MYNR52002117/sesong-1/episode-1)
 
-####Onlines Podcast
- Online har fått podcast! Podcasten PodLine er laget online av onlinere for onlinere.  Det ryktes også at denne har fått score 10/10 av samtligere skigåere som noe de vil anbefale sin nærmeste venn å ha på øret. 
+#### Onlines Podcast
+
+ Online har fått podcast! Podcasten PodLine er laget online av onlinere for onlinere.  Det ryktes også at denne har fått score 10/10 av samtligere skigåere som noe de vil anbefale sin nærmeste venn å ha på øret.
 [Hør](https://soundcloud.com/podline/pilot-1 ),
 [Lik](https://www.facebook.com/OnlinePodLine/)
 
+#### Ny utgave av Offline
 
-####Ny utgave av Offline 
 Er du litt mer i lesehjørnet har Offline kommet ut med en ny utgave. Les den her:
 [PDF](https://online.ntnu.no/media/images/offline/Offline_nr1_web_-_2018_.pdf  ),
 
+#### Quiz
 
-####Quiz
 Så er ikke det ekte påske uten litt quiz, så her er en liten Påskequiz du kan bryne familien din med. Proppet med easter eggs og andre påskerelaterte quiz-spørsmål.  (Svarene er opp ned nederst på siden)
-
 
 **1.** Office 1997 hadde flere kjente Easter Eggs, hva var gjemt i Excel? a) En flysimulator, b) Juksekoder fra age of empires, c) Bill Gates biografi
 
@@ -43,9 +44,9 @@ Så er ikke det ekte påske uten litt quiz, så her er en liten Påskequiz du ka
 
 **4.**  Hvilket Sør-Amerikansk land er det påskeøya hører til?
 
-**5.** Hva skjer om du søker på «askew» på google? 
+**5.** Hva skjer om du søker på «askew» på google?
 
-**6.** Hvilke tre dyr er assosiert med påske? 
+**6.** Hvilke tre dyr er assosiert med påske?
 
 **7.** Open Office Calc innehoder et spill. Hvilket spill er det? a) Space Invaders, b) Pac Man, c) Pong
 
@@ -53,9 +54,9 @@ Så er ikke det ekte påske uten litt quiz, så her er en liten Påskequiz du ka
 
 **9.** Hvilken versjon av Android viser ‘Nyan Droid’ animasjon hvis du trykker på android version number i instillinger?  a) Gingerbread,  b) Ice Cream Sandwich, c) Nougat
 
-**10.** Hvilken farge er bladene på påskeliljen? 
+**10.** Hvilken farge er bladene på påskeliljen?
 
-Svar: 
+Svar:
 [Svarene ligger på pastebin](https://pastebin.com/iGm10bJ1)
 
 Kilder:  [Quiz](https://quizforalle.no/quiz-med-fasit-100-quiz-sporsmal-og-svar/ ),  [påskequiz](https://quizforalle.no/25-paskequiz-sporsmal-og-svar/) ,  [Easter Eggs](https://www.silicon.co.uk/mobility/tech-easter-eggs-209453 ) . [Bilde](https://pixabay.com/no/easter-egg-p%C3%A5ske-fargede-fargerike-3123103/)

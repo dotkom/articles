@@ -20,11 +20,9 @@ Vil du være med å arrangere og planlegge fadderukene 2017? Det er ingen krav o
 
 Årlig drar 3. klasse på ekskursjon, som for mange er et høydepunkt i studietiden. Dersom du vil være med på å planlegge ekskursjonen i 2018, kan du nå søke eksom! De som ikke har vært med på ekskursjon tidligere, og går i 2. klasse eller høyere kan søke.
 
-#### Applikasjonskomiteen 
+#### Applikasjonskomiteen
 
 Er du interresert i å jobbe på kodeprosjekter med andre i Online? Applikasjonskomiteen skal nå starte opp igjen, og ønsker mange nye og motiverte onlinere på laget! Alle kan søke.
-
-
 
 [Søk velkom, ekskom eller appkom her!](https://docs.google.com/forms/d/e/1FAIpQLSeTKmE_6HO-4pvxopbH6CjICUy0GkRfgQD7_XiAAdcRisOq2Q/viewform?c=0&w=1)
 

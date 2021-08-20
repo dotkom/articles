@@ -13,4 +13,5 @@ Det er eksamenstid, og mange onlinere føler seg mer presset enn en hamster i en
 ![Kodekalenderbilde, dette har ikke jeg laget, nei og nei](https://online.ntnu.no/media/images/responsive/46713190-483e-4102-a4ae-8830f9667faf.jpeg)
 
 ### Hovedsamarbeidsmessias
+
 “Åh, nå skulle jeg gjerne hatt en slags kalender hvor jeg for eksempel kunne kode for en kul bedrift, og kanskje til og med vinne noe til slutt. Eller noe sånt.”, tenker du. Så spesifikt! Knowit har nemlig arrangert akkurat en slik adventskalender, og første luke åpner allerede i morgen. Og det slutter ikke der (wow!), for det åpnes nemlig én ny luke til hver dag frem til jul. Da har du alltid noe å glede deg til! Til slutt vil du også ha muligheten til vinne en telefon eller et nettbrett, så her finnes det absolutt ingen ulemper ved å delta. [Klikk deg inn her](https://julekalender.knowit.no/) for å være med i Knowit sin julekalender for 2019. Happy coding!

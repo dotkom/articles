@@ -16,4 +16,3 @@ See [jekyll-docs](https://jekyllrb.com/docs/) for prerequisits.
 ```sh
 bundle exec jekyll serve
 ```
-

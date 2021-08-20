@@ -15,7 +15,8 @@ Det er den tiden av året! Redaksjonen har nok en gang arrangert sin svært ureg
 
 ![Bilde av en person som tegner Dickbutt og er dyster og drikker Gatorade](https://online.ntnu.no/media/images/responsive/21c229c1-27f5-471e-83f2-e40e0bb4e863.png)
 
-###Innovasjon er nøkkelen
+### Innovasjon er nøkkelen
+
 Å holde et arrangement som impliserer alkoholkonsum én dag etter Åre er mer fåfengt enn å invitere Snoop Dogg til en konfirmasjon på vestlandet. Vi burde kanskje foreslått alternative alternative arrangementer som inviterer til andre aktiviteter mens man skriver artikler om det perfekte ostesmørbrødet. Noen av forslagene våre finner du under:
 
 **Slikk og Kronikk**: Det finnes mye man kan slikke på i kontoret mens man tar en en pause fra skrivingen.  

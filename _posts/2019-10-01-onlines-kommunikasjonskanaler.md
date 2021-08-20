@@ -33,15 +33,14 @@ Er du kanskje av den typen som liker en strukturert tekst med bare det essensiel
 
 ### Plakater
 
-Dere har kanskje lagt merke til korktavlene med plakater som henger rundt om kring i A4? Disse plakatene viser som regel kommende arrangementer med informasjon om tid og sted, og ser som regel ganske smashing ut. 
+Dere har kanskje lagt merke til korktavlene med plakater som henger rundt om kring i A4? Disse plakatene viser som regel kommende arrangementer med informasjon om tid og sted, og ser som regel ganske smashing ut.
 
--- 
+--
 
 \[0]: [https://www.facebook.com/groups/1547182375336132/](https://www.facebook.com/groups/1547182375336132/)
 
 \[1]: [http://onlinentnu.slack.com](http://onlinentnu.slack.com)
 
 \[2]: [https://online.ntnu.no/profile/email/](https://online.ntnu.no/profile/email/)
-
 
 \* *Å bleste : Å informere om kommende arrangementer gjennom forskjellige informasjonskanaler.*

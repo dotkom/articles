@@ -13,58 +13,59 @@ Da var generalforsamlingen 2019 gjennomført, og Onlines gamle hovedstyre har, e
 ![Bilde av Hovedstyret 2019 liksom, like what, seff er det det](https://online.ntnu.no/media/images/responsive/ad6fc755-4eaa-47e2-9836-4a766befff4a.jpeg)
 
 ### Nye medlemmer av Fondstyret
-**Representant: Onlinemedlem**
+
+#### Representant: Onlinemedlem
 
 Nicolai Andre Dalaaker
 
-**Representant: Tidligere medlem av Hovedstyret 1**
+#### Representant: Tidligere medlem av Hovedstyret 1
 
 Christian Nyvoll
 
-**Representant: Tidligere medlem av Hovedstyret 2**
+#### Representant: Tidligere medlem av Hovedstyret 2
 
 Martin Bjerke
 
-**Representant: Medlem av Ridderordenen**
+#### Representant: Medlem av Ridderordenen
 
 Christoffer Skar Lofsberg
 
 ### Nye medlemmer av Hovedstyret
-**Leder**
+
+#### Leder
 
 August Sollesnes Solvang
 
-**Nestleder**
+#### Nestleder
 
 Henrik Liodden Munkeberg
 
-**Økonomiansvarlig**
+#### Økonomiansvarlig
 
 Kaja Sofie Lundgaard
 
-**Arrangementskomiteen**
+#### Arrangementskomiteen
 
 Alis Wilson
 
-**Bedriftskomiteen**
+#### Bedriftskomiteen
 
 Sigrun Nummedal
 
-**Drifts- og utviklingskomiteen**
+#### Drifts- og utviklingskomiteen
 
 Ole Anders Stokker
 
-**Fag- og kurskomiteen**
+#### Fag- og kurskomiteen
 
 Andreas Amundsen
 
-**Profil- og aviskomiteen**
+#### Profil- og aviskomiteen
 
 Benedicte Myrvoll
 
-**Trivselskomiteen**
+#### Trivselskomiteen
 
 Silje Marie Savland Moksnes
-
 
 **Online takker det avtroppende hovedstyret for godt gjennomført arbeid og ønsker alle i det nye styret lykke til  i̶n̶ ̶t̶h̶e̶ ̶w̶a̶r̶s̶ ̶t̶o̶ ̶c̶o̶m̶e̶ i det kommende året med lederverv!**

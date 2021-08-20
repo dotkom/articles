@@ -23,5 +23,4 @@ En lykkelig vinner kledde på seg og gikk hjem, for å så returnere ikledd dres
 
 Nettredaksjonen gratulerer Martin og Aina med seieren.
 
-
 [Reglene for ludøl kan leses her](http://folk.ntnu.no/oistes/Diverse/ludolregler.pdf)

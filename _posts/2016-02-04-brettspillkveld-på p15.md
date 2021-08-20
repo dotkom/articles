@@ -11,13 +11,13 @@ Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspill
 
 ![Nærbilde av brettspillet Game of Thrones](https://online.ntnu.no/media/images/responsive/b5de0ddb-9bc0-49c1-8567-ba9493abe120.jpeg)
 
-Kort- og brettspillkomiteen (kobKom) er den ferske nodekomiteen til trivselskomiteen. Komiteen har som hovedoppgave å arrangere brettspillkvelder for Onlinere og spre glede og interesse for kort-, brett- og rollespill. 
+Kort- og brettspillkomiteen (kobKom) er den ferske nodekomiteen til trivselskomiteen. Komiteen har som hovedoppgave å arrangere brettspillkvelder for Onlinere og spre glede og interesse for kort-, brett- og rollespill.
 
 KobKom hadde samlet troppene og lagt frem en stor mengde spill som de oppmøtte kunne prøve. På 3. etasje på P15 fant man alt fra klassikere som Hasbro Operation og Settlers of Catan, til mer omfattende spill som A Game of Thrones: The Board Game og Magic: The Gathering Strategy Board Game.
 
 Det var også satt av tid til å lage seg en karakter til rollespillet Dungeon and Dragons (DnD). KobKom skal arrangere en DnD-kveld om noen få uker der disse karakterene skal brukes. Karakteren undertegnede skapte er fighteren Ogren, en gladiator som har vunnet friheten sin etter mye motstand fra sin tidligere slavemester. Jeg gleder meg til å ta han i bruk!
 
-I løpet av brettspillkvelden snakket jeg med Mathias Nordgård Strupstad i kobKom. 
+I løpet av brettspillkvelden snakket jeg med Mathias Nordgård Strupstad i kobKom.
 
 – I dag har det vært litt over ti personer her, og vi håper det skal komme enda flere neste gang. Vi tar sikte på å arrangere minst én brettspillkveld i måneden, sier Mathias.
 
