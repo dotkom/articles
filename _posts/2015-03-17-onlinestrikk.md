@@ -1,17 +1,18 @@
 ---
 title: "Onlinestrikk"
-layout: artikkel 
+layout: artikkel
 tags: 
  - strikking
  - onlinegenser
 date: "2015-03-17T00:00:00+01:00"
 modified_date: "2015-11-01T06:26:15.943012+01:00"
 image: "/assets/Online strikkegenser.png"
-imageAlt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
+image_alt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
 author:
  - Sverre Johann Bjørke
 ingress: "Du såg dei kanskje i Åre, Signe og Agnete ikledd stilige og nystrikka ullgenserar? Tenkte du \"Åh, ein slik har eg og lyst på!\"? Vel, då har vi gode nyheiter til deg, mønsteret og oppskrift er tilgjengeleg på Online-wikien!"
-ingress_Short: "Strikk din eigen Onlinegenser!"
+ingress_short: "Strikk din eigen Onlinegenser!"
+excerpt: "Strikk din eigen Onlinegenser!"
 slug: "onlinestrikk"
 photographer: "Thor Håkon Bredesen"
 ---

@@ -1,17 +1,18 @@
 ---
 title: "Månedens triveligste"
-layout: artikkel 
+layout: artikkel
 tags: 
  - triveligste
  - månedens
 date: "2017-09-15T10:00:00+02:00"
 modified_date: "2017-09-14T21:45:05.985322+02:00"
 image: "/assets/Miriam Lillebo.png"
-imageAlt: "Miriam på Studenterhytta"
+image_alt: "Miriam på Studenterhytta"
 author:
  - Taran Ruge
 ingress: "Å organisere 130 håpefulle fadderbarn og 80 festglade faddere gjennom to uker er ingen lett oppgave. Men det klarte leder av velkom, Miriam Lillebo, med glans. Hun styrte fadderskuta i land som om hun skulle vært Jack Sparrow selv, sammen med mannskapet i velkom, som også fortjener all ros de kan få."
-ingress_Short: "Miriam Lillebo er kåret til månedens triveligste i august!"
+ingress_short: "Miriam Lillebo er kåret til månedens triveligste i august!"
+excerpt: "Miriam Lillebo er kåret til månedens triveligste i august!"
 slug: "manedens-triveligste"
 photographer: "Endre Ulberg"
 ---

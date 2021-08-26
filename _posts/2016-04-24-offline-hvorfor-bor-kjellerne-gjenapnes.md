@@ -1,6 +1,6 @@
 ---
 title: "Offline: Hvorfor bør kjellerne gjenåpnes?"
-layout: artikkel 
+layout: artikkel
 tags: 
  - kjelleren
  - realfagkjelleren
@@ -9,11 +9,12 @@ tags:
 date: "2016-04-24T17:25:28+02:00"
 modified_date: "2016-04-25T15:14:14.279089+02:00"
 image: "/assets/Vil bli et savn.png"
-imageAlt: "Uten et møtepunkt som kjellerne vil studenttilværelsen bli dårligere både under og etter fadderperioden, sier (fra venstre) fjorårets faddersjef Andreas Norstein, kjellersjef Martin Bjerke og årets faddersjef Fride Skarseth."
+image_alt: "Uten et møtepunkt som kjellerne vil studenttilværelsen bli dårligere både under og etter fadderperioden, sier (fra venstre) fjorårets faddersjef Andreas Norstein, kjellersjef Martin Bjerke og årets faddersjef Fride Skarseth."
 author:
  - Baldur Kjelsvik
 ingress: "Linjeforeningene er i harnisk, Samfundet-lederen bekymret, og Faddersjefene i knipe. Studentkjellerne er stengt på ubestemt tid, og studenter undrer: Vil de noen gang bli åpnet igjen?"
-ingress_Short: "Kjellerne er stengt, og det blir dyrt å gjenåpne dem. Bør vi likevel åpne lommeboka?"
+ingress_short: "Kjellerne er stengt, og det blir dyrt å gjenåpne dem. Bør vi likevel åpne lommeboka?"
+excerpt: "Kjellerne er stengt, og det blir dyrt å gjenåpne dem. Bør vi likevel åpne lommeboka?"
 slug: "offline-hvorfor-bor-kjellerne-gjenapnes"
 photographer: "Vebjørn Sletta"
 ---

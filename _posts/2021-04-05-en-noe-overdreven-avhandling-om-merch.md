@@ -1,6 +1,6 @@
 ---
 title: "En noe overdreven avhandling om merch"
-layout: artikkel 
+layout: artikkel
 tags: 
  - bedrift
  - merch
@@ -8,11 +8,12 @@ tags:
 date: "2021-04-05T10:00:00+02:00"
 modified_date: "2021-04-04T19:51:50.324949+02:00"
 image: "/assets/Søppelhaug. Søppelbilde..png"
-imageAlt: "Literally en søppelhaug laget i vektor. Det blir ikke mer passende/symbolsk for mine tegneferdigheter enn det her."
+image_alt: "Literally en søppelhaug laget i vektor. Det blir ikke mer passende/symbolsk for mine tegneferdigheter enn det her."
 author:
  - Aslak Hollund
 ingress: "Etter fem år på studiet, et par titalls bedriftsarrangementer, og utallige samtaler på stand gjør man seg opp noen tanker om merch. Under finner du et utvalg av disse."
-ingress_Short: "Hva kan bedriftene gjøre bedre?"
+ingress_short: "Hva kan bedriftene gjøre bedre?"
+excerpt: "Hva kan bedriftene gjøre bedre?"
 slug: "en-noe-overdreven-avhandling-om-merch"
 photographer: "Peter Rydberg"
 ---

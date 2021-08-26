@@ -1,16 +1,17 @@
 ---
 title: "Moholt-kjellerne stengt ut semesteret"
-layout: artikkel 
+layout: artikkel
 tags: 
  - kjelleren
 date: "2016-01-27T00:00:00+01:00"
 modified_date: "2016-03-04T16:16:39.361884+01:00"
 image: "/assets/Moholt studentby.png"
-imageAlt: "Kjellerne ved Moholt studentby er stengt på ubestemt tid grunnet dårlig brannsikkerhet"
+image_alt: "Kjellerne ved Moholt studentby er stengt på ubestemt tid grunnet dårlig brannsikkerhet"
 author:
  - Baldur Kjelsvik
 ingress: "Brannvesenet har etter gjennomgang av brannsikkerheten ved kjellerne stengt lokalene fram til utbedringer er gjennomført. – Kjellerne er stengt på ubestemt tid, sier Realfagkjeller-sjef, Martin Bjerke"
-ingress_Short: "Brannvesenet ikke fornøyd med brannsikkerheten til kjellerne."
+ingress_short: "Brannvesenet ikke fornøyd med brannsikkerheten til kjellerne."
+excerpt: "Brannvesenet ikke fornøyd med brannsikkerheten til kjellerne."
 slug: "moholt-kjellerne-stengt-ut-semesteret"
 photographer: "Wikipedia CC"
 ---

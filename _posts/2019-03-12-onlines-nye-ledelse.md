@@ -1,6 +1,6 @@
 ---
 title: "Onlines nye ledelse"
-layout: artikkel 
+layout: artikkel
 tags: 
  - generalforsamlingen
  - genfors
@@ -8,11 +8,12 @@ tags:
 date: "2019-03-12T14:15:00+01:00"
 modified_date: "2019-03-12T14:59:50.000655+01:00"
 image: "/assets/Hovedstyret 2019.png"
-imageAlt: "Bilde av Hovedstyret 2019 liksom, like what, seff er det det"
+image_alt: "Bilde av Hovedstyret 2019 liksom, like what, seff er det det"
 author:
  - Peter Rydberg
 ingress: "Da var generalforsamlingen 2019 gjennomført, og Onlines gamle hovedstyre har, etter et helt år som komiteenes øverste organ, tredd av. Med det har leder, nestleder, økonomiansvarlig og nyvalgte komitéledere tatt over ansvaret for Hovedstyret for det kommende året. I tillegg har Fondstyret valgt nye medlemmer. Valgenes utfall med navn på de nye lederne kan du finne under."
-ingress_Short: "Online har hatt valg!"
+ingress_short: "Online har hatt valg!"
+excerpt: "Online har hatt valg!"
 slug: "onlines-nye-ledelse"
 photographer: "Peter Rydberg"
 ---

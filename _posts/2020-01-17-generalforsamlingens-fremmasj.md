@@ -1,17 +1,18 @@
 ---
 title: "Generalforsamlingens fremmasj"
-layout: artikkel 
+layout: artikkel
 tags: 
  - generalforsamlingen
  - 2020
 date: "2020-01-17T10:00:00+01:00"
 modified_date: "2020-02-10T12:47:08.621469+01:00"
 image: "/assets/Generalforsamlingen 2020.png"
-imageAlt: "\"Generalforsamlingen 2020\", står det, hva vil du ha av meg"
+image_alt: "\"Generalforsamlingen 2020\", står det, hva vil du ha av meg"
 author:
  - Peter Rydberg
 ingress: "Onlines generalforsamling 2020 nærmer seg, og mange lederkandidater venter nok spent på å få vise frem hva de har å tilby Online som ledere og/eller\\* medlem av Hovedstyret. I tillegg skal medlemmer av Fondstyret også velges, så dette blir en kveld med mange spennende appeller og personligheter! Noen sitter kanskje på kanten og lurer på om de skal stille til en rolle eller ikke. Andre er kanskje ikke klar over hvordan man i det hele tatt går frem for å stille under generalforsamlingen eller at de faktisk passer som leder selv. Det finnes ressurser som kan hjelpe deg!"
-ingress_Short: "Har du spørsmål om valg og generalforsamling? Kontakt Valgkom!"
+ingress_short: "Har du spørsmål om valg og generalforsamling? Kontakt Valgkom!"
+excerpt: "Har du spørsmål om valg og generalforsamling? Kontakt Valgkom!"
 slug: "generalforsamlingens-fremmasj"
 photographer: "Peter Rydberg"
 ---

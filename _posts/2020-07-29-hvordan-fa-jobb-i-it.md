@@ -1,6 +1,6 @@
 ---
 title: "Hvordan få jobb i IT"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Jobbsøknad
  - CV
@@ -8,11 +8,12 @@ tags:
 date: "2020-07-29T10:00:00+02:00"
 modified_date: "2020-07-28T14:54:12.099468+02:00"
 image: "/assets/Bilde av to personer som overfører blod i håndflatene sine.png"
-imageAlt: "Inngår de en pakt? Det vil jeg ikke vite, engang. Da kommer de og tar meg."
+image_alt: "Inngår de en pakt? Det vil jeg ikke vite, engang. Da kommer de og tar meg."
 author:
  - Peter Rydberg
 ingress: "Om kort tid begynner jeg prosessen med å søke fastjobb til studietiden min omsider er ferdig. Å få seg en jobb er ingen dans på roser, spesielt om man ikke vil jobbe med å gjøre toalettene på Burger King i Skien Wifi-kompatible til man er pensjonert. Man skal ikke være kresen, men det må da være lov å ha preferanser også! Derfor tenkte jeg at jeg kunne dele noen tips til den yngre garde om hvordan man sjarmerer seg til ansettelse i IT-verdenen - før jeg i det hele tatt har begynt å prøve. Enten man søker sommerjobb eller fastjobb, er prosessen i stor grad lik. Les videre for å plukke med deg noen tips til din jobbsøkeprosess, og for å bedømme om jeg i det hele tatt selv kommer til å bli ansatt i dette århundret."
-ingress_Short: "Knus jobbsøker-koden!"
+ingress_short: "Knus jobbsøker-koden!"
+excerpt: "Knus jobbsøker-koden!"
 slug: "hvordan-fa-jobb-i-it"
 photographer: "Peter Rydberg, Sebastian Herrmann"
 ---

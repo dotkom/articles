@@ -1,17 +1,18 @@
 ---
 title: "Online vant ludøl!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - kjelleren
  - ludøl
 date: "2014-10-20T00:00:00+02:00"
 modified_date: "2015-11-01T06:33:51.166514+01:00"
 image: "/assets/Ludøl.png"
-imageAlt: "Kjelleren arrangerte Ludøl, som Online vant fortjent."
+image_alt: "Kjelleren arrangerte Ludøl, som Online vant fortjent."
 author:
  - Sverre
 ingress: "Online tok seieren for tredje år på rad da Realfagskjelleren feiret ludøl sin 27. bursdag!"
-ingress_Short: "For tredje året på rad vant Online i den edle kjellersporten."
+ingress_short: "For tredje året på rad vant Online i den edle kjellersporten."
+excerpt: "For tredje året på rad vant Online i den edle kjellersporten."
 slug: "online-vant-ludol"
 ---
 Ludøl, den edle kjellersport hvis formål er å gi studenter et meningsfylt tidsfordriv, er et spill som kombinerer det tradisjonelle ludo-spillet med en generøs mengde øl. For å feire spillets bursdag arrangeres det på Realfagskjelleren ludøl rundt den 17. oktober. I år var intet unntak.

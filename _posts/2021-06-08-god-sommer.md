@@ -1,6 +1,6 @@
 ---
 title: "God sommer!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - sommer
  - korona
@@ -8,11 +8,12 @@ tags:
 date: "2021-06-08T18:00:00+02:00"
 modified_date: "2021-06-08T17:56:56.973584+02:00"
 image: "/assets/Sky-grin-sol-maske-bilde haha.png"
-imageAlt: "Teit, små-cursed bilde av en sky som griner og har en maske med en sol på seg. ikke døm meg"
+image_alt: "Teit, små-cursed bilde av en sky som griner og har en maske med en sol på seg. ikke døm meg"
 author:
  - Peter Rydberg
 ingress: "Da var det sommer igjen, gitt! Jaggu kom den fort også, for juni snek innpå meg som lukten fra laksebiten jeg hadde latt ligge litt for lenge i kjøleskapet i forrige uke. Med den varme årstiden følger det herlige været, de gode luktene, den grønne naturen, og alt annet sommeren har å by på. Hvis man er oppmerksom, kan man faktisk se elsparkesyklene blomstre i veikanten! Selv er jeg veldig glad i lukten av nyklipt gress. Akkurat dét er kanskje litt kjipere for pollenallergikerne, da. Dere får bare ha det så gøy under dyna de neste par månedene. Bli der til november for sikkerhets skyld!"
-ingress_Short: "Sommer’n er her igjen."
+ingress_short: "Sommer’n er her igjen."
+excerpt: "Sommer’n er her igjen."
 slug: "god-sommer"
 photographer: "Peter Rydberg"
 ---

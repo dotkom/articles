@@ -1,6 +1,6 @@
 ---
 title: "Seriefrokost – Guds gave til Online"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Kontoret
  - seriefrokost
@@ -8,13 +8,14 @@ tags:
 date: "2018-02-19T09:28:23+01:00"
 modified_date: "2018-02-19T10:33:19.269066+01:00"
 image: "/assets/seriefrokost-planet-earth.png"
-imageAlt: "Fra venstre: David Attenborough, Kent (Kontorvakt mandag 10-11) , Marius (Kontorvakt mandag 11-12)"
+image_alt: "Fra venstre: David Attenborough, Kent (Kontorvakt mandag 10-11) , Marius (Kontorvakt mandag 11-12)"
 author:
  - Kent Are Torvik
 ingress: "Bildet fra venstre: David Attenborough, Kent (Kontorvakt mandag 10-11) , Marius (Kontorvakt mandag 11-12)
 
 Nå er det duket og klart for seriefrokost igjen, noe som er den beste starten på uken noen som helst oppegående mennesker kan få."
-ingress_Short: "Nå er det endelig klart for seriefrokost igjen - Kontorvakten er på plass."
+ingress_short: "Nå er det endelig klart for seriefrokost igjen - Kontorvakten er på plass."
+excerpt: "Nå er det endelig klart for seriefrokost igjen - Kontorvakten er på plass."
 slug: "seriefrokost-guds-gave-til-online"
 ---
 Serien som er valgt til dette halvåret er Planet Earth med David Attenborough. Ingenting er som å spise gratis mat mens man ser på nyfødte elgkalver hoppe rundt i elven for kos og en vill ulvejakt for spenning. Den perfekte kombinasjonen av naturens groteske utilgivelighet og naturens mirakler sammen med den ubenektelige forførende stemmen til Sir David, så er dette desidert det beste tiltaket for din mentale helse. 

@@ -1,16 +1,17 @@
 ---
 title: "Vårprogram for Realfagskjelleren"
-layout: artikkel 
+layout: artikkel
 tags: 
  - kjelleren
 date: "2015-01-26T00:00:00+01:00"
 modified_date: "2015-11-01T06:26:25.995210+01:00"
 image: "/assets/Kjellerlogo.png"
-imageAlt: "Logo for realfagkjelleren"
+image_alt: "Logo for realfagkjelleren"
 author:
  - Sverre Johann Bjørke
 ingress: "I tillegg til fredagsåpent hver fredag har Realfagskjelleren som alltid mange spennende arrangement, og dette semesteret er selvsagt ikke et unntak."
-ingress_Short: "Realfagskjelleren har mange kule arrangementer dette semesteret!"
+ingress_short: "Realfagskjelleren har mange kule arrangementer dette semesteret!"
+excerpt: "Realfagskjelleren har mange kule arrangementer dette semesteret!"
 slug: "varprogram-for-realfagskjelleren"
 ---
 Her kommer en liten oversikt over noen av denne vårens arrangement. For å holde deg oppdatert på all aktivitet på kjelleren, [lik Realfagskjelleren på facebook!](https://www.facebook.com/Realfagskjelleren)

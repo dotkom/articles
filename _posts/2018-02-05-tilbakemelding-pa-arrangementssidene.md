@@ -1,16 +1,17 @@
 ---
 title: "Tilbakemelding på arrangementssidene"
-layout: artikkel 
+layout: artikkel
 tags: 
  - arrangementssidene
 date: "2018-02-05T17:45:30+01:00"
 modified_date: "2018-02-05T17:55:00.053027+01:00"
 image: "/assets/Arrangementer med overlay.png"
-imageAlt: "Arrangementer med overlay"
+image_alt: "Arrangementer med overlay"
 author:
  - Torjus Iveland
 ingress: "Har du tilbakemelding til arrangementssidene på nettsiden? Dotkom har startet et lite prosjekt på å refaktorere arrangementssidene på nettsiden."
-ingress_Short: "Har du tilbakemelding til arrangementssidene på nettsiden?"
+ingress_short: "Har du tilbakemelding til arrangementssidene på nettsiden?"
+excerpt: "Har du tilbakemelding til arrangementssidene på nettsiden?"
 slug: "tilbakemelding-pa-arrangementssidene"
 ---
 Hei der!

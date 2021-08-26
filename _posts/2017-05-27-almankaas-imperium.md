@@ -1,17 +1,18 @@
 ---
 title: "Almankaas' imperium"
-layout: artikkel 
+layout: artikkel
 tags: 
  - imperium
  - almankaas
 date: "2017-05-27T20:11:00+02:00"
 modified_date: "2020-05-03T15:04:29.011153+02:00"
 image: "/assets/Almankaas' imperium.png"
-imageAlt: "Almankaas' imperium"
+image_alt: "Almankaas' imperium"
 author:
  - Agnete Djupvik
 ingress: "I disse dager skjer det en stille revolusjon på P15. SiT er i harnisk over tapte inntekter fra Dagens baguetter, og selv Onlinekontoret har kjent på kroppen at salget av Mama-nudler har gått ned med hele 6 kroner. Møt gutta bak storsuksessen."
-ingress_Short: "Få et eksklusivt innblikk i lunsjrevolusjonen på P15"
+ingress_short: "Få et eksklusivt innblikk i lunsjrevolusjonen på P15"
+excerpt: "Få et eksklusivt innblikk i lunsjrevolusjonen på P15"
 slug: "almankaas-imperium"
 photographer: "Agnete Djupvik"
 ---

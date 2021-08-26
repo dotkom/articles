@@ -1,6 +1,6 @@
 ---
 title: "Åpen øving med C#"
-layout: artikkel 
+layout: artikkel
 tags: 
  - C#
  - Linjeforeningskoret C#
@@ -8,11 +8,12 @@ tags:
 date: "2016-10-16T19:36:52+02:00"
 modified_date: "2016-10-16T19:37:41.798807+02:00"
 image: "/assets/Linjeforeningskoret C#.png"
-imageAlt: "Linjeforeningskoret C# og AdLib"
+image_alt: "Linjeforeningskoret C# og AdLib"
 author:
  - Andreas Drivernes og Baldur Kjelsvik
 ingress: "Datateknologis linjeforeningskor AdLib og Onlines C# har slått seg sammen og trenger nye sangere for å heve nivået, kosen og gleden! Bli med på åpen øving og finn ut at du digger det!"
-ingress_Short: "Møt opp på EL2 kl 16.15 på torsdag"
+ingress_short: "Møt opp på EL2 kl 16.15 på torsdag"
+excerpt: "Møt opp på EL2 kl 16.15 på torsdag"
 slug: "apen-oving-med-c"
 photographer: "Online"
 ---

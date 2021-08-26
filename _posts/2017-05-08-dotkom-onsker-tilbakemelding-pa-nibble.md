@@ -1,17 +1,18 @@
 ---
 title: "Dotkom ønsker tilbakemelding på Nibble!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Kontoret
  - nibble
 date: "2017-05-08T20:05:00+02:00"
 modified_date: "2017-05-09T16:52:07.668037+02:00"
 image: "/assets/Nibble med tekst over.png"
-imageAlt: "Nibble med tekst over "
+image_alt: "Nibble med tekst over "
 author:
  - Håkon Solbjørg
 ingress: "\"Nibble\" er prosjektnavnet på betalingssystemet på kontoret. Det har stått på Onlinekontoret i omtrent et år nå, og forrige uke ble det lansert en helt ny versjon av systemet! Nå ønsker dotkom din feedback for å kunne gjøre det enda bedre."
-ingress_Short: "Har du tilbakemelding til betalingssystemet på kontoret?"
+ingress_short: "Har du tilbakemelding til betalingssystemet på kontoret?"
+excerpt: "Har du tilbakemelding til betalingssystemet på kontoret?"
 slug: "dotkom-onsker-tilbakemelding-pa-nibble"
 ---
 Betalingssystemet ser kanskje ikke så forskjellig ut på utsiden, men "under panseret" er hele kodebasen skrevet om fra scratch. Dette ble i hovedsak gjort for å samle kodebasen til dotkom i teknologier som flere har kjennskap til. Versjon 1 av Nibble ble skrevet i AngularJS, og versjon 2 ble skrevet i React.

@@ -1,6 +1,6 @@
 ---
 title: "Kodekalender med Knowit"
-layout: artikkel 
+layout: artikkel
 tags: 
  - knowit
  - kodekalender
@@ -8,11 +8,12 @@ tags:
 date: "2019-11-30T17:25:00+01:00"
 modified_date: "2019-11-30T17:18:36.081381+01:00"
 image: "/assets/Kodekalender by Knowit.png"
-imageAlt: "Kodekalenderbilde, dette har ikke jeg laget, nei og nei"
+image_alt: "Kodekalenderbilde, dette har ikke jeg laget, nei og nei"
 author:
  - Peter Rydberg
 ingress: "Det er eksamenstid, og mange onlinere føler seg mer presset enn en hamster i en oksygentank. Eksamener skal gjennomføres, resultater skal oppnås og nudler skal fortæres. Spesielt ille blir det når snøen daler og alt man vil gjøre er å rulle rundt i det hvite pudderet som Tony Montana på en tirsdagskveld. Julestemningen ruger i bakhodet, men det er alltid noe som føles galt. Hvorfor stjal NTNU jula? Har NTNU lov til det? Jeg vil snakke med NTNUs daglige leder."
-ingress_Short: "Knowit gir oss en liten adventspresang!"
+ingress_short: "Knowit gir oss en liten adventspresang!"
+excerpt: "Knowit gir oss en liten adventspresang!"
 slug: "kodekalender-med-knowit"
 photographer: "Knowit"
 ---

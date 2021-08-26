@@ -1,6 +1,6 @@
 ---
 title: "Ekskursjonen 2019: Del 2"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskursjon
  - kina
@@ -9,11 +9,12 @@ tags:
 date: "2019-06-04T10:00:00+02:00"
 modified_date: "2019-05-31T10:02:40.004567+02:00"
 image: "/assets/Ekskursjonen 2019 del 2.png"
-imageAlt: "downtown asker (1931) hahah"
+image_alt: "downtown asker (1931) hahah"
 author:
  - Peter Rydberg
 ingress: "Dette er del 2 av en tredelt artikkel. [Forrige del kan du lese her.](https://online.ntnu.no/article/93/ekskursjonen-2019-del-1/)"
-ingress_Short: "Eventyret fortsetter."
+ingress_short: "Eventyret fortsetter."
+excerpt: "Eventyret fortsetter."
 slug: "ekskursjonen-2019-del-2"
 photographer: "Peter Rydberg"
 ---

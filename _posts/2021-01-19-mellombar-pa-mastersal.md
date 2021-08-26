@@ -1,6 +1,6 @@
 ---
 title: "Mellombar på mastersal"
-layout: artikkel 
+layout: artikkel
 tags: 
  - mastersal
  - mellombar
@@ -8,11 +8,12 @@ tags:
 date: "2021-01-19T10:00:00+01:00"
 modified_date: "2021-01-18T22:29:39.475017+01:00"
 image: "/assets/Mellombar ssccchhhhmellombar.png"
-imageAlt: "Bilde med overraskende lite mellombar-relaterte ikoner og saker og greier, wow, hvordan klarte jeg å overse det?"
+image_alt: "Bilde med overraskende lite mellombar-relaterte ikoner og saker og greier, wow, hvordan klarte jeg å overse det?"
 author:
  - Peter Rydberg
 ingress: "Mellombar. Norges svar på Snickers og popkornfrø mellom tennene. Det er faktisk ikke mer enn et snaut år siden jeg virkelig oppdaget disse godbitene laget av sjokolade, knekkebrød, og furukvae, og livet mitt har ikke vært det samme siden. Et lite lass med Mellombar fikk meg gjennom fjorårets vårsemester da jeg satt på mastersal og latet som om laptopen min fungerte og hjernen min gjorde noe produktivt. Derfor mener jeg at det heller ikke er noen grunn til at ikke *du* kan bli like sykelig avhengig av lunsjsubstitutter som meg, NTNUs eneste rollemodell."
-ingress_Short: "Noe trengs for å komme seg gjennom studietiden."
+ingress_short: "Noe trengs for å komme seg gjennom studietiden."
+excerpt: "Noe trengs for å komme seg gjennom studietiden."
 slug: "mellombar-pa-mastersal"
 photographer: "Peter Rydberg"
 ---

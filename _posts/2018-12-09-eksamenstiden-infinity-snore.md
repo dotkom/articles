@@ -1,6 +1,6 @@
 ---
 title: "Eksamenstiden: Infinity Snore"
-layout: artikkel 
+layout: artikkel
 tags: 
  - jul
  - 2018
@@ -10,11 +10,12 @@ tags:
 date: "2018-12-09T14:00:00+01:00"
 modified_date: "2018-12-09T14:01:24.533224+01:00"
 image: "/assets/Information need.png"
-imageAlt: "Selvgod type med mentale problemer"
+image_alt: "Selvgod type med mentale problemer"
 author:
  - Peter Rydberg
 ingress: "Eksamenstiden har bare vært vår plage i et par uker, men mange av oss leker nok allerede med tanken om å gjøre Elon Musk “tjenester” for muligheten til å bo på Mars i ubestemt tid. Ingenting er verre enn å grave seg ned i en lærebok på størrelse med et rekkehus fra Sovjet mens sidemannen knasker på kreftfremkallende chilinøtter og hvitløk. Immanuel Kan(t) ta seg en bolle. Hvordan overlever man denne tiden med uløselige algoritmer, snufsende studenter og underprisede nudler fra Thailand?"
-ingress_Short: "Eksamen gon’ give it to ya"
+ingress_short: "Eksamen gon’ give it to ya"
+excerpt: "Eksamen gon’ give it to ya"
 slug: "eksamenstiden-infinity-snore"
 photographer: "Peter Rydberg"
 ---

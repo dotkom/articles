@@ -1,6 +1,6 @@
 ---
 title: "Fondstyret hjelper deg"
-layout: artikkel 
+layout: artikkel
 tags: 
  - økonomi
  - fondstyret
@@ -8,11 +8,12 @@ tags:
 date: "2019-04-05T12:00:00+02:00"
 modified_date: "2019-04-01T08:32:42.699861+02:00"
 image: "/assets/Fondstyret.png"
-imageAlt: "en tekst hvor det står \"Fondstyret schnelper de-\", jeg mener, \"Fondstyret hjelper deg\""
+image_alt: "en tekst hvor det står \"Fondstyret schnelper de-\", jeg mener, \"Fondstyret hjelper deg\""
 author:
  - Peter Rydberg
 ingress: "Etter at Fondstyret ble opprettet for litt over ett år siden, har onlinere fått en ny kanal for økonomisk støtte til ulike prosjekter og aktiviteter med passende hensikt. Hva er egentlig Fondstyret, og hvordan kan man gå frem for å benytte seg av det?"
-ingress_Short: "Søk om penger fra Onlines fond til ditt prosjekt!"
+ingress_short: "Søk om penger fra Onlines fond til ditt prosjekt!"
+excerpt: "Søk om penger fra Onlines fond til ditt prosjekt!"
 slug: "fondstyret-hjelper-deg"
 photographer: "Peter Rydberg"
 ---

@@ -1,17 +1,18 @@
 ---
 title: "Offline har gitt ut sin 10. utgave! "
-layout: artikkel 
+layout: artikkel
 tags: 
  - offline
  - jubileum
 date: "2013-11-19T00:00:00+01:00"
 modified_date: "2015-11-01T06:29:55.812861+01:00"
 image: "/assets/Online strikkegenser.png"
-imageAlt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
+image_alt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
 author:
  - Nils Herde
 ingress: "Onlines analoge hjertebarn har i all hemmelighet passert sin 10. utgivelse. Da er det på sin plass med en liten mimrestund!"
-ingress_Short: "Hva gjør man når Onlines minst digitale feirer år?"
+ingress_short: "Hva gjør man når Onlines minst digitale feirer år?"
+excerpt: "Hva gjør man når Onlines minst digitale feirer år?"
 slug: "offline-har-gitt-ut-sin-10-utgave"
 photographer: "Thor Håkon Bredesen"
 ---

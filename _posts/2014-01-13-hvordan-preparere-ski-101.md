@@ -1,17 +1,18 @@
 ---
 title: "Hvordan preparere ski 101"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ski
  - slalom
 date: "2014-01-13T00:00:00+01:00"
 modified_date: "2015-11-01T06:29:20.145645+01:00"
 image: "/assets/Linn Vikre sine slalomski.png"
-imageAlt: "Preparering av slalomski"
+image_alt: "Preparering av slalomski"
 author:
  - Linn Vikre
 ingress: "Har du noen gang ergret deg over at kantene på skiene dine er dårlige og det ikke er noe gøy å stå på ski fordi du bare sklir rundt? Du er ikke den eneste! Derfor har jeg tenkt å dele mine kunnskaper, det er tross alt ganske morsomt å kjøre hvis skiutstyret er preparerte ordentlig."
-ingress_Short: "Hvordan få gode ski på studentbudsjett"
+ingress_short: "Hvordan få gode ski på studentbudsjett"
+excerpt: "Hvordan få gode ski på studentbudsjett"
 slug: "hvordan-preparere-ski-101"
 video: 84024464
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Abakus og Online slår seg sammen! (1. april)"
-layout: artikkel 
+layout: artikkel
 tags: 
  - online
  - Abaline
@@ -8,12 +8,13 @@ tags:
 date: "2017-04-01T17:29:00+02:00"
 modified_date: "2017-04-11T10:26:06.287697+02:00"
 image: "/assets/Abaline.png"
-imageAlt: "Abaline"
+image_alt: "Abaline"
 author:
  - Andrea Bach
 ingress: "Det vi alle har ventet på så lenge, har endelig skjedd. Linjeforeningene Abakus og Online slår seg sammen. Etter år med vennskap var det på tide å slå seg sammen til Abaline.  
 – Dette gir bare gode konsekvenser, sier tidligere leder i Online, Thor Håkon Bredesen."
-ingress_Short: "Endelig har det skjedd - Abakus og Online slår seg sammen!"
+ingress_short: "Endelig har det skjedd - Abakus og Online slår seg sammen!"
+excerpt: "Endelig har det skjedd - Abakus og Online slår seg sammen!"
 slug: "abakus-og-online-slar-seg-sammen-1-april"
 ---
 ### En ny æra

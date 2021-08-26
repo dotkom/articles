@@ -1,17 +1,18 @@
 ---
 title: "Møt våre tillitsvalgte"
-layout: artikkel 
+layout: artikkel
 tags: 
  - tillitsvalgte
  - studenttinget
 date: "2015-10-30T00:00:00+01:00"
 modified_date: "2015-11-01T06:25:02.852144+01:00"
 image: "/assets/Nye i Studenttinget.png"
-imageAlt: "Bendik og Lars er nylig valgt inn i Studenttinget."
+image_alt: "Bendik og Lars er nylig valgt inn i Studenttinget."
 author:
  - Baldur Kjelsvik
 ingress: "Informatikk stiller med to representanter i årets studentting. Bendik Deraas og Lars Føleide er begge engasjerte studentpolitikere og gleder seg til å ta fatt på jobben."
-ingress_Short: "Informatikk stiller med to representanter i årets studentting; Bendik Deraas og Lars Føleide."
+ingress_short: "Informatikk stiller med to representanter i årets studentting; Bendik Deraas og Lars Føleide."
+excerpt: "Informatikk stiller med to representanter i årets studentting; Bendik Deraas og Lars Føleide."
 slug: "mot-vare-tillitsvalgte"
 photographer: "Baldur Kjelsvik"
 ---

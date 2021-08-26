@@ -1,6 +1,6 @@
 ---
 title: "Kontorprat"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Kontoret
  - kontorprat
@@ -8,11 +8,12 @@ tags:
 date: "2019-03-26T10:00:00+01:00"
 modified_date: "2019-03-26T15:22:34.554698+01:00"
 image: "/assets/Powerthings.png"
-imageAlt: "To trøtte typer som prater"
+image_alt: "To trøtte typer som prater"
 author:
  - Peter Rydberg
 ingress: "De fleste av oss onlinere har et eller annet forhold til vårt kjære kontor på Realfagbygget. Enten man stikker innom for å ta seg en kopp kaffe, lage seg litt toast eller skrike til TV’en med energien til en million stjerner, så finnes det alltid noe gøy å gjøre på vårt kjære oppholdsrom. Én ting som alltid har vært kontorets viktigste interiør, er oss - onlinerne. Dette kan jo selvsagt diskuteres etter at Trikom kjøpte inn toastjern til folket, men det er likevel vi som står for alle de gode samtalene som dukker opp rundt bordet i lunsjpausene. Hvordan vi kan begynne en samtale om Per Sandberg og ende opp med å prate om foreldreløse barn som fortjener det, er dog et mysterium."
-ingress_Short: "Kontoret, Onlines hjem for debatt"
+ingress_short: "Kontoret, Onlines hjem for debatt"
+excerpt: "Kontoret, Onlines hjem for debatt"
 slug: "kontorprat"
 photographer: "Peter Rydberg"
 ---

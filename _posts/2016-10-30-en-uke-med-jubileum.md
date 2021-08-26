@@ -1,6 +1,6 @@
 ---
 title: "En uke med jubileum"
-layout: artikkel 
+layout: artikkel
 tags: 
  - jubileum
  - fest
@@ -10,11 +10,12 @@ tags:
 date: "2016-10-30T21:33:46+01:00"
 modified_date: "2016-11-02T21:34:16.847724+01:00"
 image: "/assets/Jubkom + Ingrid.png"
-imageAlt: "Jubileumskomiteen og Ingrid Vold avbildet av dusken.no"
+image_alt: "Jubileumskomiteen og Ingrid Vold avbildet av dusken.no"
 author:
  - Thor Håkon Bredesen
 ingress: "Tolvte november feirer Online 30 år som linjeforening. Det blir en heidundranes bankett med mat, drikke, sang, storband og stormannsgalskap. Før det skal vi ha en uke med gratisarrangementer for alle!"
-ingress_Short: "Tiden er snart inne for å sparke i gang jubileumsuken!"
+ingress_short: "Tiden er snart inne for å sparke i gang jubileumsuken!"
+excerpt: "Tiden er snart inne for å sparke i gang jubileumsuken!"
 slug: "en-uke-med-jubileum"
 photographer: "Synne Eggum Myrvang, Under Dusken"
 ---

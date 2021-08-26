@@ -1,6 +1,6 @@
 ---
 title: "Lord of The Rings!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - fadderuker
  - film
@@ -8,11 +8,12 @@ tags:
 date: "2014-10-29T00:00:00+01:00"
 modified_date: "2015-11-01T06:26:49.364997+01:00"
 image: "/assets/Fadderukene 2014 resulterte i remake av Ringenes Herre.png"
-imageAlt: "Hver faddergruppe fikk tildelt en scene fra Ringnes Herre-triologien. Det hele ble sydd sammen til en forrykende actionspekket blockbuster!"
+image_alt: "Hver faddergruppe fikk tildelt en scene fra Ringnes Herre-triologien. Det hele ble sydd sammen til en forrykende actionspekket blockbuster!"
 author:
  - Thor Håkon Bredesen
 ingress: "Under fadderukene fikk unge og lovende fadderbarn i oppdrag å spille inn en scene fra Ringenes Herre-filmene. Dette gjorde mange av gruppene med stor kreativitet."
-ingress_Short: "Endelig er den her! Ringenes Herre tolket av ferske fadderbarn!"
+ingress_short: "Endelig er den her! Ringenes Herre tolket av ferske fadderbarn!"
+excerpt: "Endelig er den her! Ringenes Herre tolket av ferske fadderbarn!"
 slug: "lord-of-the-rings"
 video: 110293648
 photographer: "Thor Håkon Bredesen"

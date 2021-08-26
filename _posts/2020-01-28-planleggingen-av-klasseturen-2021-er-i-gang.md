@@ -1,17 +1,18 @@
 ---
 title: "Planleggingen av klasseturen 2021 er i gang"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskom 2021
  - ekskursjonen 202
 date: "2020-01-28T10:00:00+01:00"
 modified_date: "2020-01-27T14:57:19.680071+01:00"
 image: "/assets/Bilde av leder og nestleder i ekskom 2021.png"
-imageAlt: "To staute karer med projektor i trynet. Tidenes ekskursjon!"
+image_alt: "To staute karer med projektor i trynet. Tidenes ekskursjon!"
 author:
  - Liam Svanåsbakken Crouch
 ingress: "Ekskursjonen er en årlig klassetur til utlandet, for de som er i 3. klasse eller opp. Årets ekskursjon skal til Sør-Korea og Japan. Hvor neste års ekskursjon skal, må du nesten bare følge med om!"
-ingress_Short: "Ekskursjonskomiteen 2021 har fått fart på sakene!"
+ingress_short: "Ekskursjonskomiteen 2021 har fått fart på sakene!"
+excerpt: "Ekskursjonskomiteen 2021 har fått fart på sakene!"
 slug: "planleggingen-av-klasseturen-2021-er-i-gang"
 photographer: "Ekskom"
 ---

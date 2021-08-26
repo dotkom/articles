@@ -1,6 +1,6 @@
 ---
 title: "NTNUs skjulte tjenester"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ntnu
  - Orakeltjenesten
@@ -8,11 +8,12 @@ tags:
 date: "2020-03-09T10:00:00+01:00"
 modified_date: "2020-03-08T19:54:42.166535+01:00"
 image: "/assets/NTNUs tjenester.png"
-imageAlt: "Mann med tydelige psykiske problemer peker på noe grafikk over en ikke-deskript bakgrunn. Hvordan havnet han her? Det vil jeg vite, både bokstavelig talt og metaforisk sånn \"hvordan kunne han synke så lavt?\" osv."
+image_alt: "Mann med tydelige psykiske problemer peker på noe grafikk over en ikke-deskript bakgrunn. Hvordan havnet han her? Det vil jeg vite, både bokstavelig talt og metaforisk sånn \"hvordan kunne han synke så lavt?\" osv."
 author:
  - Peter Rydberg
 ingress: "NTNU og dets fakulteter har i mange år stilt med en rekke tjenester som studenter og ansatte kan benytte seg av. Du som leser dette har kanskje allerede vært i kontakt med Orakeltjenesten. De kan hjelpe deg fjerne virus fra PC’en din om du mot formodning forsøker kjøpe undertøy fra dverger på et shady nettsted med servere i Kasakhstan. IDI har også sin egen IT-tjeneste, Gurutjenesten, som kan hjelpe deg fikse printeren, bytte blekk på printeren, fikse printeren, eller kanskje fikse printeren. Så gøy de har det med printeren! Er du foreleser, vet du sikkert allerede alt om AV-tjenesten. De kan bistå med moderne audiovisuelle og pedagogiske hjelpemidler som projektorer, laptoper, kameraer, og mikrofoner, hvorav null av dem blir brukt av deg fordi du heller vil bruke noe overhead-søppel som du lagde under lavmåls crack-rus i 1987 og som du er for sta til å erstatte. Skjerp deg. Uansett stiller NTNU med flere andre, mer ukjente tjenester til disposisjon. Her er bare et lite knippe av dem!"
-ingress_Short: "NTNUs ulike tjenester har endelig blitt kartlagt!"
+ingress_short: "NTNUs ulike tjenester har endelig blitt kartlagt!"
+excerpt: "NTNUs ulike tjenester har endelig blitt kartlagt!"
 slug: "ntnus-skjulte-tjenester"
 photographer: "Peter Rydberg"
 ---

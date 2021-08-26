@@ -1,6 +1,6 @@
 ---
 title: "Kommunikasjonsansvarlig til hovedstyret!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - genfors
  - hoves
@@ -9,11 +9,12 @@ tags:
 date: "2017-10-29T11:55:00+01:00"
 modified_date: "2017-10-31T15:36:29.180551+01:00"
 image: "/assets/Generalforsamlingen.png"
-imageAlt: "Generalforsamlingen"
+image_alt: "Generalforsamlingen"
 author:
  - Aslak Hollund
 ingress: "Skulle forslaget bli godkjent av generalforsamlingen ønsker vi å velge inn en kommunikasjonsansvarlig som vil sitte frem til ordinær generalforsamling i starten av mars. Stillingen vil være en prøveordning for å se om dette er noe vi kunne tenke oss å legge frem som en mulighet for enten en permanent stilling i hovedstyret eller som en ny kjernekomité."
-ingress_Short: "HS fremmer forslag om å midlertidig utvide hovedstyret med en kommunikasjonsansvarlig."
+ingress_short: "HS fremmer forslag om å midlertidig utvide hovedstyret med en kommunikasjonsansvarlig."
+excerpt: "HS fremmer forslag om å midlertidig utvide hovedstyret med en kommunikasjonsansvarlig."
 slug: "kommunikasjonsansvarlig-til-hovedstyret"
 photographer: "Thor Håkon Bredesen"
 ---

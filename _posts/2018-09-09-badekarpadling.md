@@ -1,6 +1,6 @@
 ---
 title: "Badekarpadling"
-layout: artikkel 
+layout: artikkel
 tags: 
  - badekarpadling
  - badekar
@@ -9,11 +9,12 @@ tags:
 date: "2018-09-09T14:00:00+02:00"
 modified_date: "2018-09-07T18:46:55.510992+02:00"
 image: "/assets/Badekarpadling.png"
-imageAlt: "Bilde til artikkel om å dytte et badekar i vannet (selv om vann egenlig skal oppi badekar)."
+image_alt: "Bilde til artikkel om å dytte et badekar i vannet (selv om vann egenlig skal oppi badekar)."
 author:
  - Peter Rydberg
 ingress: "Livet er mer enn non-stop festing og alkohol. Livet er badekarpadling over Nidelven også. Det var det bestefar sa til meg."
-ingress_Short: "Bli med på badekarpadling!"
+ingress_short: "Bli med på badekarpadling!"
+excerpt: "Bli med på badekarpadling!"
 slug: "badekarpadling"
 photographer: "Peter Rydberg"
 ---

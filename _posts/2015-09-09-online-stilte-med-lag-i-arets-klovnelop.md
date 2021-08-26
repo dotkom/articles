@@ -1,17 +1,18 @@
 ---
 title: "Online stilte med lag i årets Klovneløp"
-layout: artikkel 
+layout: artikkel
 tags: 
  - klovnestaffetten
  - klovneløp
 date: "2015-09-09T00:00:00+02:00"
 modified_date: "2015-11-01T06:25:16.669627+01:00"
 image: "/assets/Online stilte lag i Klovneløpet.png"
-imageAlt: "Online stilte med lag i Klovneløpet 2015, eller klovnestaffetten som løpet også kalles."
+image_alt: "Online stilte med lag i Klovneløpet 2015, eller klovnestaffetten som løpet også kalles."
 author:
  - Hanna Sollie Storaker
 ingress: "Lagspiriten var på topp, og det var kostymene også!"
-ingress_Short: "Lagspiriten var på topp, og det var kostymene også!"
+ingress_short: "Lagspiriten var på topp, og det var kostymene også!"
+excerpt: "Lagspiriten var på topp, og det var kostymene også!"
 slug: "online-stilte-med-lag-i-arets-klovnelop"
 photographer: "Hanna Sollie Storaker"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Onlineweb4 lever!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - onlineweb
  - dotkom
@@ -8,11 +8,12 @@ tags:
 date: "2013-11-19T00:00:00+01:00"
 modified_date: "2016-04-12T11:57:13.869517+02:00"
 image: "/assets/Christian Strand Young på kontoret.png"
-imageAlt: "Christian smiler fornøyd i det lanseringen av Onlineweb4 nærmer seg med stormskritt."
+image_alt: "Christian smiler fornøyd i det lanseringen av Onlineweb4 nærmer seg med stormskritt."
 author:
  - Nils Herde
 ingress: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Hovedstyret har vært tilbakeholdne med informasjon, men i mørket hviskes det likevel om at dotKom nå endelig har klart det; Onlineweb4 er ferdig!"
-ingress_Short: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Ta en titt!"
+ingress_short: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Ta en titt!"
+excerpt: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Ta en titt!"
 slug: "onlineweb4-lever"
 photographer: "Håvard Slettvold"
 ---

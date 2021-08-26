@@ -1,17 +1,18 @@
 ---
 title: "DIY Nettartikkel"
-layout: artikkel 
+layout: artikkel
 tags: 
  - diy
  - artikkel
 date: "2019-09-20T10:00:00+02:00"
 modified_date: "2019-09-20T09:34:19.673351+02:00"
 image: "/assets/DIY bildebildebilde haha.png"
-imageAlt: "Bilde for en artikkel, INGEN ANDRE FÅR RØRE DEN ELLERS BLIR JEG SINT"
+image_alt: "Bilde for en artikkel, INGEN ANDRE FÅR RØRE DEN ELLERS BLIR JEG SINT"
 author:
  - Peter Rydberg
 ingress: "Det er ikke alltid en stakkars nettredaktør som meg har tid eller blekk til å mane frem bokrull på bokrull av litterært innhold. Når gribbene sikler etter tørre vitser og framtvungne ordspill, er det lett å føle presset. Kan de ikke bare lese om kaffekoker’n en gang til? Derfor har jeg bestemt meg for å lage en definitiv oppskrift på hvordan man lager en nettartikkel - Peter style!"
-ingress_Short: "Verdens beste oppskrift på hjemmebakt artikkel er endelig her!"
+ingress_short: "Verdens beste oppskrift på hjemmebakt artikkel er endelig her!"
+excerpt: "Verdens beste oppskrift på hjemmebakt artikkel er endelig her!"
 slug: "diy-nettartikkel"
 photographer: "Peter Rydberg"
 ---

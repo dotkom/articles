@@ -1,17 +1,18 @@
 ---
 title: "Ontaps første bryggekurs"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Ontap
  - brygging
 date: "2017-03-14T12:15:00+01:00"
 modified_date: "2017-03-16T10:23:51.319887+01:00"
 image: "/assets/Ølbrygging med Ontap.png"
-imageAlt: "Ølbrygging med Ontap"
+image_alt: "Ølbrygging med Ontap"
 author:
  - Jonas Jevnaker Aas
 ingress: "En av Onlines nyeste interessegrupper, Ontap, holdt i dag sitt første bryggekurs, ledet av Tord Standnes."
-ingress_Short: "Les om Ontaps første bryggekurs!"
+ingress_short: "Les om Ontaps første bryggekurs!"
+excerpt: "Les om Ontaps første bryggekurs!"
 slug: "ontaps-forste-bryggekurs"
 photographer: "Endre Micael Austad Ulberg"
 ---

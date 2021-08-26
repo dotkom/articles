@@ -1,6 +1,6 @@
 ---
 title: "Onlines nye logo"
-layout: artikkel 
+layout: artikkel
 tags: 
  - logo
  - 2019
@@ -8,11 +8,12 @@ tags:
 date: "2019-11-22T12:00:00+01:00"
 modified_date: "2019-11-22T11:57:24.663954+01:00"
 image: "/assets/Online 2019.png"
-imageAlt: "Logo for 2019"
+image_alt: "Logo for 2019"
 author:
  - Peter Rydberg
 ingress: "Du hørte riktig! Online har nå fått en flunkende ny logo, nemlig den som du kan se på bildet over. Det er mye som ser annerledes ut, men samtidig holder logoen på den gode gamle Online-feelingen som vi har hatt i alle år. Hva betyr logoendringen for vår linjeforening og hvordan har vi i profil- og aviskomiteen gått frem for å produsere dette nye designet?"
-ingress_Short: "Online trer inn i det neste tiåret med ny logo!"
+ingress_short: "Online trer inn i det neste tiåret med ny logo!"
+excerpt: "Online trer inn i det neste tiåret med ny logo!"
 slug: "onlines-nye-logo"
 photographer: "Prokom"
 ---

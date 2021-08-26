@@ -1,17 +1,18 @@
 ---
 title: "Linjeredaksjonsfest"
-layout: artikkel 
+layout: artikkel
 tags: 
  - gullblekka
  - gullblokka
 date: "2014-05-08T00:00:00+02:00"
 modified_date: "2015-11-01T06:27:40.493467+01:00"
 image: "/assets/Gullblekka.png"
-imageAlt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen prisutdeling."
+image_alt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen prisutdeling."
 author:
  - Thor Håkon Bredesen
 ingress: "Forrige uke ble Gullblekka, prisutdelingen for linjeforeningsredaksjonene på Gløshaugen, arrangert for første gang. Offline tok tre priser."
-ingress_Short: "Offline gjorde det bra under Gullblekka."
+ingress_short: "Offline gjorde det bra under Gullblekka."
+excerpt: "Offline gjorde det bra under Gullblekka."
 slug: "linjeredaksjonsfest"
 photographer: "Thor Håkon Bredesen"
 ---

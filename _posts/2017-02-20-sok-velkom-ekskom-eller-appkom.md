@@ -1,6 +1,6 @@
 ---
 title: "Søk velkom, ekskom eller appkom!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskom
  - velkom
@@ -8,11 +8,12 @@ tags:
 date: "2017-02-20T14:26:00+01:00"
 modified_date: "2017-02-20T14:25:54.824628+01:00"
 image: "/assets/Søk velkom, ekskom eller appkom!.png"
-imageAlt: "Søk velkom, ekskom eller appkom!"
+image_alt: "Søk velkom, ekskom eller appkom!"
 author:
  - Jonas Jevnaker Aas
 ingress: "Tre av nodekomiteene har nå opptak. Er du en motivert onliner som har lyst til å bidra? Søknadsfristen er 26. februar!"
-ingress_Short: "Nå har Online opptak til velkom, ekskom og appkom. Søk innen 26. februar!"
+ingress_short: "Nå har Online opptak til velkom, ekskom og appkom. Søk innen 26. februar!"
+excerpt: "Nå har Online opptak til velkom, ekskom og appkom. Søk innen 26. februar!"
 slug: "sok-velkom-ekskom-eller-appkom"
 video: 204521926
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Før stormen"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskursjon
  - online
@@ -8,11 +8,12 @@ tags:
 date: "2014-03-17T00:00:00+01:00"
 modified_date: "2015-11-01T06:28:55.189902+01:00"
 image: "/assets/Online på eksursjon i Kina 2014.png"
-imageAlt: "Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 2014."
+image_alt: "Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 2014."
 author:
  - Kathrine Steffensen
 ingress: "Hepatittsprøytene er satt, depositum er betalt inn og pakkelistene er nesten påbegynt. 30 informatikere skal snart på et 16 dager langt eventyr til det fjerne østen."
-ingress_Short: "I april reiser informatikk ut i den store verden!"
+ingress_short: "I april reiser informatikk ut i den store verden!"
+excerpt: "I april reiser informatikk ut i den store verden!"
 slug: "for-stormen"
 ---
 Mange av linjeforeningene på Gløshaugen har en lang og stolt tradisjon med å reise på ekskursjon til utlandet hvor formålet er faglig påfyll og en hyggelig tur. Informatikk, derimot, har aldri vært på en slik tur før, men dette skal snart endre seg.

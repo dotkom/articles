@@ -1,6 +1,6 @@
 ---
 title: "Meme? Vin? Klin? Grin?"
-layout: artikkel 
+layout: artikkel
 tags: 
  - memes
  - slack
@@ -9,11 +9,12 @@ tags:
 date: "2020-11-04T10:00:00+01:00"
 modified_date: "2020-11-04T22:29:57.588633+01:00"
 image: "/assets/MVKG my dudes.png"
-imageAlt: "Se så kreativ jeg var denne gangen. Slackfarger og noen ord, wowee. Tror ikke jeg skal satse på kunstnerkarriere, for å si det sånn."
+image_alt: "Se så kreativ jeg var denne gangen. Slackfarger og noen ord, wowee. Tror ikke jeg skal satse på kunstnerkarriere, for å si det sånn."
 author:
  - Peter Rydberg
 ingress: "Har noe dukket opp i det skjulte i et av de mest mugne hjørnene på Onlines Slack-workspace? Onlinere snakker om det bak lukkede dører og svette saler. Det har nemlig nylig blitt opprettet en ny kanal, og den vokser fort. Her blir det lagt ut bilder som du ikke vil at tanten din skal se, for å si det sånn. Hva er så dette mystiske forumet? Jo, nå skal du høre. En liten kanal med stort potensial - og energien, den er kolossal!"
-ingress_Short: "Genfors året rundt. You know what that means!"
+ingress_short: "Genfors året rundt. You know what that means!"
+excerpt: "Genfors året rundt. You know what that means!"
 slug: "meme-vin-klin-grin"
 photographer: "Peter Rydberg"
 ---

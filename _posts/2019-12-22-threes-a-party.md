@@ -1,6 +1,6 @@
 ---
 title: "Three’s a party"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Abakus
  - Tihlde
@@ -9,11 +9,12 @@ tags:
 date: "2019-12-22T10:00:00+01:00"
 modified_date: "2019-12-21T18:27:51.425965+01:00"
 image: "/assets/Tihlde møter sine nye fosterforeldre.png"
-imageAlt: "Etter årevis med neglekt og mentale traumer på fosterhjemmet, får Tihlde endelig den kjærligheten den fortjener. Daddy Online og Daddy #2 Abakus tar kidden godt imot, og feirer til sine spaghetti-armer blir al dente i den svalen sommerbrisen."
+image_alt: "Etter årevis med neglekt og mentale traumer på fosterhjemmet, får Tihlde endelig den kjærligheten den fortjener. Daddy Online og Daddy #2 Abakus tar kidden godt imot, og feirer til sine spaghetti-armer blir al dente i den svalen sommerbrisen."
 author:
  - Peter Rydberg
 ingress: "Mange har allerede fått det med seg. Filmen Cats er ute og er en mer ubehagelig opplevelse enn å spise en hårball med juleribbe til middag. Nei, vent, det var ikke dét denne artikkelen skulle handle om. Den skal handle om at nyåret bringer nye fjes til A-blokka, da linjeforeningen TIHLDE får sitt kontor blant oss. Det blir spennende! I likhet med tiden etter  filmen Cats, er det sikkert mange som har spørsmål. Hvem er disse folkene? Kan vi gå trygt mellom arealene våre? Er furries virkelig et problem vi må håndtere på daglig basis? Mye av dette kan nok ikke svares på med det første, men jeg skal forsøke forklare situasjonen og berolige deg etter beste evne."
-ingress_Short: "A-blokka ønsker TIHLDE velkommen!"
+ingress_short: "A-blokka ønsker TIHLDE velkommen!"
+excerpt: "A-blokka ønsker TIHLDE velkommen!"
 slug: "threes-a-party"
 photographer: "Peter Rydberg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ekskursjonen 2019: Del 1"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskursjon
  - kina
@@ -9,11 +9,12 @@ tags:
 date: "2019-05-31T10:00:00+02:00"
 modified_date: "2019-06-04T11:06:16.739490+02:00"
 image: "/assets/Ekskursjonen 2019 del 1.png"
-imageAlt: "Bilde av bar street på månen"
+image_alt: "Bilde av bar street på månen"
 author:
  - Peter Rydberg
 ingress: "Det føles som en mannsalder siden jeg og mine medskyldige dro til Kina i regi av Onlines ekskursjonskomité på jakt etter eventyr. Det er riktignok en stund siden vi kom hjem til Norge også, men så har jo jeg de siste ukene vært opptatt med å fullføre bacheloren min og å spille eldgamle LEGO™-spill på PC’en. Da er det vel på tide at jeg endelig avslører hemmelighetene fra min tre ukers reise til andre siden av kloden! Så hva i alle dager gjorde vi i store Asia? Hva er konteksten for snapene av runde bord og sinnsyk dubstep som gjengen i Norge mottok i april? Dette og mer skal du nå få svar på, forutsatt at du ikke er analfabet uten mulighet for å lese denne artikkelen."
-ingress_Short: "Overlevelsesnotatet fra ekskursjonen 2019 er endelig her."
+ingress_short: "Overlevelsesnotatet fra ekskursjonen 2019 er endelig her."
+excerpt: "Overlevelsesnotatet fra ekskursjonen 2019 er endelig her."
 slug: "ekskursjonen-2019-del-1"
 photographer: "Peter Rydberg"
 ---

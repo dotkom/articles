@@ -1,6 +1,6 @@
 ---
 title: "Månedens triveligste"
-layout: artikkel 
+layout: artikkel
 tags: 
  - mai
  - triveligste
@@ -8,11 +8,12 @@ tags:
 date: "2017-06-20T12:52:00+02:00"
 modified_date: "2017-06-20T18:37:47.612898+02:00"
 image: "/assets/Månedens Triveligste mai 2017.png"
-imageAlt: "Månedens Triveligste mai 2017"
+image_alt: "Månedens Triveligste mai 2017"
 author:
  - Håvard Tollefsen
 ingress: "Mai er eksamenslesing og stress stress stress! Lange dager på den kjedelige lesesalen kan gjøre mai til en dyster måned for mange. Da er det fantastisk at noen skaper litt glede!"
-ingress_Short: "Månedens triveligste for mai 2017!"
+ingress_short: "Månedens triveligste for mai 2017!"
+excerpt: "Månedens triveligste for mai 2017!"
 slug: "manedens-triveligste"
 photographer: "Endre Micael Austad Ulberg"
 ---

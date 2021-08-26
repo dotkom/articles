@@ -1,17 +1,18 @@
 ---
 title: "Survival Guide Åre"
-layout: artikkel 
+layout: artikkel
 tags: 
  - åre
  - fjellvettregler
 date: "2018-01-12T10:00:00+01:00"
 modified_date: "2018-01-11T18:04:35.115989+01:00"
 image: "/assets/Fjellvett.png"
-imageAlt: "åre"
+image_alt: "åre"
 author:
  - Hanne Brynildsrud
 ingress: "Er du enda ikke lei av å høre om ÅREts tur, ÅREts store happening, ÅREts sjukeste vintereventyr? Frykt ikke! Her kommer det enda en siste, lille krampetrekning med leveregler du bør prøve å følge når du setter deg på bussen i retning ÅREts store happening, dersom du har et håp om å komme deg hjem igjen."
-ingress_Short: "Enda ikke lei av ÅREts dårligste ordspill?"
+ingress_short: "Enda ikke lei av ÅREts dårligste ordspill?"
+excerpt: "Enda ikke lei av ÅREts dårligste ordspill?"
 slug: "survival-guide-are"
 ---
 ####ÅRETS FJELLVETTREGLER

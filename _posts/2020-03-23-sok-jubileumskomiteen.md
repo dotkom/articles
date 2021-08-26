@@ -1,17 +1,18 @@
 ---
 title: "Søk jubileumskomiteen!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - jubileum
  - jubkom
 date: "2020-03-23T20:00:00+01:00"
 modified_date: "2020-03-23T20:00:58.471187+01:00"
 image: "/assets/Jubileums-Online med alt for mange hatter, liksom what.png"
-imageAlt: "Det er jo bare nødvendig med maks én hatt, hvorfor har den flere? Kan noen forklare meg dette? Jeg skjønner liksom ikke nødvendigheten, de koster jo sikkert en del også. Og er i ferd med å falle av hodet."
+image_alt: "Det er jo bare nødvendig med maks én hatt, hvorfor har den flere? Kan noen forklare meg dette? Jeg skjønner liksom ikke nødvendigheten, de koster jo sikkert en del også. Og er i ferd med å falle av hodet."
 author:
  - Peter Rydberg
 ingress: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
-ingress_Short: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
+ingress_short: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
+excerpt: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
 slug: "sok-jubileumskomiteen"
 photographer: "Peter Rydberg"
 ---

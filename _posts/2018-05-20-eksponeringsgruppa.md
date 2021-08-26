@@ -1,17 +1,18 @@
 ---
 title: "Eksponeringsgruppa"
-layout: artikkel 
+layout: artikkel
 tags: 
  - online
  - eksponeringsgruppa
 date: "2018-05-20T10:00:00+02:00"
 modified_date: "2018-05-20T09:51:50.737443+02:00"
 image: "/assets/online_ow_sommer_2018_2.png"
-imageAlt: "Bilde for artikkel til eksponeringsgruppa"
+image_alt: "Bilde for artikkel til eksponeringsgruppa"
 author:
  - Henrik Liodden
 ingress: "Eksponeringsgruppa er et nystartet prosjekt med mål om å fremme Online på sosiale medier. Gruppa tar opp nye medlemmer, så les videre for å se hvordan du kan engasjere deg!"
-ingress_Short: "Les om det nye prosjektet og bli med!"
+ingress_short: "Les om det nye prosjektet og bli med!"
+excerpt: "Les om det nye prosjektet og bli med!"
 slug: "eksponeringsgruppa"
 ---
 Eksponeringsgruppa er et nytt prosjekt for å jobbe mer målrettet mot sosiale medier. Det har vært arbeidet med planlegging den siste tida, og det har blitt eksperimentert med praktisk arbeid, hovedsakelig på Instagram. Framover kommer du til å se mer til gruppa på ulike platformer og vi ønsker også flere folk som vil bli med!

@@ -1,6 +1,6 @@
 ---
 title: "Deep State Online"
-layout: artikkel 
+layout: artikkel
 tags: 
  - online
  - konspirasjon
@@ -9,11 +9,12 @@ tags:
 date: "2018-08-06T16:00:00+02:00"
 modified_date: "2018-08-06T20:18:10.333513+02:00"
 image: "/assets/Deep State Online.png"
-imageAlt: "GRELT bilde av Onlines konspirasjonslogo. Våkne, saudar!"
+image_alt: "GRELT bilde av Onlines konspirasjonslogo. Våkne, saudar!"
 author:
  - Peter Rydberg
 ingress: "Hva gjør en trøtt nettredaktør når han kjeder seg? Hvis du svarte “bruke tiden sin på å skrive noe fornuftig for studentene våre”, svarte du jaggu feil. Les videre for drøye spekulasjoner og dumme teorier om Online linjeforening!"
-ingress_Short: "Onlines hemmeligheter lekker endelig ut."
+ingress_short: "Onlines hemmeligheter lekker endelig ut."
+excerpt: "Onlines hemmeligheter lekker endelig ut."
 slug: "deep-state-online"
 photographer: "Peter Rydberg"
 ---

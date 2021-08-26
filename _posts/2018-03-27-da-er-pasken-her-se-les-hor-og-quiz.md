@@ -1,6 +1,6 @@
 ---
 title: "Da er påsken her: Se, Les, Hør og Quiz."
-layout: artikkel 
+layout: artikkel
 tags: 
  - påskequiz
  - quiz
@@ -10,11 +10,12 @@ tags:
 date: "2018-03-27T15:14:30+02:00"
 modified_date: "2018-04-04T15:01:22.111404+02:00"
 image: "/assets/EasterEgg.png"
-imageAlt: "Easter Egg til quiz-artikkel"
+image_alt: "Easter Egg til quiz-artikkel"
 author:
  - Kent Are Torvik
 ingress: "Da er det endelig tid for påske og de fleste av oss tar litt velfortjent fri fra det kontinuerlige stresset forårsaket av underernæring og øvinger."
-ingress_Short: "Påsken er høytid for å bli solbrent. Her har du tips til hva du kan gjøre mens du blir stekt."
+ingress_short: "Påsken er høytid for å bli solbrent. Her har du tips til hva du kan gjøre mens du blir stekt."
+excerpt: "Påsken er høytid for å bli solbrent. Her har du tips til hva du kan gjøre mens du blir stekt."
 slug: "da-er-pasken-her-se-les-hor-og-quiz"
 ---
 Her er et par tips til litt hva du kan gjøre når du blir litt rastløs av mangelen på øvingsfrister.

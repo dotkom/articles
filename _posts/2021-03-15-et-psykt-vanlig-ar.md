@@ -1,6 +1,6 @@
 ---
 title: "Et Psykt Vanlig År"
-layout: artikkel 
+layout: artikkel
 tags: 
  - mental helse
  - tilhørighet
@@ -8,12 +8,13 @@ tags:
 date: "2021-03-15T15:10:00+01:00"
 modified_date: "2021-03-15T15:08:53.804063+01:00"
 image: "/assets/En Psykt Vanlig Uke artikkel.png"
-imageAlt: "Artikkelbilde av En Psykt Vanlig Uke"
+image_alt: "Artikkelbilde av En Psykt Vanlig Uke"
 author:
  - Anniken Syvertsen
  - Magne Slåtsveen
 ingress: "Hvert år på denne tiden arrangeres “En Psykt Vanlig Uke”, som er en type studentfestival hvor målet er å bidra til økt oppmerksomhet rundt psykisk helse i tillegg til å senke terskelen for å prate om det. En Psykt Vanlig Uke starter i dag (15.03) og varer frem til 21. mars. Arrangementene involverer alt fra joggetur, quiz og foredrag til spillkveld og filmkveld. Programmet finner du på [https://www.enpsyktvanliguke.com/](https://www.enpsyktvanliguke.com/), og arrangementene er åpne for alle. I år er temaet tilhørighet."
-ingress_Short: "Tilhørighet: det å høre sammen med noe annet, høre til et sted; tilknytning"
+ingress_short: "Tilhørighet: det å høre sammen med noe annet, høre til et sted; tilknytning"
+excerpt: "Tilhørighet: det å høre sammen med noe annet, høre til et sted; tilknytning"
 slug: "et-psykt-vanlig-ar"
 ---
 ### Isolasjon i studieperioden

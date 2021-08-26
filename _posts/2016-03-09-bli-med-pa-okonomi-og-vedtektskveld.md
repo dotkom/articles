@@ -1,6 +1,6 @@
 ---
 title: "Bli med på økonomi- og vedtektskveld!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - generalforsamling
  - økonomi
@@ -8,13 +8,14 @@ tags:
 date: "2016-03-09T22:20:00+01:00"
 modified_date: "2016-03-09T22:35:03.803247+01:00"
 image: "/assets/Marius med sigar.png"
-imageAlt: "Marius røyker sigar mens han tenker på hvor mye penger Online har. 
+image_alt: "Marius røyker sigar mens han tenker på hvor mye penger Online har. 
 
 Fra venstre: Silje Sævig, Marius Thingwall, Hans-Kristian Seem Koren "
 author:
  - Agnete Djupvik
 ingress: "Generalforsamlingen finner sted 18. april. I forkant av dette ønsker vi å samle så mange Onlinere som mulig til å være med på å diskutere hvordan Online skal styres. Bli med, og si din mening!"
-ingress_Short: "I forkant av generalforsamlingen samles vi for å diskutere hvordan Online skal styres. Bli med!"
+ingress_short: "I forkant av generalforsamlingen samles vi for å diskutere hvordan Online skal styres. Bli med!"
+excerpt: "I forkant av generalforsamlingen samles vi for å diskutere hvordan Online skal styres. Bli med!"
 slug: "bli-med-pa-okonomi-og-vedtektskveld"
 video: 157723283
 photographer: "Thor Håkon Bredesen, Øystein Hammersland"

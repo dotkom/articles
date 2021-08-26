@@ -1,17 +1,18 @@
 ---
 title: "Generalforsamlingen"
-layout: artikkel 
+layout: artikkel
 tags: 
  - hovedstyret
  - generalforsamling
 date: "2014-04-09T00:00:00+02:00"
 modified_date: "2015-11-01T06:28:31.033137+01:00"
 image: "/assets/Generalforsamlingen 2014.png"
-imageAlt: "Nye hovedstyret 2014"
+image_alt: "Nye hovedstyret 2014"
 author:
  - Thor Håkon Bredesen
 ingress: "Natt til onsdag forrige uke ble generalforsamlingen 2014 hevet og Online hadde fått sitt nye hovedstyre for skoleåret 2014/2015."
-ingress_Short: "Onlines generalforsamling endte med nytt hovedstyre."
+ingress_short: "Onlines generalforsamling endte med nytt hovedstyre."
+excerpt: "Onlines generalforsamling endte med nytt hovedstyre."
 slug: "generalforsamlingen"
 photographer: "Thor Håkon Bredesen"
 ---

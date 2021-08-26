@@ -1,6 +1,6 @@
 ---
 title: "Progging og pizza"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ncpc
 date: "2014-10-14T00:00:00+02:00"
@@ -8,7 +8,8 @@ modified_date: "2015-11-01T06:27:00.895050+01:00"
 author:
  - Kathrine Steffensen
 ingress: "Lørdag 4. oktober gikk programmeringskonkurransen Nordic Collegiate Programming Contest av stabelen på P15. 38 lag møtte opp for å rive seg i håret og spise pizza og løse flest mulig programmeringsoppgaver på 5 timer."
-ingress_Short: "Årets NCPC skjedde."
+ingress_short: "Årets NCPC skjedde."
+excerpt: "Årets NCPC skjedde."
 slug: "progging-og-pizza"
 ---
 NCPC er en programmeringskonkurranse som ikke bare arrangeres her på NTNU. Konkurransen arrangeres samtidig i tre forskjellige tidssoner, i alle de nordiske landene. Deltakerne fikk dermed også prøve seg mot blant annet studenter ved Kungliga Tekniska Högskolan i Stockholm, i tillegg til andre norske universiteter. Det beste laget i NCPC, fra Kungliga Tekniska Högskolan, ble ferdig med alle 11 oppgaver før fire timer var gått. Beste norske lag ble Algorillas fra UiO, som kom på 7. plass. NTNUs beste lag kom på 16. plass. 

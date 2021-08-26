@@ -1,6 +1,6 @@
 ---
 title: "Prisutdeling for linjeforeningsavisene"
-layout: artikkel 
+layout: artikkel
 tags: 
  - redaksjonen
  - linjeforeningsavis
@@ -8,11 +8,12 @@ tags:
 date: "2015-04-09T00:00:00+02:00"
 modified_date: "2021-08-23T13:20:40.784506+02:00"
 image: "/assets/Gullblekka.png"
-imageAlt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen prisutdeling."
+image_alt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen prisutdeling."
 author:
  - Kathrine Steffensen
 ingress: "Den 8. april ble linjeforeningsavisprisutdelingen Gullblekka arrangert på Klubben på Samfundet. Dette er andre gang utdelingen arrangeres, og også i år ble det en stor suksess."
-ingress_Short: "8. april ble Gullblekka arrangert for andre gang!"
+ingress_short: "8. april ble Gullblekka arrangert for andre gang!"
+excerpt: "8. april ble Gullblekka arrangert for andre gang!"
 slug: "prisutdeling-for-linjeforeningsavisene"
 photographer: "Thor Håkon Bredesen"
 ---

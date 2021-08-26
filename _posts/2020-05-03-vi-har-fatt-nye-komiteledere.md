@@ -1,15 +1,16 @@
 ---
 title: "Vi har fått nye komiteledere!"
-layout: artikkel 
+layout: artikkel
 tags: 
 date: "2020-05-03T15:06:40+02:00"
 modified_date: "2020-05-05T12:46:43.074959+02:00"
 image: "/assets/komitebannere.png"
-imageAlt: "med dotkom denne gangen"
+image_alt: "med dotkom denne gangen"
 author:
  - Mathias Fossum
 ingress: "Vi har fått nye kjernekomiteledere som etter Generalforsamlingen 2020 skal lede den daglige administrasjonen av komiteene våre. Komitelederen har en unik mulighet til å konsentrere seg om komiteens kjerneområde i tett dialog med styrerepresentanten. Hver av lederne er valgt av sine medlemmer i komiteene og bærer et viktig oppdrag for at Online skal fungere mest effektivt. Vi tok en kjapp prat med dem for å høre hvordan det nye vervet behager!"
-ingress_Short: "Onlines kjernekomiteer har fått nye ledere. Her kan du bli bedre kjent med dem!"
+ingress_short: "Onlines kjernekomiteer har fått nye ledere. Her kan du bli bedre kjent med dem!"
+excerpt: "Onlines kjernekomiteer har fått nye ledere. Her kan du bli bedre kjent med dem!"
 slug: "vi-har-fatt-nye-komiteledere"
 ---
 ## Elise Stautland fra fagkom

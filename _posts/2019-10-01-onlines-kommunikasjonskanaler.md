@@ -1,17 +1,18 @@
 ---
 title: "Onlines kommunikasjonskanaler"
-layout: artikkel 
+layout: artikkel
 tags: 
  - some
  - kommunikasjon
 date: "2019-10-01T16:00:00+02:00"
 modified_date: "2019-10-01T16:05:49.946564+02:00"
 image: "/assets/Onlne-kalender.png"
-imageAlt: "Bilde av en Online-kalender, hva mer vil du ha av beskrivelse lzm what what"
+image_alt: "Bilde av en Online-kalender, hva mer vil du ha av beskrivelse lzm what what"
 author:
  - Benedicte Myrvoll
 ingress: "Som mange kanskje vet, skjer det utrolig mye gøy i Online, og kalenderen er alltid full av arrangementer man kan bli med på. Likevel byr det også på problemer da det er vanskelig å orientere seg i dette mylderet av fester, bedpreser, kurs og grillinger. Det fine er at vi faktisk har en god del informasjonskanaler dere kan bruke for å oppdatere dere på alt vi driver med. Under følger kanalene vi vil informere om."
-ingress_Short: "Finn ut mer om Onlines kanaler for kommunikasjon!"
+ingress_short: "Finn ut mer om Onlines kanaler for kommunikasjon!"
+excerpt: "Finn ut mer om Onlines kanaler for kommunikasjon!"
 slug: "onlines-kommunikasjonskanaler"
 photographer: "Benedicte Myrvoll"
 ---

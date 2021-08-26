@@ -1,17 +1,18 @@
 ---
 title: "Møt Onlines nye linjeband!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - musikk
  - linjeband
 date: "2017-10-23T19:30:00+02:00"
 modified_date: "2017-10-23T18:53:01.615611+02:00"
 image: "/assets/linjeband.png"
-imageAlt: "onlines linjeband"
+image_alt: "onlines linjeband"
 author:
  - Hanne Brynildsrud
 ingress: "Jeg tok en liten prat med Adrian Leren og Eirik Baug som er i gang med å starte opp et eget linjeband til linjeforeningen. Foreløpig har de gitar og bass i bandet, men ser etter noen entusiastiske hobbymusikere som ønsker å bli med på dette prosjektet."
-ingress_Short: "Prosessen med å starte Onlines linjeband er i gang."
+ingress_short: "Prosessen med å starte Onlines linjeband er i gang."
+excerpt: "Prosessen med å starte Onlines linjeband er i gang."
 slug: "mot-onlines-nye-linjeband"
 photographer: "Hanne Brynildsrud"
 ---

@@ -1,16 +1,17 @@
 ---
 title: "Undervannsrugby - Norgesserien 2013"
-layout: artikkel 
+layout: artikkel
 tags: 
  - undervannsrugby
 date: "2013-11-19T00:00:00+01:00"
 modified_date: "2015-11-01T06:29:45.061985+01:00"
 image: "/assets/Undervannsrugby.png"
-imageAlt: "To personer kjemper om å putte en ball i en stålbøtte. Under vann."
+image_alt: "To personer kjemper om å putte en ball i en stålbøtte. Under vann."
 author:
  - Nils Herde
 ingress: "Informatikk kan kombineres med diverse aktiviteter. Noen velger å kombinere studiene med undervannsrugby."
-ingress_Short: "Informatikk kan kombineres med diverse aktiviteter. Hva med undervannsrugby?"
+ingress_short: "Informatikk kan kombineres med diverse aktiviteter. Hva med undervannsrugby?"
+excerpt: "Informatikk kan kombineres med diverse aktiviteter. Hva med undervannsrugby?"
 slug: "undervannsrugby-norgesserien-2013"
 ---
 Undervannsrugby er en idrett som utspilles under vann på mellom 3,5 og 5 meters dyp. Målet er en «bøtte» som er skrudd fast i bunnen av bassenget. Innenfor et område med mellom 12 og 18 meter i lengden og 8 og 12 meter i bredden skal det spilles. Det er seks spillere i vannet til enhver tid, to spiss, to beck og to venstre. Grunnen til at det er to personer på hver posisjon er at den ene spilleren skal kunne ligge i overflaten og puste, mens den andre spiller ut alt den kan under vannet. Det er også mulig å ha inntil 6 innbyttere på kanten. Stiller man med 6 innbyttere får man personlig innbytter og trenger kun å fokusere på medspilleren og når man kan bytte med innbytteren sin.

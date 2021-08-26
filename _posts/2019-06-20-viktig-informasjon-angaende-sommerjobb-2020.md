@@ -1,16 +1,17 @@
 ---
 title: "Viktig informasjon angående sommerjobb 2020"
-layout: artikkel 
+layout: artikkel
 tags: 
  - Sommerjobb
 date: "2019-06-20T09:03:06+02:00"
 modified_date: "2019-06-20T09:08:51.428933+02:00"
 image: "/assets/IT-sommerjobbsøknad.png"
-imageAlt: "Til artikkel om informasjon om sommerjobb"
+image_alt: "Til artikkel om informasjon om sommerjobb"
 author:
  - Henrik Liodden
 ingress: "Fram til sommeren har IT-linjeforeningene i samarbeid jobbet med et tiltak for å gjøre noe med de stadig tidligere sommerjobbfristene. Nå har et konkret tiltak blitt utformet og dette trer i kraft fra høstsemesteret. Det er derfor viktig å lese informasjonen nedenfor da denne angår alle informatikere (og andre IT-studenter) som skal søke jobb i framtiden."
-ingress_Short: "Informasjonsskriv for studenter som ønsker å søke sommerjobb til høsten."
+ingress_short: "Informasjonsskriv for studenter som ønsker å søke sommerjobb til høsten."
+excerpt: "Informasjonsskriv for studenter som ønsker å søke sommerjobb til høsten."
 slug: "viktig-informasjon-angaende-sommerjobb-2020"
 ---
 ###Bakgrunnen for tiltaket 

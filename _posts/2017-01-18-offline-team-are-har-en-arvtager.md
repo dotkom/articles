@@ -1,6 +1,6 @@
 ---
 title: "Offline: Team Åre har en arvtager"
-layout: artikkel 
+layout: artikkel
 tags: 
  - online
  - åre
@@ -8,11 +8,12 @@ tags:
 date: "2017-01-18T00:00:00+01:00"
 modified_date: "2017-02-03T19:09:30.835078+01:00"
 image: "/assets/Team Åre logo.png"
-imageAlt: "Team Åre logo"
+image_alt: "Team Åre logo"
 author:
  - Baldur Kjelsvik
 ingress: "DJ Lavterskel føler seg krenket, men ydmyk, idet han skal bære Onlines viktigste kulturarv videre mot nyåret."
-ingress_Short: "Varm opp til Åre med Offlines artikkel om DJ Lavterskel!"
+ingress_short: "Varm opp til Åre med Offlines artikkel om DJ Lavterskel!"
+excerpt: "Varm opp til Åre med Offlines artikkel om DJ Lavterskel!"
 slug: "offline-team-are-har-en-arvtager"
 photographer: "Øystein Hammersland, Carlo Alfredo Miguel Malaca Morte III"
 ---

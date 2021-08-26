@@ -1,6 +1,6 @@
 ---
 title: "Innsamlingsaksjon med ekskom 2017"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskom
  - innsamling
@@ -9,11 +9,12 @@ tags:
 date: "2017-01-02T19:29:17+01:00"
 modified_date: "2017-01-03T12:45:07.453520+01:00"
 image: "/assets/Ekskoms innsamlingsaksjon 2017.png"
-imageAlt: "Ekskom17"
+image_alt: "Ekskom17"
 author:
  - Dag Frode Solberg
 ingress: "Ekskom 2017 gjennomfører en innsamling av mobiltelefoner, tablets og lignende små enheter med lagringsmedier. Innsamlingen holder på frem til starten av februar."
-ingress_Short: "Bli med og hjelp ekskom17 med innsamlingsaksjon!"
+ingress_short: "Bli med og hjelp ekskom17 med innsamlingsaksjon!"
+excerpt: "Bli med og hjelp ekskom17 med innsamlingsaksjon!"
 slug: "innsamlingsaksjon-med-ekskom-2017"
 ---
 Enhetene som blir samlet inn vil bli sendt til Alternativ Data hvor de blir sikkert slettet og gjenvunnet eller videresolgt. Fortjenesten går til ekskursjonen 2017, hvor reisen denne gangen går til Sør-Korea.

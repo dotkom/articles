@@ -1,17 +1,18 @@
 ---
 title: "Destinasjon for ekskursjonen 2019"
-layout: artikkel 
+layout: artikkel
 tags: 
  - ekskom
  - ekskursjonen 2019
 date: "2018-04-21T17:00:00+02:00"
 modified_date: "2018-04-26T16:50:05.141937+02:00"
 image: "/assets/Online på eksursjon i Kina 2014.png"
-imageAlt: "Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 2014."
+image_alt: "Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 2014."
 author:
  - Peter Rydberg
 ingress: "Ekskursjonskomiteen 2019 gjennomfører nå en spørreundersøkelse for å ta hensyn til hvor onlinerne vil dra på ekskursjon neste år."
-ingress_Short: "Stem over hvor du vil ekskursjonen 2019 skal være!"
+ingress_short: "Stem over hvor du vil ekskursjonen 2019 skal være!"
+excerpt: "Stem over hvor du vil ekskursjonen 2019 skal være!"
 slug: "destinasjon-for-ekskursjonen-2019"
 ---
 ###Fra Asia til Amerika

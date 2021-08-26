@@ -1,17 +1,18 @@
 ---
 title: "Månedens triveligste"
-layout: artikkel 
+layout: artikkel
 tags: 
  - triveligste
  - månedens
 date: "2017-05-03T14:46:00+02:00"
 modified_date: "2017-05-03T20:20:14.892231+02:00"
 image: "/assets/Dag Frode Solberg.png"
-imageAlt: "Dag Frode Solberg"
+image_alt: "Dag Frode Solberg"
 author:
  - Håvard Tollefsen
 ingress: "Ny måned betyr utdeling av ros der det hører hjemme. Og denne måneden er det Dag Frode Solberg som får hedersprisen!"
-ingress_Short: "Månedens triveligste for april 2017!"
+ingress_short: "Månedens triveligste for april 2017!"
+excerpt: "Månedens triveligste for april 2017!"
 slug: "manedens-triveligste"
 photographer: "Endre Micael Austad Ulberg"
 ---

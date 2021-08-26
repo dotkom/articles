@@ -1,6 +1,6 @@
 ---
 title: "Studentdemokratiet har valg"
-layout: artikkel 
+layout: artikkel
 tags: 
  - informatikk
  - Studentting
@@ -11,11 +11,12 @@ tags:
 date: "2016-10-13T19:36:04+02:00"
 modified_date: "2016-10-13T19:39:34.577505+02:00"
 image: "/assets/Studentdemokratiet NTNU.png"
-imageAlt: "Inngangen til Studentdemokratiet ved NTNU: Her hører både Studenttinget og studentrådene til."
+image_alt: "Inngangen til Studentdemokratiet ved NTNU: Her hører både Studenttinget og studentrådene til."
 author:
  - Signe Elise Livgard og Trine-Lise Helgesen
 ingress: "Enten du er fersk student eller har vanket i gangene på P15 i noen år, så er det en ting du bør lære deg først som sist, nemlig hvordan studentdemokratiet fungerer. Frist for studenttinget er allerede 14. oktober!"
-ingress_Short: "Hvem er dine tillitsvalgte? Kan jeg stille? Hvor finner jeg hjelp?"
+ingress_short: "Hvem er dine tillitsvalgte? Kan jeg stille? Hvor finner jeg hjelp?"
+excerpt: "Hvem er dine tillitsvalgte? Kan jeg stille? Hvor finner jeg hjelp?"
 slug: "studentdemokratiet-har-valg"
 photographer: "Vebjørn Sletta"
 ---

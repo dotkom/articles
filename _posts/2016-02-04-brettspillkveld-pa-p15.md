@@ -1,17 +1,18 @@
 ---
 title: "Brettspillkveld på P15"
-layout: artikkel 
+layout: artikkel
 tags: 
  - kobKom
  - P15
 date: "2016-02-04T00:00:00+01:00"
 modified_date: "2016-02-05T16:57:34.068588+01:00"
 image: "/assets/Game of Thrones: the board game.png"
-imageAlt: "Nærbilde av brettspillet Game of Thrones"
+image_alt: "Nærbilde av brettspillet Game of Thrones"
 author:
  - Carlo Alfredo Malaca Miguel Morte III
 ingress: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld. Der hadde de funnet frem en stor stabel med ulike brettspill som alle hadde muligheten til å prøve på."
-ingress_Short: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld."
+ingress_short: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld."
+excerpt: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld."
 slug: "brettspillkveld-pa-p15"
 ---
 Kort- og brettspillkomiteen (kobKom) er den ferske nodekomiteen til trivselskomiteen. Komiteen har som hovedoppgave å arrangere brettspillkvelder for Onlinere og spre glede og interesse for kort-, brett- og rollespill. 

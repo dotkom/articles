@@ -1,6 +1,6 @@
 ---
 title: "Skumle tider i vente"
-layout: artikkel 
+layout: artikkel
 tags: 
  - 2018
  - høst
@@ -10,11 +10,12 @@ tags:
 date: "2018-10-15T14:00:00+02:00"
 modified_date: "2018-10-15T18:09:43.458436+02:00"
 image: "/assets/Skellington McKebab.png"
-imageAlt: "Skelly sliter med å finne samf"
+image_alt: "Skelly sliter med å finne samf"
 author:
  - Peter Rydberg
 ingress: "Det er jaggu ikke lenge til fryktelige monstre og skumle klovner bak buskene blir et helt vanlig syn i Trondheims gater. Nei, dette er ikke en artikkel om Jehovas vitner. Det er nemlig Halloween (eller “Allehelgensaften”, for deg med kamferdrops i neseborene) om kun et par uker. Dette er tiden hvor studenter kan gjenoppleve barndommen ved å kle seg ut som horete versjoner av Moana og Dwayne Johnson. Men hvordan skal begivenheten *egentlig* feires?"
-ingress_Short: "Halloween kommer. Be prepared."
+ingress_short: "Halloween kommer. Be prepared."
+excerpt: "Halloween kommer. Be prepared."
 slug: "skumle-tider-i-vente"
 photographer: "Peter Rydberg"
 ---

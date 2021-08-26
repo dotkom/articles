@@ -1,6 +1,6 @@
 ---
 title: "Her er Onlines nye hovedstyre!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - hovedstyret
  - generalforsamlingen
@@ -9,11 +9,12 @@ tags:
 date: "2017-04-28T17:19:00+02:00"
 modified_date: "2017-04-28T17:17:58.707117+02:00"
 image: "/assets/Hovedstyret 17&#47;18.png"
-imageAlt: "Det nye Hovedstyret!  "
+image_alt: "Det nye Hovedstyret!  "
 author:
  - Jonas Jevnaker Aas
 ingress: "Under generalforsamlingen ble følgende gjeng valgt inn det nye Hovedstyret. Gratulerer så mye!"
-ingress_Short: "Disse ble valgt inn det nye Hovedstyret!"
+ingress_short: "Disse ble valgt inn det nye Hovedstyret!"
+excerpt: "Disse ble valgt inn det nye Hovedstyret!"
 slug: "her-er-onlines-nye-hovedstyre"
 photographer: "Thor Håkon Bredesen"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Månedens triveligste"
-layout: artikkel 
+layout: artikkel
 tags: 
  - triveligste
  - endre
@@ -8,11 +8,12 @@ tags:
 date: "2017-04-04T13:20:00+02:00"
 modified_date: "2017-04-04T13:20:46.613679+02:00"
 image: "/assets/Månedens triveligste mars 2017.png"
-imageAlt: "Månedens triveligste mars 2017 - Endre Micael Austad Ulberg"
+image_alt: "Månedens triveligste mars 2017 - Endre Micael Austad Ulberg"
 author:
  - Håvard Tollefsen
 ingress: "Kjære onlinere! Av og til blir vi skikkelig glade. Sånn sjukt glad, liksom! For dere er fantastiske! Og siden dere er så flinke så ønsker Online å gi oppmerksomhet til de som gjør en ekstra god innsats."
-ingress_Short: "Månedens triveligste for mars 2017!"
+ingress_short: "Månedens triveligste for mars 2017!"
+excerpt: "Månedens triveligste for mars 2017!"
 slug: "manedens-triveligste"
 photographer: "Andrea Bach"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Så du har havnet i karantene"
-layout: artikkel 
+layout: artikkel
 tags: 
  - karantene
  - covid-19
@@ -8,11 +8,12 @@ tags:
 date: "2020-03-14T17:00:00+01:00"
 modified_date: "2020-03-14T17:06:59.413878+01:00"
 image: "/assets/Emoji med korona.png"
-imageAlt: "Vet egentlig ikke hva jeg skal si om den her. Dette er faktisk det verste jeg har laget, og jeg beklager til verdenssamfunnet for at jeg gjorde det. May God have mercy on my soul."
+image_alt: "Vet egentlig ikke hva jeg skal si om den her. Dette er faktisk det verste jeg har laget, og jeg beklager til verdenssamfunnet for at jeg gjorde det. May God have mercy on my soul."
 author:
  - Peter Rydberg
 ingress: "Koronaviruset har virkelig satt en støkk i det norske samfunnet, eller hva? Jeg tror nesten dette er verre enn smørkrisen i 2011, og det gikk utover julekakene. Julekakene! Tenk det. Uansett må vi håndtere ett problem av gangen. Nå er det nemlig mange som settes i karantene grunnet COVID-19, dårlig ånde, eller giftig oppførsel i League of Legends. Blant disse er X-sport gjengen, som nylig har vært i Portugal for å prøve (og feile) å surfe bølgene i det store Atlanterhavet. Sporty eller ei, karantene blir det. To uker i samme rom kan gjøre deg fullstendig loco av kjedsomhet, spesielt når høyrearmen begynner å bli litt for sliten til å henge med. Derfor stiller jeg nå opp med et par alternative aktiviteter du kan bedrive mens verden brenner og du sitter i bomberommet."
-ingress_Short: "Hva gjør man når alt man har rundt seg er en laptop, en sakkosekk, og fire mugne vegger?"
+ingress_short: "Hva gjør man når alt man har rundt seg er en laptop, en sakkosekk, og fire mugne vegger?"
+excerpt: "Hva gjør man når alt man har rundt seg er en laptop, en sakkosekk, og fire mugne vegger?"
 slug: "sa-du-har-havnet-i-karantene"
 photographer: "Peter Rydberg"
 ---

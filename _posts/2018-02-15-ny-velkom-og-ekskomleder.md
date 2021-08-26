@@ -1,17 +1,18 @@
 ---
 title: "Ny velkom- og ekskomleder!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - velkom
  - eksom
 date: "2018-02-15T12:05:09+01:00"
 modified_date: "2018-02-15T12:06:08.695007+01:00"
 image: "/assets/velkom,eksom.png"
-imageAlt: "velkom- og ekskomleder"
+image_alt: "velkom- og ekskomleder"
 author:
  - Hanne Brynildsrud
 ingress: "Våre nye velkom- og ekskom-ledere har blitt valgt, gratulerer til Charlotte Söderström og Petter Rein!"
-ingress_Short: "Nå har Online opptak til velkom og eksom. Husk å søke før 23.februar!"
+ingress_short: "Nå har Online opptak til velkom og eksom. Husk å søke før 23.februar!"
+excerpt: "Nå har Online opptak til velkom og eksom. Husk å søke før 23.februar!"
 slug: "ny-velkom-og-ekskomleder"
 ---
 #### Velkomstkomiteen 2018

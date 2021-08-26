@@ -1,17 +1,18 @@
 ---
 title: "17.mai med Online!"
-layout: artikkel 
+layout: artikkel
 tags: 
  - mai
  - 17
 date: "2017-05-24T20:20:00+02:00"
 modified_date: "2017-05-24T20:19:02.928877+02:00"
 image: "/assets/17.mai.png"
-imageAlt: "17.mai"
+image_alt: "17.mai"
 author:
  - Jonas Jevnaker Aas
 ingress: "Det er klart for nasjonaldagen, og det frokost klart på kontoret. Sangheftene ligger spredt og det er tid for å feire 17.mai med Online!"
-ingress_Short: "Frokost, sang og 17.mai-tog med Online. Hva blir vel bedre enn det?"
+ingress_short: "Frokost, sang og 17.mai-tog med Online. Hva blir vel bedre enn det?"
+excerpt: "Frokost, sang og 17.mai-tog med Online. Hva blir vel bedre enn det?"
 slug: "17mai-med-online"
 photographer: "Endre Micael Austad Ulberg"
 ---

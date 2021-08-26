@@ -1,15 +1,16 @@
 ---
 title: "Viktig kunngjøring"
-layout: artikkel 
+layout: artikkel
 tags: 
 date: "2020-03-10T18:54:45+01:00"
 modified_date: "2020-03-10T18:56:53.731811+01:00"
 image: "/assets/Onlinelogo.png"
-imageAlt: ""
+image_alt: ""
 author:
  - Hovedstyret
 ingress: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
-ingress_Short: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
+ingress_short: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
+excerpt: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
 slug: "viktig-kunngjoring"
 ---
 Hei,

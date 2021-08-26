@@ -1,6 +1,6 @@
 ---
 title: "Onlines side hustle"
-layout: artikkel 
+layout: artikkel
 tags: 
  - økonomi
  - penger
@@ -8,11 +8,12 @@ tags:
 date: "2020-09-14T10:00:00+02:00"
 modified_date: "2020-09-14T11:33:44.401465+02:00"
 image: "/assets/Pig of Wall Street.png"
-imageAlt: "Likeru det bildenavnet, eller? Kreativt. Neida, ikke veldig kreativt egentlig."
+image_alt: "Likeru det bildenavnet, eller? Kreativt. Neida, ikke veldig kreativt egentlig."
 author:
  - Peter Rydberg
 ingress: "De siste månedene har ikke vært enkle for mange av oss. Folk er syke, isolerte, og slitne av å kjede seg som en piñata på en barnebursdag for blinde. Hvordan man kan lette på trykket, har jeg allerede [skrevet så stygt om her](https://online.ntnu.no/articles/114/). Utenom økt risiko for å bli nedkjørt av Petter Northug, har også Norge opplevd en økonomisk nedgang som vi ikke har sett på mange år. Hva betyr dette for Online? Jeg har personlig null peiling. Da er det viktig at jeg misbruker min profileringsmakt og synser litt her og der. Online har nemlig flere inntektskilder enn du er klar over!"
-ingress_Short: "Online har alltid en plan B når økonomien går ad undas."
+ingress_short: "Online har alltid en plan B når økonomien går ad undas."
+excerpt: "Online har alltid en plan B når økonomien går ad undas."
 slug: "onlines-side-hustle"
 photographer: "Peter Rydberg"
 ---

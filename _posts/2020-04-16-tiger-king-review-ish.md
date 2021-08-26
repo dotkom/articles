@@ -1,6 +1,6 @@
 ---
 title: "Tiger King review-ish"
-layout: artikkel 
+layout: artikkel
 tags: 
  - karantene
  - covid-19
@@ -9,11 +9,12 @@ tags:
 date: "2020-04-16T10:00:00+02:00"
 modified_date: "2020-04-15T20:46:36.923992+02:00"
 image: "/assets/Tigerbilde rawr.png"
-imageAlt: "Dønn seriøst bilde for en dønn seriøs artikkel. Dønn diddly doo."
+image_alt: "Dønn seriøst bilde for en dønn seriøs artikkel. Dønn diddly doo."
 author:
  - Peter Rydberg
 ingress: "I en drøy måned har Norges befolkning holdt seg innestengt som en fjert på et LAN-party. Slike tilstander har jo gjort folk flest litt sprø. Jeg vet ikke med dere, men jeg spiste opp restene av tåneglene mine for halvannen uke siden! Uansett fører disse kjipe tidene til at vi gjerne bruker mye av tiden vår på filmer og TV-serier som vi ellers aldri ville ofret en tanke. Netflix har nylig kommet ut med fantastiske Tiger King, som hylles av alle i Norge fra connoisseurer til bartete alenemødre. Det har uten tvil blitt sesongens store hit. Jeg kaster aldri bort en gyllen mulighet til å få litt oppmerksomhet, så jeg må jo selvsagt slenge meg på trenden! Her er en review av Tiger King, skrevet av meg - en fyr som aldri har sett det."
-ingress_Short: "Serien alle snakker om, og jeg har ikke sett den."
+ingress_short: "Serien alle snakker om, og jeg har ikke sett den."
+excerpt: "Serien alle snakker om, og jeg har ikke sett den."
 slug: "tiger-king-review-ish"
 photographer: "Peter Rydberg"
 ---

@@ -1,17 +1,18 @@
 ---
 title: "Disse tre vil lede Online"
-layout: artikkel 
+layout: artikkel
 tags: 
  - hovedstyret
  - generalforsamling
 date: "2015-04-17T00:00:00+02:00"
 modified_date: "2015-11-01T06:25:38.105979+01:00"
 image: "/assets/Lederkandidater 2015.png"
-imageAlt: "Thor Håkon, Pia og Caroline stilte til valg for lederrollen av Online til generalforsamlingen 2015."
+image_alt: "Thor Håkon, Pia og Caroline stilte til valg for lederrollen av Online til generalforsamlingen 2015."
 author:
  - Sverre Johann Bjørke
 ingress: "Generalforsamlingen nærmer seg stadig. Noe av det mest spennende som skal skje på generalforsamlingen er valget av ny leder. Denne personen skal ikke bare styre skuta trygt, men og stake ut nye og spennende kurser."
-ingress_Short: "Snart skal ny leder av Online velges."
+ingress_short: "Snart skal ny leder av Online velges."
+excerpt: "Snart skal ny leder av Online velges."
 slug: "disse-tre-vil-lede-online"
 photographer: "Kathrine Steffensen"
 ---

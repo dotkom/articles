@@ -1,17 +1,18 @@
 ---
 title: "Generalforsamlingen 2017"
-layout: artikkel 
+layout: artikkel
 tags: 
  - generalforsamlingen
  - genfors
 date: "2017-04-04T11:46:51+02:00"
 modified_date: "2017-04-04T11:48:33.612247+02:00"
 image: "/assets/Generalforsamlingen.png"
-imageAlt: "Generalforsamlingen"
+image_alt: "Generalforsamlingen"
 author:
  - Jonas Jevnaker Aas
 ingress: "Hvert år møtes de mange medlemmene av Online for å ta del i hvordan linjeforeningen skal styres neste år. Under generalforsamlingen går man blant annet gjennom vedtekter og budsjett, og ikke minst; det velges nytt hovedstyre."
-ingress_Short: "Bli med på generalforsamlingen som i år holdes 25. april!"
+ingress_short: "Bli med på generalforsamlingen som i år holdes 25. april!"
+excerpt: "Bli med på generalforsamlingen som i år holdes 25. april!"
 slug: "generalforsamlingen-2017"
 photographer: "Thor Håkon Bredesen"
 ---

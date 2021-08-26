@@ -1,6 +1,6 @@
 ---
 title: "Generalforsamlingen 2019"
-layout: artikkel 
+layout: artikkel
 tags: 
  - generalforsamlingen
  - genfors
@@ -8,11 +8,12 @@ tags:
 date: "2019-02-11T08:00:00+01:00"
 modified_date: "2019-02-09T16:34:16.649956+01:00"
 image: "/assets/Generalforsamlingen.png"
-imageAlt: "Generalforsamlingen"
+image_alt: "Generalforsamlingen"
 author:
  - Peter Rydberg
 ingress: "Onlines generalforsamling går snart av stabelen! Dette er kvelden hvor alle linjeforeningens medlemmer kan komme med innspill til organisasjonens fremgang det foregående året og vedta vedtekter for fremtiden. Ikke minst blir det valg av nye ledere og hovedstyre!"
-ingress_Short: "Generalforsamlingen nærmer seg"
+ingress_short: "Generalforsamlingen nærmer seg"
+excerpt: "Generalforsamlingen nærmer seg"
 slug: "generalforsamlingen-2019"
 photographer: "Thor Håkon Bredesen"
 ---

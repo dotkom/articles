@@ -1,17 +1,18 @@
 ---
 title: "Generalforsamlinga 2015"
-layout: artikkel 
+layout: artikkel
 tags: 
  - hovedstyret
  - generalforsamling
 date: "2015-04-13T00:00:00+02:00"
 modified_date: "2015-11-01T06:32:09.072548+01:00"
 image: "/assets/Generalforsamlingen 2014.png"
-imageAlt: "Nye hovedstyret 2014"
+image_alt: "Nye hovedstyret 2014"
 author:
  - Sverre Johann Bjørke
 ingress: "Kanskje den viktigaste hendinga i året, Generalforsamlinga, nærmar seg med stormskritt. Kvifor skal nettopp du kome på genfors?"
-ingress_Short: "Generalforsamlinga nærmar seg med stormskritt!"
+ingress_short: "Generalforsamlinga nærmar seg med stormskritt!"
+excerpt: "Generalforsamlinga nærmar seg med stormskritt!"
 slug: "generalforsamlinga-2015"
 photographer: "Thor Håkon Bredesen"
 ---
