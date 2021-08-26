@@ -1,16 +1,20 @@
 ---
 title: "Onlines kommunikasjonskanaler"
-layout: post
+layout: artikkel 
 tags: 
- - some,
+ - some
  - kommunikasjon
 date: "2019-10-01T16:00:00+02:00"
-last_edited: "2019-10-01T16:05:49.946564+02:00"
+modified_date: "2019-10-01T16:05:49.946564+02:00"
+image: "/assets/Onlne-kalender.png"
+imageAlt: "Bilde av en Online-kalender, hva mer vil du ha av beskrivelse lzm what what"
+author:
+ - Benedicte Myrvoll
+ingress: "Som mange kanskje vet, skjer det utrolig mye gøy i Online, og kalenderen er alltid full av arrangementer man kan bli med på. Likevel byr det også på problemer da det er vanskelig å orientere seg i dette mylderet av fester, bedpreser, kurs og grillinger. Det fine er at vi faktisk har en god del informasjonskanaler dere kan bruke for å oppdatere dere på alt vi driver med. Under følger kanalene vi vil informere om."
+ingress_Short: "Finn ut mer om Onlines kanaler for kommunikasjon!"
+slug: "onlines-kommunikasjonskanaler"
+photographer: "Benedicte Myrvoll"
 ---
-Som mange kanskje vet, skjer det utrolig mye gøy i Online, og kalenderen er alltid full av arrangementer man kan bli med på. Likevel byr det også på problemer da det er vanskelig å orientere seg i dette mylderet av fester, bedpreser, kurs og grillinger. Det fine er at vi faktisk har en god del informasjonskanaler dere kan bruke for å oppdatere dere på alt vi driver med. Under følger kanalene vi vil informere om.
-
-![Bilde av en Online-kalender, hva mer vil du ha av beskrivelse lzm what what](https://online.ntnu.no/media/images/responsive/d29e02d6-0b5e-4e33-894a-4dbc30637090.png)
-
 ### Onlineweben
 
 Siden dere befinner dere på akkurat nå er kanskje den de aller fleste kjenner til. Forsiden vår viser til kommende arrangementer, som du kan sortere på sosialt, bedpres, og kurs. De førstkommende arrangementene vil alltid ligge øverst.
@@ -33,14 +37,15 @@ Er du kanskje av den typen som liker en strukturert tekst med bare det essensiel
 
 ### Plakater
 
-Dere har kanskje lagt merke til korktavlene med plakater som henger rundt om kring i A4? Disse plakatene viser som regel kommende arrangementer med informasjon om tid og sted, og ser som regel ganske smashing ut.
+Dere har kanskje lagt merke til korktavlene med plakater som henger rundt om kring i A4? Disse plakatene viser som regel kommende arrangementer med informasjon om tid og sted, og ser som regel ganske smashing ut. 
 
---
+-- 
 
 \[0]: [https://www.facebook.com/groups/1547182375336132/](https://www.facebook.com/groups/1547182375336132/)
 
 \[1]: [http://onlinentnu.slack.com](http://onlinentnu.slack.com)
 
 \[2]: [https://online.ntnu.no/profile/email/](https://online.ntnu.no/profile/email/)
+
 
 \* *Å bleste : Å informere om kommende arrangementer gjennom forskjellige informasjonskanaler.*

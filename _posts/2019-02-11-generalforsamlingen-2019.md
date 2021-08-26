@@ -1,17 +1,21 @@
 ---
 title: "Generalforsamlingen 2019"
-layout: post
+layout: artikkel 
 tags: 
- - generalforsamlingen,
- - genfors,
+ - generalforsamlingen
+ - genfors
  - 2019
 date: "2019-02-11T08:00:00+01:00"
-last_edited: "2019-02-09T16:34:16.649956+01:00"
+modified_date: "2019-02-09T16:34:16.649956+01:00"
+image: "/assets/Generalforsamlingen.png"
+imageAlt: "Generalforsamlingen"
+author:
+ - Peter Rydberg
+ingress: "Onlines generalforsamling går snart av stabelen! Dette er kvelden hvor alle linjeforeningens medlemmer kan komme med innspill til organisasjonens fremgang det foregående året og vedta vedtekter for fremtiden. Ikke minst blir det valg av nye ledere og hovedstyre!"
+ingress_Short: "Generalforsamlingen nærmer seg"
+slug: "generalforsamlingen-2019"
+photographer: "Thor Håkon Bredesen"
 ---
-Onlines generalforsamling går snart av stabelen! Dette er kvelden hvor alle linjeforeningens medlemmer kan komme med innspill til organisasjonens fremgang det foregående året og vedta vedtekter for fremtiden. Ikke minst blir det valg av nye ledere og hovedstyre!
-
-![Generalforsamlingen](https://online.ntnu.no/media/images/responsive/1cc64505-a4b2-4bc4-9b6b-dd71239acd98.jpeg)
-
 Generalforsamlingen er arrangert av onlinere, for onlinere. Alle medlemmer av Online har mulighet til å delta på lik linje og forme Onlines fremtid for det kommende året. Det skal velges ny leder og nestleder av linjeforeningen, samt komitéledere og medlemmer av Fondstyret. Alle, utenom gjester i salen, har stemmerett. [Kandidatene som har stilt til valg, kan du se her](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/valg).
 
 Før den tid, skal forsamlingen gå igjennom saks- og vedtekstforslag. Disse diskuteres og vedtas for at Online skal kunne utvikle seg og reflektere meningene til linjeforeningens medlemmer. Når endringer av Onlines vedtekter trår i kraft, er Hovedstyret pålagt å gjennomføre dem. Ettersom generalforsamlingen nærmer seg, vil saks- og vedtektsforslag oppdateres på Onlines nettsider. Alle kan sende inn forslag innen 25.02. Forslagene vil bli diskutert under økonomi- og vedtektskvelden 21.02 (med gratis pizza!), som du også oppfordres til å delta på. [Mer informasjon om dette finner du her](https://online.ntnu.no/events/655/okonomi-og-vedtektskveld/). [Alle saksforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag) og [vedtektsforslagene finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/vedtekstforslag). Under kvelden skal budsjettet for året 19/20 også vedtas.

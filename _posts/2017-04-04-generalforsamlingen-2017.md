@@ -1,17 +1,21 @@
 ---
 title: "Generalforsamlingen 2017"
-layout: post
+layout: artikkel 
 tags: 
- - generalforsamlingen,
+ - generalforsamlingen
  - genfors
 date: "2017-04-04T11:46:51+02:00"
-last_edited: "2017-04-04T11:48:33.612247+02:00"
+modified_date: "2017-04-04T11:48:33.612247+02:00"
+image: "/assets/Generalforsamlingen.png"
+imageAlt: "Generalforsamlingen"
+author:
+ - Jonas Jevnaker Aas
+ingress: "Hvert år møtes de mange medlemmene av Online for å ta del i hvordan linjeforeningen skal styres neste år. Under generalforsamlingen går man blant annet gjennom vedtekter og budsjett, og ikke minst; det velges nytt hovedstyre."
+ingress_Short: "Bli med på generalforsamlingen som i år holdes 25. april!"
+slug: "generalforsamlingen-2017"
+photographer: "Thor Håkon Bredesen"
 ---
-Hvert år møtes de mange medlemmene av Online for å ta del i hvordan linjeforeningen skal styres neste år. Under generalforsamlingen går man blant annet gjennom vedtekter og budsjett, og ikke minst; det velges nytt hovedstyre.
-
-![Generalforsamlingen](https://online.ntnu.no/media/images/responsive/1cc64505-a4b2-4bc4-9b6b-dd71239acd98.jpeg)
-
-Etter et år er det klart for en ny generalforsamling. Som medlem i Online har du muligheten til å være med på å blant annet bestemme hvem som skal lede linjeforeningen til neste år. Det blir valg av ny leder i hver komité, i tillegg til ny leder og nestleder av Hovedstyret. Trykk [her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/valg/) for å se hvilke kandidater som har stilt til valg.
+Etter et år er det klart for en ny generalforsamling. Som medlem i Online har du muligheten til å være med på å blant annet bestemme hvem som skal lede linjeforeningen til neste år. Det blir valg av ny leder i hver komité, i tillegg til ny leder og nestleder av Hovedstyret. Trykk [her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/valg/) for å se hvilke kandidater som har stilt til valg. 
 
 Vedtektene til linjeforeningen er et sett med regler som alle medlemmene må følge. Hovedstyret har jobbet med disse og skal på generalforsamlingen legge frem sine forslag om endring i vedtektene. Også andre medlemmer av linjeforeningen kan legge inn vedtektsforslag. Disse finner du [her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/vedtekstforslag/).
 
