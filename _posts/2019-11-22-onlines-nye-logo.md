@@ -12,7 +12,6 @@ image_alt: "Logo for 2019"
 author:
  - Peter Rydberg
 ingress: "Du hørte riktig! Online har nå fått en flunkende ny logo, nemlig den som du kan se på bildet over. Det er mye som ser annerledes ut, men samtidig holder logoen på den gode gamle Online-feelingen som vi har hatt i alle år. Hva betyr logoendringen for vår linjeforening og hvordan har vi i profil- og aviskomiteen gått frem for å produsere dette nye designet?"
-ingress_short: "Online trer inn i det neste tiåret med ny logo!"
 excerpt: "Online trer inn i det neste tiåret med ny logo!"
 slug: "onlines-nye-logo"
 photographer: "Prokom"

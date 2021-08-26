@@ -12,7 +12,6 @@ image_alt: "Vet egentlig ikke hva jeg skal si om den her. Dette er faktisk det v
 author:
  - Peter Rydberg
 ingress: "Koronaviruset har virkelig satt en støkk i det norske samfunnet, eller hva? Jeg tror nesten dette er verre enn smørkrisen i 2011, og det gikk utover julekakene. Julekakene! Tenk det. Uansett må vi håndtere ett problem av gangen. Nå er det nemlig mange som settes i karantene grunnet COVID-19, dårlig ånde, eller giftig oppførsel i League of Legends. Blant disse er X-sport gjengen, som nylig har vært i Portugal for å prøve (og feile) å surfe bølgene i det store Atlanterhavet. Sporty eller ei, karantene blir det. To uker i samme rom kan gjøre deg fullstendig loco av kjedsomhet, spesielt når høyrearmen begynner å bli litt for sliten til å henge med. Derfor stiller jeg nå opp med et par alternative aktiviteter du kan bedrive mens verden brenner og du sitter i bomberommet."
-ingress_short: "Hva gjør man når alt man har rundt seg er en laptop, en sakkosekk, og fire mugne vegger?"
 excerpt: "Hva gjør man når alt man har rundt seg er en laptop, en sakkosekk, og fire mugne vegger?"
 slug: "sa-du-har-havnet-i-karantene"
 photographer: "Peter Rydberg"

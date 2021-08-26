@@ -9,7 +9,6 @@ image_alt: "med dotkom denne gangen"
 author:
  - Mathias Fossum
 ingress: "Vi har fått nye kjernekomiteledere som etter Generalforsamlingen 2020 skal lede den daglige administrasjonen av komiteene våre. Komitelederen har en unik mulighet til å konsentrere seg om komiteens kjerneområde i tett dialog med styrerepresentanten. Hver av lederne er valgt av sine medlemmer i komiteene og bærer et viktig oppdrag for at Online skal fungere mest effektivt. Vi tok en kjapp prat med dem for å høre hvordan det nye vervet behager!"
-ingress_short: "Onlines kjernekomiteer har fått nye ledere. Her kan du bli bedre kjent med dem!"
 excerpt: "Onlines kjernekomiteer har fått nye ledere. Her kan du bli bedre kjent med dem!"
 slug: "vi-har-fatt-nye-komiteledere"
 ---

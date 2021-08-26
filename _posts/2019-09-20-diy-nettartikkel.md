@@ -11,7 +11,6 @@ image_alt: "Bilde for en artikkel, INGEN ANDRE FÅR RØRE DEN ELLERS BLIR JEG SI
 author:
  - Peter Rydberg
 ingress: "Det er ikke alltid en stakkars nettredaktør som meg har tid eller blekk til å mane frem bokrull på bokrull av litterært innhold. Når gribbene sikler etter tørre vitser og framtvungne ordspill, er det lett å føle presset. Kan de ikke bare lese om kaffekoker’n en gang til? Derfor har jeg bestemt meg for å lage en definitiv oppskrift på hvordan man lager en nettartikkel - Peter style!"
-ingress_short: "Verdens beste oppskrift på hjemmebakt artikkel er endelig her!"
 excerpt: "Verdens beste oppskrift på hjemmebakt artikkel er endelig her!"
 slug: "diy-nettartikkel"
 photographer: "Peter Rydberg"

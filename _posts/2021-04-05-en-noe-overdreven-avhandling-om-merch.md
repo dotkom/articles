@@ -12,7 +12,6 @@ image_alt: "Literally en søppelhaug laget i vektor. Det blir ikke mer passende/
 author:
  - Aslak Hollund
 ingress: "Etter fem år på studiet, et par titalls bedriftsarrangementer, og utallige samtaler på stand gjør man seg opp noen tanker om merch. Under finner du et utvalg av disse."
-ingress_short: "Hva kan bedriftene gjøre bedre?"
 excerpt: "Hva kan bedriftene gjøre bedre?"
 slug: "en-noe-overdreven-avhandling-om-merch"
 photographer: "Peter Rydberg"

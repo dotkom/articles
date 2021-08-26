@@ -11,7 +11,6 @@ image_alt: "Det er jo bare nødvendig med maks én hatt, hvorfor har den flere? 
 author:
  - Peter Rydberg
 ingress: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
-ingress_short: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
 excerpt: "Jubileumet 2021 er i anmarsj og trenger engasjerte arrangører!"
 slug: "sok-jubileumskomiteen"
 photographer: "Peter Rydberg"

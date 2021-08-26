@@ -14,7 +14,6 @@ image_alt: "Tenkende type som sliter med hodet sitt"
 author:
  - Peter Rydberg
 ingress: "Jeg har den siste tiden blitt oppmerksom på at ikke alle har samme tankesett. Nei, jeg tenker ikke på “respekter andres ulike personligheter bla bla bla” og sånt tull. Her sikter jeg til det faktum at enkelte personer tenker med en fysisk stemme i hodet, mens andre personer er normale. Hvis slike utsagn fornærmer deg, eller du er mer forvirret enn en dement person på et trap-party, vil jeg bare anbefale deg å lese videre."
-ingress_short: "Hva foregår egentlig i hodene på folk?"
 excerpt: "Hva foregår egentlig i hodene på folk?"
 slug: "tenk-pa-det-du"
 photographer: "Peter Rydberg"

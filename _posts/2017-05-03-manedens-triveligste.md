@@ -11,7 +11,6 @@ image_alt: "Dag Frode Solberg"
 author:
  - Håvard Tollefsen
 ingress: "Ny måned betyr utdeling av ros der det hører hjemme. Og denne måneden er det Dag Frode Solberg som får hedersprisen!"
-ingress_short: "Månedens triveligste for april 2017!"
 excerpt: "Månedens triveligste for april 2017!"
 slug: "manedens-triveligste"
 photographer: "Endre Micael Austad Ulberg"

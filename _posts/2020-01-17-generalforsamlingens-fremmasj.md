@@ -11,7 +11,6 @@ image_alt: "\"Generalforsamlingen 2020\", står det, hva vil du ha av meg"
 author:
  - Peter Rydberg
 ingress: "Onlines generalforsamling 2020 nærmer seg, og mange lederkandidater venter nok spent på å få vise frem hva de har å tilby Online som ledere og/eller\\* medlem av Hovedstyret. I tillegg skal medlemmer av Fondstyret også velges, så dette blir en kveld med mange spennende appeller og personligheter! Noen sitter kanskje på kanten og lurer på om de skal stille til en rolle eller ikke. Andre er kanskje ikke klar over hvordan man i det hele tatt går frem for å stille under generalforsamlingen eller at de faktisk passer som leder selv. Det finnes ressurser som kan hjelpe deg!"
-ingress_short: "Har du spørsmål om valg og generalforsamling? Kontakt Valgkom!"
 excerpt: "Har du spørsmål om valg og generalforsamling? Kontakt Valgkom!"
 slug: "generalforsamlingens-fremmasj"
 photographer: "Peter Rydberg"

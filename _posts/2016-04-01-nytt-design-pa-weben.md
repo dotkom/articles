@@ -10,7 +10,6 @@ image_alt: "Et bilde av den nye grafiske profilen til ow4 slik den ble presenter
 author:
  - Nils Herde
 ingress: "Vi tester ut nytt design på Onlineweben og ønsker deres tilbakemeldinger!"
-ingress_short: "Vi tester ut nytt design og ønsker tilbakemeldinger!"
 excerpt: "Vi tester ut nytt design og ønsker tilbakemeldinger!"
 slug: "nytt-design-pa-weben"
 ---

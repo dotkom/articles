@@ -13,7 +13,6 @@ image_alt: "Blurry bilde av Hong Kong, spis meg spis meg æææ"
 author:
  - Peter Rydberg
 ingress: "Dette er siste del av en tredelt artikkel. [Del 1 kan du lese her](https://online.ntnu.no/article/93/ekskursjonen-2019-del-1/), og [del 2 kan du lese her.](https://online.ntnu.no/article/94/ekskursjonen-2019-del-2/)"
-ingress_short: "There and back again."
 excerpt: "There and back again."
 slug: "ekskursjonen-2019-del-3"
 photographer: "Peter Rydberg"

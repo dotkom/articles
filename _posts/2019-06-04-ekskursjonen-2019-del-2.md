@@ -13,7 +13,6 @@ image_alt: "downtown asker (1931) hahah"
 author:
  - Peter Rydberg
 ingress: "Dette er del 2 av en tredelt artikkel. [Forrige del kan du lese her.](https://online.ntnu.no/article/93/ekskursjonen-2019-del-1/)"
-ingress_short: "Eventyret fortsetter."
 excerpt: "Eventyret fortsetter."
 slug: "ekskursjonen-2019-del-2"
 photographer: "Peter Rydberg"

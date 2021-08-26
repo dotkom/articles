@@ -10,7 +10,6 @@ image_alt: "Hovedbygget på Gløshaugen en solfylt sommerdag."
 author:
  - Sverre Johann Bjørke
 ingress: "Kunnskapsdepartementet har bestemt at utvalget av høgare utdanningar skal strømlinjeformast for å bli meir oversikteleg. Det diskuterast no ei samanslåing mellom NTNU og høgskulane i Sør-Trøndelag, Gjøvik, Ålesund og Narvik."
-ingress_short: "I desse dagar diskuterast det for fullt kor vidt NTNU skal slå seg saman med fleire høgskular."
 excerpt: "I desse dagar diskuterast det for fullt kor vidt NTNU skal slå seg saman med fleire høgskular."
 slug: "ntnu-noreg-sitt-storste-universitet"
 ---

@@ -11,7 +11,6 @@ image_alt: "Online stilte med lag i Klovneløpet 2015, eller klovnestaffetten so
 author:
  - Hanna Sollie Storaker
 ingress: "Lagspiriten var på topp, og det var kostymene også!"
-ingress_short: "Lagspiriten var på topp, og det var kostymene også!"
 excerpt: "Lagspiriten var på topp, og det var kostymene også!"
 slug: "online-stilte-med-lag-i-arets-klovnelop"
 photographer: "Hanna Sollie Storaker"

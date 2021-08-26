@@ -15,7 +15,6 @@ image_alt: "Bilde av en person som tegner Dickbutt og er dyster og drikker Gator
 author:
  - Peter Rydberg
 ingress: "Det er den tiden av året! Redaksjonen har nok en gang arrangert sin svært uregelmessige arbeidskveld, åpne for alle onlinere med et snev av litterær fornemmelse. “Drikk og Kronikk” kaller vi det, med full forståelse for at de færreste av Onlines medlemmer egentlig vet hva en kronikk er for noe (inkludert meg selv). I skrivende stund har vi et oppmøte på intet mindre enn null ikke-medlemmer av redaksjonen, som er en reduksjon på om lag uendelig prosent siden forrige gang. Kvelden er også eldre enn hårsveisen til Will Smith, så jeg ser ikke for meg at det dukker opp stort mange flere videre. Derfor har vi i redaksjonen kommet opp med et par nye ideer for å få opp engasjementet blant onlinere som heller vil være hjemme og gråte seg til søvn."
-ingress_short: "Når kvelden ikke gikk helt som forventet."
 excerpt: "Når kvelden ikke gikk helt som forventet."
 slug: "drikk-og-oppmoteproblematikk"
 photographer: "Andrea Bach, Peter Rydberg"

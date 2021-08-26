@@ -11,7 +11,6 @@ image_alt: "Onlines årlige eksursjon gikk til asia, nærmere bestemt Kina, i 20
 author:
  - Peter Rydberg
 ingress: "Ekskursjonskomiteen 2019 gjennomfører nå en spørreundersøkelse for å ta hensyn til hvor onlinerne vil dra på ekskursjon neste år."
-ingress_short: "Stem over hvor du vil ekskursjonen 2019 skal være!"
 excerpt: "Stem over hvor du vil ekskursjonen 2019 skal være!"
 slug: "destinasjon-for-ekskursjonen-2019"
 ---

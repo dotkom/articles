@@ -13,7 +13,6 @@ image_alt: "Ekskom17"
 author:
  - Dag Frode Solberg
 ingress: "Ekskom 2017 gjennomfører en innsamling av mobiltelefoner, tablets og lignende små enheter med lagringsmedier. Innsamlingen holder på frem til starten av februar."
-ingress_short: "Bli med og hjelp ekskom17 med innsamlingsaksjon!"
 excerpt: "Bli med og hjelp ekskom17 med innsamlingsaksjon!"
 slug: "innsamlingsaksjon-med-ekskom-2017"
 ---

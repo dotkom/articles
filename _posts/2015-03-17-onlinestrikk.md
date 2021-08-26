@@ -11,7 +11,6 @@ image_alt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
 author:
  - Sverre Johann Bjørke
 ingress: "Du såg dei kanskje i Åre, Signe og Agnete ikledd stilige og nystrikka ullgenserar? Tenkte du \"Åh, ein slik har eg og lyst på!\"? Vel, då har vi gode nyheiter til deg, mønsteret og oppskrift er tilgjengeleg på Online-wikien!"
-ingress_short: "Strikk din eigen Onlinegenser!"
 excerpt: "Strikk din eigen Onlinegenser!"
 slug: "onlinestrikk"
 photographer: "Thor Håkon Bredesen"

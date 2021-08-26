@@ -11,7 +11,6 @@ image_alt: "Bendik og Lars er nylig valgt inn i Studenttinget."
 author:
  - Baldur Kjelsvik
 ingress: "Informatikk stiller med to representanter i årets studentting. Bendik Deraas og Lars Føleide er begge engasjerte studentpolitikere og gleder seg til å ta fatt på jobben."
-ingress_short: "Informatikk stiller med to representanter i årets studentting; Bendik Deraas og Lars Føleide."
 excerpt: "Informatikk stiller med to representanter i årets studentting; Bendik Deraas og Lars Føleide."
 slug: "mot-vare-tillitsvalgte"
 photographer: "Baldur Kjelsvik"

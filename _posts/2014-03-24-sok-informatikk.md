@@ -12,7 +12,6 @@ image_alt: "Hovedbygget på Gløshaugen, sett fra andre siden av broen ved Idret
 author:
  - Thor Håkon Bredesen
 ingress: "Vurderer du å søke informatikk på NTNU?"
-ingress_short: "Bli med å se hvordan det er på informatikk. Søknadsfrist er 15. april."
 excerpt: "Bli med å se hvordan det er på informatikk. Søknadsfrist er 15. april."
 slug: "sok-informatikk"
 video: 63722742

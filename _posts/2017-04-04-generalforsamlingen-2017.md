@@ -11,7 +11,6 @@ image_alt: "Generalforsamlingen"
 author:
  - Jonas Jevnaker Aas
 ingress: "Hvert år møtes de mange medlemmene av Online for å ta del i hvordan linjeforeningen skal styres neste år. Under generalforsamlingen går man blant annet gjennom vedtekter og budsjett, og ikke minst; det velges nytt hovedstyre."
-ingress_short: "Bli med på generalforsamlingen som i år holdes 25. april!"
 excerpt: "Bli med på generalforsamlingen som i år holdes 25. april!"
 slug: "generalforsamlingen-2017"
 photographer: "Thor Håkon Bredesen"

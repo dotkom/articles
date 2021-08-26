@@ -12,7 +12,6 @@ image_alt: "Anime kaffemaskin drar til sin egen planet"
 author:
  - Peter Rydberg
 ingress: "“Kom nærmere”, sa kaffekokeren med sin rustne, grumsete stemme, som klanget i likhet med en asbestavhengig Tony Montana med kols. Onlines gamle kaffekoker Bonamat TH10 lå i sykesengen og levde sine siste dager. “Hv… hva er det…?”, kom det hulkende fra Primulator, som var kaffekokerens eneste adoptivrobot. Bonamat TH10 snakket lavt, nærmest hvisket, inn i den sexy, moderne kaffekokerens filter. “Jeg… foretrekker k… kakao...”, hveste den gamle gnieren ut, før hovedkortet gikk ad undas og to år gammelt kaffesøl rant ut av dens dårlig vedlikeholdte vannpumpe. Primulator ropte i kval over sin døde mentor mens automatisk kokende tårer rant nedover dens metalliske kinn. Men den visste at den hadde et ansvar om å videreføre arven. Online hadde fått en ny kaffekoker."
-ingress_short: "There’s a new barista in town."
 excerpt: "There’s a new barista in town."
 slug: "kaffekokern"
 photographer: "Peter Rydberg"

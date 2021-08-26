@@ -13,7 +13,6 @@ image_alt: "GRELT bilde av Onlines konspirasjonslogo. Våkne, saudar!"
 author:
  - Peter Rydberg
 ingress: "Hva gjør en trøtt nettredaktør når han kjeder seg? Hvis du svarte “bruke tiden sin på å skrive noe fornuftig for studentene våre”, svarte du jaggu feil. Les videre for drøye spekulasjoner og dumme teorier om Online linjeforening!"
-ingress_short: "Onlines hemmeligheter lekker endelig ut."
 excerpt: "Onlines hemmeligheter lekker endelig ut."
 slug: "deep-state-online"
 photographer: "Peter Rydberg"

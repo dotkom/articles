@@ -12,7 +12,6 @@ image_alt: "Linjeforeningskoret C# og AdLib"
 author:
  - Andreas Drivernes og Baldur Kjelsvik
 ingress: "Datateknologis linjeforeningskor AdLib og Onlines C# har slått seg sammen og trenger nye sangere for å heve nivået, kosen og gleden! Bli med på åpen øving og finn ut at du digger det!"
-ingress_short: "Møt opp på EL2 kl 16.15 på torsdag"
 excerpt: "Møt opp på EL2 kl 16.15 på torsdag"
 slug: "apen-oving-med-c"
 photographer: "Online"

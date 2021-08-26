@@ -14,7 +14,6 @@ image_alt: "Da var jeg her igjen, prøver å finne på en morsom bildebeskrivels
 author:
  - Peter Rydberg
 ingress: "Er du informatiker, har du sikkert siklet over Prisjakts edle deler de siste par dagene. Det har jo vært Black Fri-, eh, Black Wee-, nei, Black Month! Alle nettbutikker og deres bestemødre har holdt store salg som om livene til deres kinesiske barnearbeidere sto på spill. Enten det er mobiltelefoni, 5-1 nyredialysemaskin med innebygget WiFi, eller Kari Traa-skjerf du kan bruke til pisk under lett BDSM, er det alltid noe som frister den jevne student. Hadde bare ikke salgene sugd hardere enn en Dyson: Red Light District Edition-støvsuger. Neida, jeg irriterer meg ikke over overforbruk eller materialisme som en eller annen basic SiD-skribent. Hvis du tror denne artikkelen handler om hvor mye jeg hater den kapitalistiske ånd, må du nemlig tro om igjen. Jeg slår absolutt ikke fra meg muligheten til å kjøpe morgendagens søppel om jeg tror jeg får en god pris for det. Dette handler derimot om hvor elendig Black Friday har blitt de siste årene, samt hvor rettferdiggjort det er at jeg blir irrasjonelt irritert over det."
-ingress_short: "Norges pinligste kapitalistiske høytid er over for denne gang."
 excerpt: "Norges pinligste kapitalistiske høytid er over for denne gang."
 slug: "smack-friday"
 photographer: "Peter Rydberg"

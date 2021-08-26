@@ -12,7 +12,6 @@ image_alt: "Team Åre logo"
 author:
  - Baldur Kjelsvik
 ingress: "DJ Lavterskel føler seg krenket, men ydmyk, idet han skal bære Onlines viktigste kulturarv videre mot nyåret."
-ingress_short: "Varm opp til Åre med Offlines artikkel om DJ Lavterskel!"
 excerpt: "Varm opp til Åre med Offlines artikkel om DJ Lavterskel!"
 slug: "offline-team-are-har-en-arvtager"
 photographer: "Øystein Hammersland, Carlo Alfredo Miguel Malaca Morte III"

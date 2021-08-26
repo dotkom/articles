@@ -8,7 +8,6 @@ modified_date: "2015-11-01T06:27:00.895050+01:00"
 author:
  - Kathrine Steffensen
 ingress: "Lørdag 4. oktober gikk programmeringskonkurransen Nordic Collegiate Programming Contest av stabelen på P15. 38 lag møtte opp for å rive seg i håret og spise pizza og løse flest mulig programmeringsoppgaver på 5 timer."
-ingress_short: "Årets NCPC skjedde."
 excerpt: "Årets NCPC skjedde."
 slug: "progging-og-pizza"
 ---

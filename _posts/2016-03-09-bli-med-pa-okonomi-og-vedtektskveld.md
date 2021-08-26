@@ -14,7 +14,6 @@ Fra venstre: Silje Sævig, Marius Thingwall, Hans-Kristian Seem Koren "
 author:
  - Agnete Djupvik
 ingress: "Generalforsamlingen finner sted 18. april. I forkant av dette ønsker vi å samle så mange Onlinere som mulig til å være med på å diskutere hvordan Online skal styres. Bli med, og si din mening!"
-ingress_short: "I forkant av generalforsamlingen samles vi for å diskutere hvordan Online skal styres. Bli med!"
 excerpt: "I forkant av generalforsamlingen samles vi for å diskutere hvordan Online skal styres. Bli med!"
 slug: "bli-med-pa-okonomi-og-vedtektskveld"
 video: 157723283

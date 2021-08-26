@@ -11,7 +11,6 @@ image_alt: "Nærbilde av brettspillet Game of Thrones"
 author:
  - Carlo Alfredo Malaca Miguel Morte III
 ingress: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld. Der hadde de funnet frem en stor stabel med ulike brettspill som alle hadde muligheten til å prøve på."
-ingress_short: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld."
 excerpt: "Søndag 31. januar arrangerte kort- og brettspillkomiteen sin første brettspillkveld."
 slug: "brettspillkveld-pa-p15"
 ---

@@ -13,7 +13,6 @@ author:
  - Anniken Syvertsen
  - Magne Slåtsveen
 ingress: "Hvert år på denne tiden arrangeres “En Psykt Vanlig Uke”, som er en type studentfestival hvor målet er å bidra til økt oppmerksomhet rundt psykisk helse i tillegg til å senke terskelen for å prate om det. En Psykt Vanlig Uke starter i dag (15.03) og varer frem til 21. mars. Arrangementene involverer alt fra joggetur, quiz og foredrag til spillkveld og filmkveld. Programmet finner du på [https://www.enpsyktvanliguke.com/](https://www.enpsyktvanliguke.com/), og arrangementene er åpne for alle. I år er temaet tilhørighet."
-ingress_short: "Tilhørighet: det å høre sammen med noe annet, høre til et sted; tilknytning"
 excerpt: "Tilhørighet: det å høre sammen med noe annet, høre til et sted; tilknytning"
 slug: "et-psykt-vanlig-ar"
 ---

@@ -11,7 +11,6 @@ image_alt: "Nibble med tekst over "
 author:
  - Håkon Solbjørg
 ingress: "\"Nibble\" er prosjektnavnet på betalingssystemet på kontoret. Det har stått på Onlinekontoret i omtrent et år nå, og forrige uke ble det lansert en helt ny versjon av systemet! Nå ønsker dotkom din feedback for å kunne gjøre det enda bedre."
-ingress_short: "Har du tilbakemelding til betalingssystemet på kontoret?"
 excerpt: "Har du tilbakemelding til betalingssystemet på kontoret?"
 slug: "dotkom-onsker-tilbakemelding-pa-nibble"
 ---

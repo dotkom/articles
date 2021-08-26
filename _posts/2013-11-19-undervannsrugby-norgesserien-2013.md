@@ -10,7 +10,6 @@ image_alt: "To personer kjemper om å putte en ball i en stålbøtte. Under vann
 author:
  - Nils Herde
 ingress: "Informatikk kan kombineres med diverse aktiviteter. Noen velger å kombinere studiene med undervannsrugby."
-ingress_short: "Informatikk kan kombineres med diverse aktiviteter. Hva med undervannsrugby?"
 excerpt: "Informatikk kan kombineres med diverse aktiviteter. Hva med undervannsrugby?"
 slug: "undervannsrugby-norgesserien-2013"
 ---

@@ -12,7 +12,6 @@ image_alt: "Christian smiler fornøyd i det lanseringen av Onlineweb4 nærmer se
 author:
  - Nils Herde
 ingress: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Hovedstyret har vært tilbakeholdne med informasjon, men i mørket hviskes det likevel om at dotKom nå endelig har klart det; Onlineweb4 er ferdig!"
-ingress_short: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Ta en titt!"
 excerpt: "Det siste halvannet året har det bak lukkede dører foregått noe hemmelig og storslått. Ta en titt!"
 slug: "onlineweb4-lever"
 photographer: "Håvard Slettvold"

@@ -11,7 +11,6 @@ image_alt: "Nye hovedstyret 2014"
 author:
  - Sverre Johann Bjørke
 ingress: "Kanskje den viktigaste hendinga i året, Generalforsamlinga, nærmar seg med stormskritt. Kvifor skal nettopp du kome på genfors?"
-ingress_short: "Generalforsamlinga nærmar seg med stormskritt!"
 excerpt: "Generalforsamlinga nærmar seg med stormskritt!"
 slug: "generalforsamlinga-2015"
 photographer: "Thor Håkon Bredesen"

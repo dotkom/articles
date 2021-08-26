@@ -12,7 +12,6 @@ image_alt: "Generalforsamlingen"
 author:
  - Peter Rydberg
 ingress: "Onlines generalforsamling går snart av stabelen! Dette er kvelden hvor alle linjeforeningens medlemmer kan komme med innspill til organisasjonens fremgang det foregående året og vedta vedtekter for fremtiden. Ikke minst blir det valg av nye ledere og hovedstyre!"
-ingress_short: "Generalforsamlingen nærmer seg"
 excerpt: "Generalforsamlingen nærmer seg"
 slug: "generalforsamlingen-2019"
 photographer: "Thor Håkon Bredesen"

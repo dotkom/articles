@@ -11,7 +11,6 @@ image_alt: "Bilde for artikkel til eksponeringsgruppa"
 author:
  - Henrik Liodden
 ingress: "Eksponeringsgruppa er et nystartet prosjekt med mål om å fremme Online på sosiale medier. Gruppa tar opp nye medlemmer, så les videre for å se hvordan du kan engasjere deg!"
-ingress_short: "Les om det nye prosjektet og bli med!"
 excerpt: "Les om det nye prosjektet og bli med!"
 slug: "eksponeringsgruppa"
 ---

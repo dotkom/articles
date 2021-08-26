@@ -10,7 +10,6 @@ image_alt: "Kjellerne ved Moholt studentby er stengt på ubestemt tid grunnet d�
 author:
  - Baldur Kjelsvik
 ingress: "Brannvesenet har etter gjennomgang av brannsikkerheten ved kjellerne stengt lokalene fram til utbedringer er gjennomført. – Kjellerne er stengt på ubestemt tid, sier Realfagkjeller-sjef, Martin Bjerke"
-ingress_short: "Brannvesenet ikke fornøyd med brannsikkerheten til kjellerne."
 excerpt: "Brannvesenet ikke fornøyd med brannsikkerheten til kjellerne."
 slug: "moholt-kjellerne-stengt-ut-semesteret"
 photographer: "Wikipedia CC"

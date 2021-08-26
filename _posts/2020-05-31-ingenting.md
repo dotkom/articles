@@ -11,7 +11,6 @@ image_alt: "Jøss, for et kreativt navn på et bilde"
 author:
  - Peter Rydberg
 ingress: "Vi har vært gjennom noen lange uker og måneder. Tror jeg. Jeg har tross alt sovet gjennom halvparten. Da hele Norges lockdown supreme extravaganza begynte i mars, skrev jeg en [artikkel om hva man kan gjøre mens man sitter i karantene](https://online.ntnu.no/article/109/sa-du-har-havnet-i-karantene/). Jeg tok forbehold om at ikke alle var fullt så gira på å lage kunst av tåneglene sine som meg, men tips og triks til hva man kan gjøre når man kjeder seg ble godt mottatt den gang uansett. Nå kan jeg derimot tenke meg at folk sliter med å finne på ting igjen. Verden er rett og slett tom for alt annet enn oksygen og sneglelukt. Personlig merker jeg i alle fall at jeg kjeder lungene av meg for tiden. Da kan det være fint å vite hvordan man ikke gjør noe som helst. Derfor vil jeg skrive litt om hvordan man gjør ingenting på best mulig måte."
-ingress_short: "Her drøfter jeg hva det innebærer å gjøre absolutt ingenting."
 excerpt: "Her drøfter jeg hva det innebærer å gjøre absolutt ingenting."
 slug: "ingenting"
 photographer: "Peter Rydberg"

@@ -11,7 +11,6 @@ image_alt: "17.mai"
 author:
  - Jonas Jevnaker Aas
 ingress: "Det er klart for nasjonaldagen, og det frokost klart på kontoret. Sangheftene ligger spredt og det er tid for å feire 17.mai med Online!"
-ingress_short: "Frokost, sang og 17.mai-tog med Online. Hva blir vel bedre enn det?"
 excerpt: "Frokost, sang og 17.mai-tog med Online. Hva blir vel bedre enn det?"
 slug: "17mai-med-online"
 photographer: "Endre Micael Austad Ulberg"

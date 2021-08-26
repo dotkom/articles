@@ -11,7 +11,6 @@ image_alt: "onlines linjeband"
 author:
  - Hanne Brynildsrud
 ingress: "Jeg tok en liten prat med Adrian Leren og Eirik Baug som er i gang med å starte opp et eget linjeband til linjeforeningen. Foreløpig har de gitar og bass i bandet, men ser etter noen entusiastiske hobbymusikere som ønsker å bli med på dette prosjektet."
-ingress_short: "Prosessen med å starte Onlines linjeband er i gang."
 excerpt: "Prosessen med å starte Onlines linjeband er i gang."
 slug: "mot-onlines-nye-linjeband"
 photographer: "Hanne Brynildsrud"

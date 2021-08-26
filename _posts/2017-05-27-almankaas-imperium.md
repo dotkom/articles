@@ -11,7 +11,6 @@ image_alt: "Almankaas' imperium"
 author:
  - Agnete Djupvik
 ingress: "I disse dager skjer det en stille revolusjon på P15. SiT er i harnisk over tapte inntekter fra Dagens baguetter, og selv Onlinekontoret har kjent på kroppen at salget av Mama-nudler har gått ned med hele 6 kroner. Møt gutta bak storsuksessen."
-ingress_short: "Få et eksklusivt innblikk i lunsjrevolusjonen på P15"
 excerpt: "Få et eksklusivt innblikk i lunsjrevolusjonen på P15"
 slug: "almankaas-imperium"
 photographer: "Agnete Djupvik"

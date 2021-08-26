@@ -12,7 +12,6 @@ image_alt: "Tord Standnes månedens triveligste"
 author:
  - Jonas Jevnaker Aas
 ingress: "Det er Tord Standnes som pryder hylla på kontoret som månedens triveligste for september!"
-ingress_short: "Månedens triveligste for september 2017!"
 excerpt: "Månedens triveligste for september 2017!"
 slug: "manedens-triveligste"
 ---

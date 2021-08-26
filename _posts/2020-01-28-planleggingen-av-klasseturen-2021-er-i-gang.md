@@ -11,7 +11,6 @@ image_alt: "To staute karer med projektor i trynet. Tidenes ekskursjon!"
 author:
  - Liam Svanåsbakken Crouch
 ingress: "Ekskursjonen er en årlig klassetur til utlandet, for de som er i 3. klasse eller opp. Årets ekskursjon skal til Sør-Korea og Japan. Hvor neste års ekskursjon skal, må du nesten bare følge med om!"
-ingress_short: "Ekskursjonskomiteen 2021 har fått fart på sakene!"
 excerpt: "Ekskursjonskomiteen 2021 har fått fart på sakene!"
 slug: "planleggingen-av-klasseturen-2021-er-i-gang"
 photographer: "Ekskom"

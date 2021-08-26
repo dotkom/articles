@@ -11,7 +11,6 @@ image_alt: "Thor Håkon, Pia og Caroline stilte til valg for lederrollen av Onli
 author:
  - Sverre Johann Bjørke
 ingress: "Generalforsamlingen nærmer seg stadig. Noe av det mest spennende som skal skje på generalforsamlingen er valget av ny leder. Denne personen skal ikke bare styre skuta trygt, men og stake ut nye og spennende kurser."
-ingress_short: "Snart skal ny leder av Online velges."
 excerpt: "Snart skal ny leder av Online velges."
 slug: "disse-tre-vil-lede-online"
 photographer: "Kathrine Steffensen"

@@ -11,7 +11,6 @@ image_alt: "Bilde av masse is og en klokke og no greier"
 author:
  - Peter Rydberg
 ingress: "Åre-påmeldingen minner om julaften. Mennesker samler seg, spenningen og forventningene stiger, mamma blir skuffet i år igjen og noen gråter i et hjørne på slutten av kvelden. Å melde seg på Online-turen til Åre er ikke som andre påmeldinger. Man går nemlig gjennom stadier av påmeldingen, da man gjerne vil sikre seg plass før serverne eksploderer og arrangementet blir fullt. Det begynner i morgen. Gjør deg klar."
-ingress_short: "Hva skjer de siste fem minuttene før Åre-påmeldingen?"
 excerpt: "Hva skjer de siste fem minuttene før Åre-påmeldingen?"
 slug: "a-melde-seg-pa-aretur"
 photographer: "Peter Rydberg"

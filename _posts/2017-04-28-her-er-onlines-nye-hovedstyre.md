@@ -13,7 +13,6 @@ image_alt: "Det nye Hovedstyret!  "
 author:
  - Jonas Jevnaker Aas
 ingress: "Under generalforsamlingen ble følgende gjeng valgt inn det nye Hovedstyret. Gratulerer så mye!"
-ingress_short: "Disse ble valgt inn det nye Hovedstyret!"
 excerpt: "Disse ble valgt inn det nye Hovedstyret!"
 slug: "her-er-onlines-nye-hovedstyre"
 photographer: "Thor Håkon Bredesen"

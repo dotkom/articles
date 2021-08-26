@@ -11,7 +11,6 @@ image_alt: "Ølbrygging med Ontap"
 author:
  - Jonas Jevnaker Aas
 ingress: "En av Onlines nyeste interessegrupper, Ontap, holdt i dag sitt første bryggekurs, ledet av Tord Standnes."
-ingress_short: "Les om Ontaps første bryggekurs!"
 excerpt: "Les om Ontaps første bryggekurs!"
 slug: "ontaps-forste-bryggekurs"
 photographer: "Endre Micael Austad Ulberg"

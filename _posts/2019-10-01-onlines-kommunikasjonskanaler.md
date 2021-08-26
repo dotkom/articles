@@ -11,7 +11,6 @@ image_alt: "Bilde av en Online-kalender, hva mer vil du ha av beskrivelse lzm wh
 author:
  - Benedicte Myrvoll
 ingress: "Som mange kanskje vet, skjer det utrolig mye gøy i Online, og kalenderen er alltid full av arrangementer man kan bli med på. Likevel byr det også på problemer da det er vanskelig å orientere seg i dette mylderet av fester, bedpreser, kurs og grillinger. Det fine er at vi faktisk har en god del informasjonskanaler dere kan bruke for å oppdatere dere på alt vi driver med. Under følger kanalene vi vil informere om."
-ingress_short: "Finn ut mer om Onlines kanaler for kommunikasjon!"
 excerpt: "Finn ut mer om Onlines kanaler for kommunikasjon!"
 slug: "onlines-kommunikasjonskanaler"
 photographer: "Benedicte Myrvoll"

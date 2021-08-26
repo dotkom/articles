@@ -13,7 +13,6 @@ image_alt: "Bilde til artikkel om byggeplass, liksom why why why"
 author:
  - Peter Rydberg
 ingress: "Hva er vel bedre enn å komme tilbake fra ferien til det uendelige byggeprosjektet på Gløshaugen, steinbruddet som bare blir dypere? Tja, kan helt ærlig tenke meg ganske så mye, som for eksempel ting som involverer to kilo påtent kattehår under en konkurranse om å spise flest mugne østers. All denne byggingen er ikke bra for oss late Onlinere."
-ingress_short: "Byggearbeidet vil ingen ende ta"
 excerpt: "Byggearbeidet vil ingen ende ta"
 slug: "gloshaugen-byggeplass"
 photographer: "Peter Rydberg"

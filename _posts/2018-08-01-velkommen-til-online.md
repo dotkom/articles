@@ -10,7 +10,6 @@ image_alt: "17 mai bilde"
 author:
  - Hanne Brynildsrud
 ingress: "Ferien nærmer seg slutten, noe som betyr nytt semester, nytt storstipend og nye studenter! Dersom du nylig har kommet inn på bachelor i informatikk eller skal begynne på master, vil jeg gratulere deg med opptak og samtidig ønske deg velkommen til linjeforeningen vår, Online!"
-ingress_short: "Nå er det ikke lenge igjen til semesterstart!"
 excerpt: "Nå er det ikke lenge igjen til semesterstart!"
 slug: "velkommen-til-online"
 ---

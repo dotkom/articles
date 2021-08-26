@@ -10,7 +10,6 @@ image_alt: ""
 author:
  - Signe Elise Livgard
 ingress: "En gang i året samles alle onlinere for å bestemme hvilken retning Online skal ta det neste året. Generalforsamlingen er linjeforeningens høyeste organ, og her gjennomgås vedtekter, regnskap, budsjett og det velges nytt hovedstyre. I år holdes generalforsamlingen mandag 18. april."
-ingress_short: "Mandag 18. april er kanskje den viktigste dagen i Online i løpet av året. Men hvorfor møte opp?"
 excerpt: "Mandag 18. april er kanskje den viktigste dagen i Online i løpet av året. Men hvorfor møte opp?"
 slug: "generalforsamlingen-2016"
 photographer: "Signe Elise Livgard"

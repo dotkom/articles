@@ -10,7 +10,6 @@ image_alt: "Focault pendelen på realfagbygget har veltet alle pinnene."
 author:
  - Nils Herde
 ingress: "Det er ingen tvil om at den beryktede pendelen i Realfagbygget er en av Trondheims største attraksjoner. Det er alltid like fascinerende å observere den magiske kulen velte de pent oppstilte pinnene en etter en til de ligger grå og kalde på gulvet. Men hvem er det egentlig som bringer disse pinnene opp i posisjon før solen treffer Sentralbygg 2?"
-ingress_short: "Hvordan gjenoppstår de magiske pinnene egentlig fra de døde?"
 excerpt: "Hvordan gjenoppstår de magiske pinnene egentlig fra de døde?"
 slug: "pendelmysteriet"
 ---

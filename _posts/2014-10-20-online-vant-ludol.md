@@ -11,7 +11,6 @@ image_alt: "Kjelleren arrangerte Ludøl, som Online vant fortjent."
 author:
  - Sverre
 ingress: "Online tok seieren for tredje år på rad da Realfagskjelleren feiret ludøl sin 27. bursdag!"
-ingress_short: "For tredje året på rad vant Online i den edle kjellersporten."
 excerpt: "For tredje året på rad vant Online i den edle kjellersporten."
 slug: "online-vant-ludol"
 ---

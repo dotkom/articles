@@ -9,7 +9,6 @@ image_alt: "jul"
 author:
  - 
 ingress: "Ta deg en liten pause fra eksamenslesningen og bli med på Offlines julequiz!"
-ingress_short: "Bli med på Offlines julequiz!"
 excerpt: "Bli med på Offlines julequiz!"
 slug: "offlines-julequiz"
 ---

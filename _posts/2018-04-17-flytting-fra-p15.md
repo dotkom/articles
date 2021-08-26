@@ -11,7 +11,6 @@ image_alt: "Bilde av P15"
 author:
  - Aslak Hollund
 ingress: "TL;DR: Vi mister femte etasje fra 30. april. Vi får plasser på Tyholt fra 3. mai. Neste semester er vi i Realfagbygget."
-ingress_short: "OPPDATERING: Vi har fått midlertidige lokaler på Tyholt for eksamensperioden!"
 excerpt: "OPPDATERING: Vi har fått midlertidige lokaler på Tyholt for eksamensperioden!"
 slug: "flytting-fra-p15"
 photographer: "Endre Ulberg"

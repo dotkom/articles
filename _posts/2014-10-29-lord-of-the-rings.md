@@ -12,7 +12,6 @@ image_alt: "Hver faddergruppe fikk tildelt en scene fra Ringnes Herre-triologien
 author:
  - Thor Håkon Bredesen
 ingress: "Under fadderukene fikk unge og lovende fadderbarn i oppdrag å spille inn en scene fra Ringenes Herre-filmene. Dette gjorde mange av gruppene med stor kreativitet."
-ingress_short: "Endelig er den her! Ringenes Herre tolket av ferske fadderbarn!"
 excerpt: "Endelig er den her! Ringenes Herre tolket av ferske fadderbarn!"
 slug: "lord-of-the-rings"
 video: 110293648

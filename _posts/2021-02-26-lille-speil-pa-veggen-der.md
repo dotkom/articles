@@ -13,7 +13,6 @@ image_alt: "Disse godkarene peker på hverandre, men hva er det?! En dårlig pho
 author:
  - Peter Rydberg
 ingress: "Ok, noe er galt her. Enten lever hele Onlines redaksjon i en forvridd episode av The Twilight Zone, ellers finnes det en liten, gnagende rotte blant oss som deler alle våre mest hemmelige… hemmeligheter. Er du onliner eller abakule og leser dette her, har du kanskje ikke lagt merke til noe galt. De fleste studenter leser jo tross alt bare magasinet til *sin* linjeforening, som om de var noen partiske huleboere. Sitater på den der er sikkert ikke nødvendig. Hva er så problemet? Gjennom tidene har det nemlig vært en tendens av… ahem, “utilsiktet artikkelbytte” mellom ʀeadme (liten 'r') og Offline. Eller, som andre ville kalt det, kopiering. Artikler og bilder som blir laget til én utgave kan plutselig dukke opp i tilsvarende utgave fra den konkurrerende redaksjonen. Hvorfor skjer dette så ofte? Er det plagiat ute og går?"
-ingress_short: "Har Offline en tyster i rekkene?"
 excerpt: "Har Offline en tyster i rekkene?"
 slug: "lille-speil-pa-veggen-der"
 photographer: "Peter Rydberg"

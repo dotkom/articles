@@ -12,7 +12,6 @@ image_alt: "August er enehersker, all hail August"
 author:
  - Peter Rydberg
 ingress: "Det skjer igjen. Om ikke lenge skal Norges runner-up til hovedstad nok en gang fylles til randen med studenter, i likhet med en døgnåpen Burger King med ledig gulvplass. Enten du er lommekjent i Trondheim eller helt fersk blant byens fire gater, oppleves det alltid som magisk å finne seg til rette i studentlivet på starten av semesteret."
-ingress_short: "Trondheim savner studentene sine"
 excerpt: "Trondheim savner studentene sine"
 slug: "its-go-time"
 ---

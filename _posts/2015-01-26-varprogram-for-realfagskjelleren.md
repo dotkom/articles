@@ -10,7 +10,6 @@ image_alt: "Logo for realfagkjelleren"
 author:
  - Sverre Johann Bjørke
 ingress: "I tillegg til fredagsåpent hver fredag har Realfagskjelleren som alltid mange spennende arrangement, og dette semesteret er selvsagt ikke et unntak."
-ingress_short: "Realfagskjelleren har mange kule arrangementer dette semesteret!"
 excerpt: "Realfagskjelleren har mange kule arrangementer dette semesteret!"
 slug: "varprogram-for-realfagskjelleren"
 ---

@@ -13,7 +13,6 @@ image_alt: "Uten et møtepunkt som kjellerne vil studenttilværelsen bli dårlig
 author:
  - Baldur Kjelsvik
 ingress: "Linjeforeningene er i harnisk, Samfundet-lederen bekymret, og Faddersjefene i knipe. Studentkjellerne er stengt på ubestemt tid, og studenter undrer: Vil de noen gang bli åpnet igjen?"
-ingress_short: "Kjellerne er stengt, og det blir dyrt å gjenåpne dem. Bør vi likevel åpne lommeboka?"
 excerpt: "Kjellerne er stengt, og det blir dyrt å gjenåpne dem. Bør vi likevel åpne lommeboka?"
 slug: "offline-hvorfor-bor-kjellerne-gjenapnes"
 photographer: "Vebjørn Sletta"

@@ -13,7 +13,6 @@ image_alt: "Bilde til artikkel om å dytte et badekar i vannet (selv om vann ege
 author:
  - Peter Rydberg
 ingress: "Livet er mer enn non-stop festing og alkohol. Livet er badekarpadling over Nidelven også. Det var det bestefar sa til meg."
-ingress_short: "Bli med på badekarpadling!"
 excerpt: "Bli med på badekarpadling!"
 slug: "badekarpadling"
 photographer: "Peter Rydberg"

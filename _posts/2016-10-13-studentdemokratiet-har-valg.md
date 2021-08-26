@@ -15,7 +15,6 @@ image_alt: "Inngangen til Studentdemokratiet ved NTNU: Her hører både Studentt
 author:
  - Signe Elise Livgard og Trine-Lise Helgesen
 ingress: "Enten du er fersk student eller har vanket i gangene på P15 i noen år, så er det en ting du bør lære deg først som sist, nemlig hvordan studentdemokratiet fungerer. Frist for studenttinget er allerede 14. oktober!"
-ingress_short: "Hvem er dine tillitsvalgte? Kan jeg stille? Hvor finner jeg hjelp?"
 excerpt: "Hvem er dine tillitsvalgte? Kan jeg stille? Hvor finner jeg hjelp?"
 slug: "studentdemokratiet-har-valg"
 photographer: "Vebjørn Sletta"

@@ -14,7 +14,6 @@ author:
 ingress: "Bildet fra venstre: David Attenborough, Kent (Kontorvakt mandag 10-11) , Marius (Kontorvakt mandag 11-12)
 
 Nå er det duket og klart for seriefrokost igjen, noe som er den beste starten på uken noen som helst oppegående mennesker kan få."
-ingress_short: "Nå er det endelig klart for seriefrokost igjen - Kontorvakten er på plass."
 excerpt: "Nå er det endelig klart for seriefrokost igjen - Kontorvakten er på plass."
 slug: "seriefrokost-guds-gave-til-online"
 ---

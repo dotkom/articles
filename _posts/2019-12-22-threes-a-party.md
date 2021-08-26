@@ -13,7 +13,6 @@ image_alt: "Etter årevis med neglekt og mentale traumer på fosterhjemmet, får
 author:
  - Peter Rydberg
 ingress: "Mange har allerede fått det med seg. Filmen Cats er ute og er en mer ubehagelig opplevelse enn å spise en hårball med juleribbe til middag. Nei, vent, det var ikke dét denne artikkelen skulle handle om. Den skal handle om at nyåret bringer nye fjes til A-blokka, da linjeforeningen TIHLDE får sitt kontor blant oss. Det blir spennende! I likhet med tiden etter  filmen Cats, er det sikkert mange som har spørsmål. Hvem er disse folkene? Kan vi gå trygt mellom arealene våre? Er furries virkelig et problem vi må håndtere på daglig basis? Mye av dette kan nok ikke svares på med det første, men jeg skal forsøke forklare situasjonen og berolige deg etter beste evne."
-ingress_short: "A-blokka ønsker TIHLDE velkommen!"
 excerpt: "A-blokka ønsker TIHLDE velkommen!"
 slug: "threes-a-party"
 photographer: "Peter Rydberg"

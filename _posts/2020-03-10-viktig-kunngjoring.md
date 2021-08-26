@@ -9,7 +9,6 @@ image_alt: ""
 author:
  - Hovedstyret
 ingress: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
-ingress_short: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
 excerpt: "Viktig kunngjøring vedrørende Onlines arrangementer framover"
 slug: "viktig-kunngjoring"
 ---

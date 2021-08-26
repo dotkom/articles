@@ -12,7 +12,6 @@ image_alt: "Bilde til artikkelen om generalforsamlingen 2018"
 author:
  - Peter Rydberg
 ingress: "Om kun kort tid braker det løs når generalforsamlingen 2018 skal avholdes nok en gang. På denne kvelden samles onlinere fra alle årstrinn for å diskutere Onlines saker, vedtekter, økonomi og valg av nytt hovedstyre."
-ingress_short: "Generalforsamlingen avholdes 5. mars klokken 16.15 i R9"
 excerpt: "Generalforsamlingen avholdes 5. mars klokken 16.15 i R9"
 slug: "generalforsamlingen-2018"
 ---

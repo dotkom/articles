@@ -11,7 +11,6 @@ image_alt: "Agnete og Signe står bak de flotteste strikkegenserene på haugen."
 author:
  - Nils Herde
 ingress: "Onlines analoge hjertebarn har i all hemmelighet passert sin 10. utgivelse. Da er det på sin plass med en liten mimrestund!"
-ingress_short: "Hva gjør man når Onlines minst digitale feirer år?"
 excerpt: "Hva gjør man når Onlines minst digitale feirer år?"
 slug: "offline-har-gitt-ut-sin-10-utgave"
 photographer: "Thor Håkon Bredesen"

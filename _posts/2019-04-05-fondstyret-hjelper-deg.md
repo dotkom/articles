@@ -12,7 +12,6 @@ image_alt: "en tekst hvor det står \"Fondstyret schnelper de-\", jeg mener, \"F
 author:
  - Peter Rydberg
 ingress: "Etter at Fondstyret ble opprettet for litt over ett år siden, har onlinere fått en ny kanal for økonomisk støtte til ulike prosjekter og aktiviteter med passende hensikt. Hva er egentlig Fondstyret, og hvordan kan man gå frem for å benytte seg av det?"
-ingress_short: "Søk om penger fra Onlines fond til ditt prosjekt!"
 excerpt: "Søk om penger fra Onlines fond til ditt prosjekt!"
 slug: "fondstyret-hjelper-deg"
 photographer: "Peter Rydberg"

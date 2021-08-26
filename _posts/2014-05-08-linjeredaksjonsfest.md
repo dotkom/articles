@@ -11,7 +11,6 @@ image_alt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen
 author:
  - Thor Håkon Bredesen
 ingress: "Forrige uke ble Gullblekka, prisutdelingen for linjeforeningsredaksjonene på Gløshaugen, arrangert for første gang. Offline tok tre priser."
-ingress_short: "Offline gjorde det bra under Gullblekka."
 excerpt: "Offline gjorde det bra under Gullblekka."
 slug: "linjeredaksjonsfest"
 photographer: "Thor Håkon Bredesen"

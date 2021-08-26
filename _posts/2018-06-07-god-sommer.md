@@ -13,7 +13,6 @@ image_alt: "Random bilde til artikkel"
 author:
  - Peter Rydberg
 ingress: "Sommeren har ankommet og informatikerne sprer seg for alle vinder. Hva har vi nå å se frem til? Er årets varme måneder kun bestående av mais-våte tacolefser og overpriset Corona? Jada. Men det er også mye mer enn som så."
-ingress_short: "Online ønsker deg en fortreffelig sommerferie!"
 excerpt: "Online ønsker deg en fortreffelig sommerferie!"
 slug: "god-sommer"
 photographer: "Peter Rydberg"

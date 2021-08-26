@@ -11,7 +11,6 @@ image_alt: "velkom- og ekskomleder"
 author:
  - Hanne Brynildsrud
 ingress: "Våre nye velkom- og ekskom-ledere har blitt valgt, gratulerer til Charlotte Söderström og Petter Rein!"
-ingress_short: "Nå har Online opptak til velkom og eksom. Husk å søke før 23.februar!"
 excerpt: "Nå har Online opptak til velkom og eksom. Husk å søke før 23.februar!"
 slug: "ny-velkom-og-ekskomleder"
 ---

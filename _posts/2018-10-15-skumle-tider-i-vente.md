@@ -14,7 +14,6 @@ image_alt: "Skelly sliter med å finne samf"
 author:
  - Peter Rydberg
 ingress: "Det er jaggu ikke lenge til fryktelige monstre og skumle klovner bak buskene blir et helt vanlig syn i Trondheims gater. Nei, dette er ikke en artikkel om Jehovas vitner. Det er nemlig Halloween (eller “Allehelgensaften”, for deg med kamferdrops i neseborene) om kun et par uker. Dette er tiden hvor studenter kan gjenoppleve barndommen ved å kle seg ut som horete versjoner av Moana og Dwayne Johnson. Men hvordan skal begivenheten *egentlig* feires?"
-ingress_short: "Halloween kommer. Be prepared."
 excerpt: "Halloween kommer. Be prepared."
 slug: "skumle-tider-i-vente"
 photographer: "Peter Rydberg"

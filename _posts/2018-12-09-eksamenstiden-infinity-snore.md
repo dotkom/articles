@@ -14,7 +14,6 @@ image_alt: "Selvgod type med mentale problemer"
 author:
  - Peter Rydberg
 ingress: "Eksamenstiden har bare vært vår plage i et par uker, men mange av oss leker nok allerede med tanken om å gjøre Elon Musk “tjenester” for muligheten til å bo på Mars i ubestemt tid. Ingenting er verre enn å grave seg ned i en lærebok på størrelse med et rekkehus fra Sovjet mens sidemannen knasker på kreftfremkallende chilinøtter og hvitløk. Immanuel Kan(t) ta seg en bolle. Hvordan overlever man denne tiden med uløselige algoritmer, snufsende studenter og underprisede nudler fra Thailand?"
-ingress_short: "Eksamen gon’ give it to ya"
 excerpt: "Eksamen gon’ give it to ya"
 slug: "eksamenstiden-infinity-snore"
 photographer: "Peter Rydberg"

@@ -12,7 +12,6 @@ image_alt: "Readme på scenen under gullblokka, linjeforeningsredaksjonenes egen
 author:
  - Kathrine Steffensen
 ingress: "Den 8. april ble linjeforeningsavisprisutdelingen Gullblekka arrangert på Klubben på Samfundet. Dette er andre gang utdelingen arrangeres, og også i år ble det en stor suksess."
-ingress_short: "8. april ble Gullblekka arrangert for andre gang!"
 excerpt: "8. april ble Gullblekka arrangert for andre gang!"
 slug: "prisutdeling-for-linjeforeningsavisene"
 photographer: "Thor Håkon Bredesen"

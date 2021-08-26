@@ -14,7 +14,6 @@ image_alt: "Jubileumskomiteen og Ingrid Vold avbildet av dusken.no"
 author:
  - Thor Håkon Bredesen
 ingress: "Tolvte november feirer Online 30 år som linjeforening. Det blir en heidundranes bankett med mat, drikke, sang, storband og stormannsgalskap. Før det skal vi ha en uke med gratisarrangementer for alle!"
-ingress_short: "Tiden er snart inne for å sparke i gang jubileumsuken!"
 excerpt: "Tiden er snart inne for å sparke i gang jubileumsuken!"
 slug: "en-uke-med-jubileum"
 photographer: "Synne Eggum Myrvang, Under Dusken"

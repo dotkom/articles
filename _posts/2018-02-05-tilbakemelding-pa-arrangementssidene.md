@@ -10,7 +10,6 @@ image_alt: "Arrangementer med overlay"
 author:
  - Torjus Iveland
 ingress: "Har du tilbakemelding til arrangementssidene på nettsiden? Dotkom har startet et lite prosjekt på å refaktorere arrangementssidene på nettsiden."
-ingress_short: "Har du tilbakemelding til arrangementssidene på nettsiden?"
 excerpt: "Har du tilbakemelding til arrangementssidene på nettsiden?"
 slug: "tilbakemelding-pa-arrangementssidene"
 ---

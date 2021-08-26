@@ -13,7 +13,6 @@ image_alt: "Jeg kan ikke stå inne for å ha lastet opp dette, Magne har all sky
 author:
  - Magne Slåtsveen
 ingress: "Ingen sa det skulle være lett å være komitéleder, men ingen sa det skulle være enda vanskeligere å ha litt kontroversielle meninger i tillegg. Det har i det siste versert noen hashtagger i Prokomslacken som hinter til at min popularitet har falt som en sten etter ledervalget."
-ingress_short: "Mat til ditt fat. Hvordan tilte verden med dine preferanser."
 excerpt: "Mat til ditt fat. Hvordan tilte verden med dine preferanser."
 slug: "sa-noen-makrellgutta"
 photographer: "Magne Slåtsveen"

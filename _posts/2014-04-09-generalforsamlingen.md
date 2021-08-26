@@ -11,7 +11,6 @@ image_alt: "Nye hovedstyret 2014"
 author:
  - Thor Håkon Bredesen
 ingress: "Natt til onsdag forrige uke ble generalforsamlingen 2014 hevet og Online hadde fått sitt nye hovedstyre for skoleåret 2014/2015."
-ingress_short: "Onlines generalforsamling endte med nytt hovedstyre."
 excerpt: "Onlines generalforsamling endte med nytt hovedstyre."
 slug: "generalforsamlingen"
 photographer: "Thor Håkon Bredesen"

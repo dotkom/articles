@@ -12,7 +12,6 @@ image_alt: "Søk velkom, ekskom eller appkom!"
 author:
  - Jonas Jevnaker Aas
 ingress: "Tre av nodekomiteene har nå opptak. Er du en motivert onliner som har lyst til å bidra? Søknadsfristen er 26. februar!"
-ingress_short: "Nå har Online opptak til velkom, ekskom og appkom. Søk innen 26. februar!"
 excerpt: "Nå har Online opptak til velkom, ekskom og appkom. Søk innen 26. februar!"
 slug: "sok-velkom-ekskom-eller-appkom"
 video: 204521926

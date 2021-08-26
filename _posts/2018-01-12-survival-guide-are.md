@@ -11,7 +11,6 @@ image_alt: "åre"
 author:
  - Hanne Brynildsrud
 ingress: "Er du enda ikke lei av å høre om ÅREts tur, ÅREts store happening, ÅREts sjukeste vintereventyr? Frykt ikke! Her kommer det enda en siste, lille krampetrekning med leveregler du bør prøve å følge når du setter deg på bussen i retning ÅREts store happening, dersom du har et håp om å komme deg hjem igjen."
-ingress_short: "Enda ikke lei av ÅREts dårligste ordspill?"
 excerpt: "Enda ikke lei av ÅREts dårligste ordspill?"
 slug: "survival-guide-are"
 ---

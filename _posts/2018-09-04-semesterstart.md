@@ -15,7 +15,6 @@ image_alt: "Bilde av meg som spiser søle"
 author:
  - Peter Rydberg
 ingress: "Sommeren er over. Man skulle nesten ikke tro det, med tanke på den syke varmen og det hissige magmaregnet Norge har opplevd de siste tre månedene, men sommeren er faktisk over. Med høstens ankomst har vi studenter også fått ansvar for å returnere tilbake til hverdagen. Huff."
-ingress_short: "Ferien er over og høsten har kommet"
 excerpt: "Ferien er over og høsten har kommet"
 slug: "semesterstart"
 photographer: "Hanne Brynildsrud, Peter Rydberg"

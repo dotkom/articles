@@ -10,7 +10,6 @@ image_alt: "Til artikkel om informasjon om sommerjobb"
 author:
  - Henrik Liodden
 ingress: "Fram til sommeren har IT-linjeforeningene i samarbeid jobbet med et tiltak for å gjøre noe med de stadig tidligere sommerjobbfristene. Nå har et konkret tiltak blitt utformet og dette trer i kraft fra høstsemesteret. Det er derfor viktig å lese informasjonen nedenfor da denne angår alle informatikere (og andre IT-studenter) som skal søke jobb i framtiden."
-ingress_short: "Informasjonsskriv for studenter som ønsker å søke sommerjobb til høsten."
 excerpt: "Informasjonsskriv for studenter som ønsker å søke sommerjobb til høsten."
 slug: "viktig-informasjon-angaende-sommerjobb-2020"
 ---

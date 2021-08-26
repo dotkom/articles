@@ -10,7 +10,6 @@ image_alt: "Seoul"
 author:
  - Julie Holte Motland
 ingress: "Som mange allerede har fått med seg så går ekskursjonen 2020 til Sør-Korea og Japan. Ekskursjonen byr på både akademiske kurs og kulturelle opplevelser. Samtidig er det en sosial tur hvor man får en ypperlig mulighet til å bli bedre kjent med sine medstudenter på kullet."
-ingress_short: "Det er fortsatt mulig å melde seg på ekskursjonen 2020, dette er en tur du ikke vil gå glipp av."
 excerpt: "Det er fortsatt mulig å melde seg på ekskursjonen 2020, dette er en tur du ikke vil gå glipp av."
 slug: "bli-med-pa-ekskursjonen-2020"
 ---

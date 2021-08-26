@@ -13,7 +13,6 @@ author:
  - Andrea Bach
 ingress: "Det vi alle har ventet på så lenge, har endelig skjedd. Linjeforeningene Abakus og Online slår seg sammen. Etter år med vennskap var det på tide å slå seg sammen til Abaline.  
 – Dette gir bare gode konsekvenser, sier tidligere leder i Online, Thor Håkon Bredesen."
-ingress_short: "Endelig har det skjedd - Abakus og Online slår seg sammen!"
 excerpt: "Endelig har det skjedd - Abakus og Online slår seg sammen!"
 slug: "abakus-og-online-slar-seg-sammen-1-april"
 ---

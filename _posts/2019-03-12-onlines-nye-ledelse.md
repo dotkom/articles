@@ -12,7 +12,6 @@ image_alt: "Bilde av Hovedstyret 2019 liksom, like what, seff er det det"
 author:
  - Peter Rydberg
 ingress: "Da var generalforsamlingen 2019 gjennomført, og Onlines gamle hovedstyre har, etter et helt år som komiteenes øverste organ, tredd av. Med det har leder, nestleder, økonomiansvarlig og nyvalgte komitéledere tatt over ansvaret for Hovedstyret for det kommende året. I tillegg har Fondstyret valgt nye medlemmer. Valgenes utfall med navn på de nye lederne kan du finne under."
-ingress_short: "Online har hatt valg!"
 excerpt: "Online har hatt valg!"
 slug: "onlines-nye-ledelse"
 photographer: "Peter Rydberg"

@@ -14,7 +14,6 @@ image_alt: "Easter Egg til quiz-artikkel"
 author:
  - Kent Are Torvik
 ingress: "Da er det endelig tid for påske og de fleste av oss tar litt velfortjent fri fra det kontinuerlige stresset forårsaket av underernæring og øvinger."
-ingress_short: "Påsken er høytid for å bli solbrent. Her har du tips til hva du kan gjøre mens du blir stekt."
 excerpt: "Påsken er høytid for å bli solbrent. Her har du tips til hva du kan gjøre mens du blir stekt."
 slug: "da-er-pasken-her-se-les-hor-og-quiz"
 ---
