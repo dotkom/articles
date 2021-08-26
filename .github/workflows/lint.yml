@@ -21,13 +21,16 @@ jobs:
         run: markdownlint .
 
   build-jekyll:
-    - name: Pull
-      uses: actions/checkout@v2
-    
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 3.0
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    
-    - name: Build
-      run: bundle exec jekyll build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pull
+        uses: actions/checkout@v2
+      
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      
+      - name: Build
+        run: bundle exec jekyll build
