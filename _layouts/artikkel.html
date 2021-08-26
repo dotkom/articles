@@ -40,7 +40,7 @@ layout: default
   <iframe src="https://player.vimeo.com/video/{{ page.video }}?portrait=0" allowFullScreen style="width: 100%; aspect-ratio: 16 / 9;"/>
   {% elsif page.image %}
   <figure>
-  <img src="{{ page.image | relative_url }}" alt="{{ page.imageAlt }}">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
   <figcaption>Fotograf: {{ page.photographer }}</figcaption>
   </figure>
   {% endif %}

@@ -28,6 +28,7 @@ url: https://dotkom.github.io # the base hostname & protocol for your site, e.g.
 domain: dotkom.github.io
 github_username: dotkom 
 permalink: /:categories/:year/:month/:day/:slug:output_ext
+show_excerpts: true
 
 # Build settings
 theme: minima

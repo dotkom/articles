@@ -46,7 +46,7 @@ articles.forEach(async a => {
         // escape " to allow usage in jekyll FrontMatter
         imageFilename = a.image.name.replace(/\//gm, "&#47;").replace(/"/gm, "\\\"").trim()
 
-        imageFrontMatter = `\nimage: "/assets/${imageFilename}.png"\nimageAlt: "${a.image.description.replace(/"/gm, "\\\"")}"`
+        imageFrontMatter = `\nimage: "/assets/${imageFilename}.png"\nimage_alt: "${a.image.description.replace(/"/gm, "\\\"")}"`
 
         await Deno.writeFile(`../assets/${imageFilename}.png`, new Uint8Array(d));
     }
@@ -63,7 +63,7 @@ date: "${a.published_date}"
 modified_date: "${a.changed_date}"${imageFrontMatter}
 author:${a.authors.split(",").map(auth => "\n - " + auth.trim()).join("")}
 ingress: "${a.ingress.replace(/\\/gm, "\\\\").replace(/"/gm, "\\\"").trim()}"
-ingress_Short: "${a.ingress_short.replace(/\\/gm, "\\").replace(/"/gm, "\\\"").trim()}"
+excerpt: "${a.ingress_short.replace(/\\/gm, "\\").replace(/"/gm, "\\\"").trim()}"
 slug: "${a.slug}"${video}${photographer}
 ---
 ${a.content.trim()}`;
