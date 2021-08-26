@@ -27,6 +27,7 @@ baseurl: /articles # the subpath of your site, e.g. /blog
 url: https://dotkom.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: dotkom.github.io
 github_username: dotkom 
+permalink: /:categories/:year/:month/:day/:slug:output_ext
 
 # Build settings
 theme: minima
