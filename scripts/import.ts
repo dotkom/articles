@@ -37,24 +37,39 @@ do {
 } while (url != null);
 
 articles.forEach(async a => {
+    let imageFilename = ""
+    let imageFrontMatter = ""
+    if (a.image) {
+        const r = await fetch(`https://online.ntnu.no${a.image.original}`);
+        const d = await r.arrayBuffer();
+        // HTML-escaped slash instead of slash to allow usage in filename
+        // escape " to allow usage in jekyll FrontMatter
+        imageFilename = a.image.name.replace(/\//gm, "&#47;").replace(/"/gm, "\\\"").trim()
+
+        imageFrontMatter = `\nimage: "/assets/${imageFilename}.png"\nimageAlt: "${a.image.description.replace(/"/gm, "\\\"")}"`
+
+        await Deno.writeFile(`../assets/${imageFilename}.png`, new Uint8Array(d));
+    }
+    
+    const photographer = a.image && a.image.photographer ? `\nphotographer: "${a.image.photographer}"` : "";
+    const video = a.video && `\nvideo: ${a.video}`
+
     const file =
         `---
 title: "${a.heading}"
-layout: post
-tags: ${a.tags.map(t => "\n - " + t)}
+layout: artikkel 
+tags: ${a.tags.map(t => `\n - ${t.trim()}`).join("")}
 date: "${a.published_date}"
-last_edited: "${a.changed_date}"
+modified_date: "${a.changed_date}"${imageFrontMatter}
+author:${a.authors.split(",").map(auth => "\n - " + auth.trim()).join("")}
+ingress: "${a.ingress.replace(/\\/gm, "\\\\").replace(/"/gm, "\\\"").trim()}"
+ingress_Short: "${a.ingress_short.replace(/\\/gm, "\\").replace(/"/gm, "\\\"").trim()}"
+slug: "${a.slug}"${video}${photographer}
 ---
-${a.ingress}
-
-![${a.image.description}](https://online.ntnu.no${a.image.original})
-
-${a.content}`;
+${a.content.trim()}`;
 
     const date = new Date(a.published_date);
-    const fileName = `../_posts/${date.getFullYear()}-${String(date.getMonth()+1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${a.heading.toLowerCase().replace(' ', '-')}.md`;
-    Deno.writeTextFileSync(fileName, file)
+    const fileName = `../_posts/${date.getFullYear()}-${String(date.getMonth()+1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${a.slug}.md`;
+    console.log(fileName);
+    await Deno.writeTextFile(fileName, file)
 })
-
-console.log("done")
-
