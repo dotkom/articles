@@ -57,7 +57,7 @@ articles.forEach(async a => {
     const file =
         `---
 title: "${a.heading}"
-layout: artikkel 
+layout: artikkel
 tags: ${a.tags.map(t => `\n - ${t.trim()}`).join("")}
 date: "${a.published_date}"
 modified_date: "${a.changed_date}"${imageFrontMatter}
