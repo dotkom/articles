@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om
+permalink: /om/
 ---
 
 Online er linjeforeningen for informatikkstudenter ved NTNU i Trondheim. Linjeforeningens oppgave er å forbedre studiemiljøet ved å fremme sosialt samvær, faglig kompetanse og kontakt med næringslivet.
