@@ -9,7 +9,7 @@ Burde ikke være nødvendig å kjøre etter første import.
 
 ```sh
 cd scripts
-deno run --allow-net --allow-write=../_posts import.ts
+deno run --allow-net --allow-write=../_posts,../assets import.ts
 ```
 
 ## How to run
