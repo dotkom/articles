@@ -1,7 +1,7 @@
 ---
 title: "Onlines nye drikkespill"
 layout: artikkel
-tags: 
+tags:
  - drikkespill
 date: "2021-03-08T16:00:00+01:00"
 modified_date: "2021-03-08T20:57:35.191620+01:00"
@@ -16,7 +16,9 @@ excerpt: "Drikkespillet er nå ute i PDF-format!"
 slug: "onlines-nye-drikkespill"
 photographer: "Peter Rydberg"
 ---
+
 PS: Trenger dere X-tra god stemning på fest? Prøv disse reglene!
 
- * **Blånekt = 6 straffeslurker**
- * **Hvis du slår 2-5 på terningen må du drikke antall slurker som det er prikker. 1 og 6 gjør at du kan dele ut!**
+- **Blånekt = 6 straffeslurker**
+- **Hvis du slår 2-5 på terningen må du drikke antall slurker som det er
+  prikker. 1 og 6 gjør at du kan dele ut!**
