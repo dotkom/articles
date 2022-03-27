@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,12 +21,12 @@
 title: Linjeforeningen Online
 email: prokom@online.ntnu.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Online er linjeforeningen for informatikkstudentene ved NTNU.
-  Våre studenter går Bachelor- eller Mastergradstudium i informatikk.
+  Online er linjeforeningen for informatikkstudentene ved NTNU. Våre studenter
+  går Bachelor- eller Mastergradstudium i informatikk.
 baseurl: /articles # the subpath of your site, e.g. /blog
 url: https://dotkom.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: dotkom.github.io
-github_username: dotkom 
+github_username: dotkom
 permalink: /:categories/:year/:month/:day/:slug:output_ext
 show_excerpts: true
 
