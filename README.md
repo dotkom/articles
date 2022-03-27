@@ -23,7 +23,7 @@ bundle exec jekyll serve
 ## How to write an article
 
 See [Creating posts](https://jekyllrb.com/docs/posts/#creating-posts). Before
-the markdown-contet, you should paste this default `FrontMatter`:
+the markdown-content, you should paste this default `FrontMatter`:
 
 ```yaml
 ---
@@ -52,6 +52,10 @@ photographer: "Ola Nordmann" # Photograf bak bildet
 # video: <VIMEO-ID>
 ---
 ```
+
+In terms of available Markdown-features, we use
+[CommonMark](https://commonmark.org), which sadly does lack certain features
+like footnotes.
 
 ## Linting
 
