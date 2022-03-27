@@ -40,7 +40,7 @@ articles.forEach(async (a) => {
   let imageFilename = "";
   let imageFrontMatter = "";
   if (a.image) {
-    const r = await fetch(`https://online.ntnu.no${a.image.original}`);
+    const r = await fetch(a.image.original);
     const d = await r.arrayBuffer();
     // HTML-escaped slash instead of slash to allow usage in filename
     // escape " to allow usage in jekyll FrontMatter
